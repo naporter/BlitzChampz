@@ -1,0 +1,1602 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-03-15T14:32:42.129-05:00
+  initializedAtString: 2021-03-15T14:27:55.580-05:00
+  entries:
+  - path: Assets\Plugins.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ArtifactDB
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Artifacts\01\016198a3cd7f0731b7c6e96c05a43b73
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\01\016198a3cd7f0731b7c6e96c05a43b73
+    projectPath: Library\Artifacts\01\016198a3cd7f0731b7c6e96c05a43b73
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\01\01d4ad0ba11be587578ccc94b5ccf3a6
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\01\01d4ad0ba11be587578ccc94b5ccf3a6
+    projectPath: Library\Artifacts\01\01d4ad0ba11be587578ccc94b5ccf3a6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\03\03220ec6940a4ce2e9da75b10380dc49
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\03\03220ec6940a4ce2e9da75b10380dc49
+    projectPath: Library\Artifacts\03\03220ec6940a4ce2e9da75b10380dc49
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\03\03255e8e45e81612c0a816b1a7c77c8d
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\03\03255e8e45e81612c0a816b1a7c77c8d
+    projectPath: Library\Artifacts\03\03255e8e45e81612c0a816b1a7c77c8d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\03\035dcda765ca05a16214879a478fad7c
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\03\035dcda765ca05a16214879a478fad7c
+    projectPath: Library\Artifacts\03\035dcda765ca05a16214879a478fad7c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\05\05de91dd4e1db3d167f75c6cacb930c2
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\05\05de91dd4e1db3d167f75c6cacb930c2
+    projectPath: Library\Artifacts\05\05de91dd4e1db3d167f75c6cacb930c2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\08\08f698b2f57eb2d2c8ed7c6f6af51b8d
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\08\08f698b2f57eb2d2c8ed7c6f6af51b8d
+    projectPath: Library\Artifacts\08\08f698b2f57eb2d2c8ed7c6f6af51b8d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\09\0968c929629a8205785b1c655984ca9d
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\09\0968c929629a8205785b1c655984ca9d
+    projectPath: Library\Artifacts\09\0968c929629a8205785b1c655984ca9d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0c\0c60c86281347226d4bcb35b6851fdc4
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\0c\0c60c86281347226d4bcb35b6851fdc4
+    projectPath: Library\Artifacts\0c\0c60c86281347226d4bcb35b6851fdc4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\0f\0f22dc02b862dc306ade2c4bb69d091b
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\0f\0f22dc02b862dc306ade2c4bb69d091b
+    projectPath: Library\Artifacts\0f\0f22dc02b862dc306ade2c4bb69d091b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\10\108ff22c79273bb8151f19d7fca60821
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\10\108ff22c79273bb8151f19d7fca60821
+    projectPath: Library\Artifacts\10\108ff22c79273bb8151f19d7fca60821
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\11\11f418b1f7ae8c12561ebd17ecef937f
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\11\11f418b1f7ae8c12561ebd17ecef937f
+    projectPath: Library\Artifacts\11\11f418b1f7ae8c12561ebd17ecef937f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\13\132e2e45e8a3a8742bef96df58ced9b0
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\13\132e2e45e8a3a8742bef96df58ced9b0
+    projectPath: Library\Artifacts\13\132e2e45e8a3a8742bef96df58ced9b0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\15\1560af21004d6070d573cf0afbcf96ef
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\15\1560af21004d6070d573cf0afbcf96ef
+    projectPath: Library\Artifacts\15\1560af21004d6070d573cf0afbcf96ef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\17\17c685d625bfb55f08813fe8428e46da
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\17\17c685d625bfb55f08813fe8428e46da
+    projectPath: Library\Artifacts\17\17c685d625bfb55f08813fe8428e46da
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\1a\1a8a160a01f8eedbcb803ea7f634afb7
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\1a\1a8a160a01f8eedbcb803ea7f634afb7
+    projectPath: Library\Artifacts\1a\1a8a160a01f8eedbcb803ea7f634afb7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1c\1c8d60ffb8486a99b068d644bf78b542
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\1c\1c8d60ffb8486a99b068d644bf78b542
+    projectPath: Library\Artifacts\1c\1c8d60ffb8486a99b068d644bf78b542
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1f\1f25c76a377f9efdd9f2a53c984cf4ff
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\1f\1f25c76a377f9efdd9f2a53c984cf4ff
+    projectPath: Library\Artifacts\1f\1f25c76a377f9efdd9f2a53c984cf4ff
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\20\2019aa419535e36d88909d102f723e4b
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\20\2019aa419535e36d88909d102f723e4b
+    projectPath: Library\Artifacts\20\2019aa419535e36d88909d102f723e4b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\21\21d7caba8bf31be3c859c024f7dd4a1f
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\21\21d7caba8bf31be3c859c024f7dd4a1f
+    projectPath: Library\Artifacts\21\21d7caba8bf31be3c859c024f7dd4a1f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\22\228578208a09d47a9dd794cf8ecacd3d
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\22\228578208a09d47a9dd794cf8ecacd3d
+    projectPath: Library\Artifacts\22\228578208a09d47a9dd794cf8ecacd3d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\22\22ec8cdb833548b4e7d0f2fe974db81e
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\22\22ec8cdb833548b4e7d0f2fe974db81e
+    projectPath: Library\Artifacts\22\22ec8cdb833548b4e7d0f2fe974db81e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\23\23fd9a4cb2e553c00730463997890708
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\23\23fd9a4cb2e553c00730463997890708
+    projectPath: Library\Artifacts\23\23fd9a4cb2e553c00730463997890708
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\26\26bcd7b8c2b0c1021e8deeeeed1bcc92
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\26\26bcd7b8c2b0c1021e8deeeeed1bcc92
+    projectPath: Library\Artifacts\26\26bcd7b8c2b0c1021e8deeeeed1bcc92
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\28\281aa10784b645717a36010e6feb7457
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\28\281aa10784b645717a36010e6feb7457
+    projectPath: Library\Artifacts\28\281aa10784b645717a36010e6feb7457
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2b\2be1b6be96eb18cbf436bd4fb468427e
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\2b\2be1b6be96eb18cbf436bd4fb468427e
+    projectPath: Library\Artifacts\2b\2be1b6be96eb18cbf436bd4fb468427e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2f\2fb167ddd05875f76da284f364e8f68a
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\2f\2fb167ddd05875f76da284f364e8f68a
+    projectPath: Library\Artifacts\2f\2fb167ddd05875f76da284f364e8f68a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\30\30f87fd970426fb4677f572b2387857a
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\30\30f87fd970426fb4677f572b2387857a
+    projectPath: Library\Artifacts\30\30f87fd970426fb4677f572b2387857a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\35\35430e16022c68fff52d06737ac54168
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\35\35430e16022c68fff52d06737ac54168
+    projectPath: Library\Artifacts\35\35430e16022c68fff52d06737ac54168
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\35\35d4a29e1309f5197d9e37afa716eb73
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\35\35d4a29e1309f5197d9e37afa716eb73
+    projectPath: Library\Artifacts\35\35d4a29e1309f5197d9e37afa716eb73
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\39\39f93a3a8155c9d0d82d86e2efdee825
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\39\39f93a3a8155c9d0d82d86e2efdee825
+    projectPath: Library\Artifacts\39\39f93a3a8155c9d0d82d86e2efdee825
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\3a\3a14cd17548c2dd4c29603e787ce4e06
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\3a\3a14cd17548c2dd4c29603e787ce4e06
+    projectPath: Library\Artifacts\3a\3a14cd17548c2dd4c29603e787ce4e06
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\3a\3a1b0f8d32243a5030bbc6d296dc6560
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\3a\3a1b0f8d32243a5030bbc6d296dc6560
+    projectPath: Library\Artifacts\3a\3a1b0f8d32243a5030bbc6d296dc6560
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3a\3a9523682fd0db264b3f262b210b8a33
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\3a\3a9523682fd0db264b3f262b210b8a33
+    projectPath: Library\Artifacts\3a\3a9523682fd0db264b3f262b210b8a33
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\3e\3ebc5840acb7b8b95dee4deba573db55
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\3e\3ebc5840acb7b8b95dee4deba573db55
+    projectPath: Library\Artifacts\3e\3ebc5840acb7b8b95dee4deba573db55
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\47\47a03868c4d8966fe5d283023735f7a7
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\47\47a03868c4d8966fe5d283023735f7a7
+    projectPath: Library\Artifacts\47\47a03868c4d8966fe5d283023735f7a7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\48\4819fd79629138ec96079180bd008650
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\48\4819fd79629138ec96079180bd008650
+    projectPath: Library\Artifacts\48\4819fd79629138ec96079180bd008650
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\48\486aafcf94f27349039472d4e3d8eef2
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\48\486aafcf94f27349039472d4e3d8eef2
+    projectPath: Library\Artifacts\48\486aafcf94f27349039472d4e3d8eef2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\49\492adb52fb27a3817cd2ee5e6464296f
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\49\492adb52fb27a3817cd2ee5e6464296f
+    projectPath: Library\Artifacts\49\492adb52fb27a3817cd2ee5e6464296f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4e\4e66893b2357d957e5a93cddd7922f70
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\4e\4e66893b2357d957e5a93cddd7922f70
+    projectPath: Library\Artifacts\4e\4e66893b2357d957e5a93cddd7922f70
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4e\4eca8f62d30c286927bdb6737cd56210
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\4e\4eca8f62d30c286927bdb6737cd56210
+    projectPath: Library\Artifacts\4e\4eca8f62d30c286927bdb6737cd56210
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4f\4fdcf4ff35dddc1650d23ede3ebe5098
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\4f\4fdcf4ff35dddc1650d23ede3ebe5098
+    projectPath: Library\Artifacts\4f\4fdcf4ff35dddc1650d23ede3ebe5098
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4f\4fe9f242def4a47a574dc11952a6d6a5
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\4f\4fe9f242def4a47a574dc11952a6d6a5
+    projectPath: Library\Artifacts\4f\4fe9f242def4a47a574dc11952a6d6a5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\51\514eb01b10b154761cdac26748eeb210
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\51\514eb01b10b154761cdac26748eeb210
+    projectPath: Library\Artifacts\51\514eb01b10b154761cdac26748eeb210
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\51\5162a0aa0ae93e70bfb1c371d1453e61
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\51\5162a0aa0ae93e70bfb1c371d1453e61
+    projectPath: Library\Artifacts\51\5162a0aa0ae93e70bfb1c371d1453e61
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\52\52359ae4092365f9426e96e2afa7014c
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\52\52359ae4092365f9426e96e2afa7014c
+    projectPath: Library\Artifacts\52\52359ae4092365f9426e96e2afa7014c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\53\534b4ec6d1ec7e01cab74c8076bcfdf6
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\53\534b4ec6d1ec7e01cab74c8076bcfdf6
+    projectPath: Library\Artifacts\53\534b4ec6d1ec7e01cab74c8076bcfdf6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\54\54e56bc41fbd09065e6d58e75f49dbac
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\54\54e56bc41fbd09065e6d58e75f49dbac
+    projectPath: Library\Artifacts\54\54e56bc41fbd09065e6d58e75f49dbac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\58\58e6a4f46b070f88fd687da5089c06fb
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\58\58e6a4f46b070f88fd687da5089c06fb
+    projectPath: Library\Artifacts\58\58e6a4f46b070f88fd687da5089c06fb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\5a\5a09618e55d46df3deb100474c9f2d4c
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\5a\5a09618e55d46df3deb100474c9f2d4c
+    projectPath: Library\Artifacts\5a\5a09618e55d46df3deb100474c9f2d4c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5b\5ba7fc73b2fd5ab437a4b30488b4795f
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\5b\5ba7fc73b2fd5ab437a4b30488b4795f
+    projectPath: Library\Artifacts\5b\5ba7fc73b2fd5ab437a4b30488b4795f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\5f\5f3303791ccd73cad2fae4b0afe8d0e4
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\5f\5f3303791ccd73cad2fae4b0afe8d0e4
+    projectPath: Library\Artifacts\5f\5f3303791ccd73cad2fae4b0afe8d0e4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\60\608fe9bfef010a014e2b7a9289c47cf0
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\60\608fe9bfef010a014e2b7a9289c47cf0
+    projectPath: Library\Artifacts\60\608fe9bfef010a014e2b7a9289c47cf0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\62\629c8b670efbcf8bf6bf22b0d6019351
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\62\629c8b670efbcf8bf6bf22b0d6019351
+    projectPath: Library\Artifacts\62\629c8b670efbcf8bf6bf22b0d6019351
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\63\63ac38f80817674b4aa5cba1fa02fdb4
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\63\63ac38f80817674b4aa5cba1fa02fdb4
+    projectPath: Library\Artifacts\63\63ac38f80817674b4aa5cba1fa02fdb4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\63\63f564e5756a2c28b18cad228b34800c
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\63\63f564e5756a2c28b18cad228b34800c
+    projectPath: Library\Artifacts\63\63f564e5756a2c28b18cad228b34800c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\63\63fa20a4c921d7eca42da3d0ed06f0fa
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\63\63fa20a4c921d7eca42da3d0ed06f0fa
+    projectPath: Library\Artifacts\63\63fa20a4c921d7eca42da3d0ed06f0fa
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\65\65dc9166be9d5bddb3c176fd8b6ec0fe
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\65\65dc9166be9d5bddb3c176fd8b6ec0fe
+    projectPath: Library\Artifacts\65\65dc9166be9d5bddb3c176fd8b6ec0fe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\69\69998c8b6b8e036bf6196c26d5029b8b
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\69\69998c8b6b8e036bf6196c26d5029b8b
+    projectPath: Library\Artifacts\69\69998c8b6b8e036bf6196c26d5029b8b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6b\6baa7263942c7fa3a17876ac566d7285
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\6b\6baa7263942c7fa3a17876ac566d7285
+    projectPath: Library\Artifacts\6b\6baa7263942c7fa3a17876ac566d7285
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\70\703660171dd2cacfa4cd53b5ef23cab5
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\70\703660171dd2cacfa4cd53b5ef23cab5
+    projectPath: Library\Artifacts\70\703660171dd2cacfa4cd53b5ef23cab5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\70\70991952888128f1e38a796d299e837b
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\70\70991952888128f1e38a796d299e837b
+    projectPath: Library\Artifacts\70\70991952888128f1e38a796d299e837b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\70\70f4422f94166d75e474aa31776d4803
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\70\70f4422f94166d75e474aa31776d4803
+    projectPath: Library\Artifacts\70\70f4422f94166d75e474aa31776d4803
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\73\73467662d9fa92adae2b70932acedb97
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\73\73467662d9fa92adae2b70932acedb97
+    projectPath: Library\Artifacts\73\73467662d9fa92adae2b70932acedb97
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\74\74d6cb9c9a6aab7ad841849343d83938
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\74\74d6cb9c9a6aab7ad841849343d83938
+    projectPath: Library\Artifacts\74\74d6cb9c9a6aab7ad841849343d83938
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\76\7688de4f1120d31d9ddbc9adef6e853a
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\76\7688de4f1120d31d9ddbc9adef6e853a
+    projectPath: Library\Artifacts\76\7688de4f1120d31d9ddbc9adef6e853a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\77\778e9ca03e8f899e620cbb2bd0b8a843
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\77\778e9ca03e8f899e620cbb2bd0b8a843
+    projectPath: Library\Artifacts\77\778e9ca03e8f899e620cbb2bd0b8a843
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\78\7849001be579d2381507ebcdaa5945c0
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\78\7849001be579d2381507ebcdaa5945c0
+    projectPath: Library\Artifacts\78\7849001be579d2381507ebcdaa5945c0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7a\7a436e2063d1fe5f07cd99cf1123ec96
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\7a\7a436e2063d1fe5f07cd99cf1123ec96
+    projectPath: Library\Artifacts\7a\7a436e2063d1fe5f07cd99cf1123ec96
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7d\7d82a486bb5f9db88b66f89be7feb310
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\7d\7d82a486bb5f9db88b66f89be7feb310
+    projectPath: Library\Artifacts\7d\7d82a486bb5f9db88b66f89be7feb310
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\7f\7fb52ae6bb5b2090f69f432ee294ee8c
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\7f\7fb52ae6bb5b2090f69f432ee294ee8c
+    projectPath: Library\Artifacts\7f\7fb52ae6bb5b2090f69f432ee294ee8c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\81\818b2c0b1c0253209e87d2c6f05a5e12
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\81\818b2c0b1c0253209e87d2c6f05a5e12
+    projectPath: Library\Artifacts\81\818b2c0b1c0253209e87d2c6f05a5e12
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\85\85a622d1093fa5c212a188751cb193ed
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\85\85a622d1093fa5c212a188751cb193ed
+    projectPath: Library\Artifacts\85\85a622d1093fa5c212a188751cb193ed
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\89\894b3f17ef6d7c22023fa9b03dd66d18
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\89\894b3f17ef6d7c22023fa9b03dd66d18
+    projectPath: Library\Artifacts\89\894b3f17ef6d7c22023fa9b03dd66d18
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\8a\8acd6951ff36313c79cab22f94067619
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\8a\8acd6951ff36313c79cab22f94067619
+    projectPath: Library\Artifacts\8a\8acd6951ff36313c79cab22f94067619
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8b\8bf420c4f9e685703c268eb733c4f059
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\8b\8bf420c4f9e685703c268eb733c4f059
+    projectPath: Library\Artifacts\8b\8bf420c4f9e685703c268eb733c4f059
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\8c\8ca8d6ba53dafa8b67c31fdbb4847955
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\8c\8ca8d6ba53dafa8b67c31fdbb4847955
+    projectPath: Library\Artifacts\8c\8ca8d6ba53dafa8b67c31fdbb4847955
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\8e\8e7c571ada9824aee9691ad076d73e8c
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\8e\8e7c571ada9824aee9691ad076d73e8c
+    projectPath: Library\Artifacts\8e\8e7c571ada9824aee9691ad076d73e8c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\92\92c00de3c11ac2a81e437f181d32046a
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\92\92c00de3c11ac2a81e437f181d32046a
+    projectPath: Library\Artifacts\92\92c00de3c11ac2a81e437f181d32046a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\99\99a609d3111ce9537b4c0f8eab173761
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\99\99a609d3111ce9537b4c0f8eab173761
+    projectPath: Library\Artifacts\99\99a609d3111ce9537b4c0f8eab173761
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9a\9ae111dcaaa39d6860230abadbf25cad
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\9a\9ae111dcaaa39d6860230abadbf25cad
+    projectPath: Library\Artifacts\9a\9ae111dcaaa39d6860230abadbf25cad
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\9e\9e0316377a6f308351e3ec1a634def4f
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\9e\9e0316377a6f308351e3ec1a634def4f
+    projectPath: Library\Artifacts\9e\9e0316377a6f308351e3ec1a634def4f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\a2\a2ca82c1116bcf13a1d01c86cc1e3818
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\a2\a2ca82c1116bcf13a1d01c86cc1e3818
+    projectPath: Library\Artifacts\a2\a2ca82c1116bcf13a1d01c86cc1e3818
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a2\a2f6cd05a37b26f1c3da5e14a885baba
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\a2\a2f6cd05a37b26f1c3da5e14a885baba
+    projectPath: Library\Artifacts\a2\a2f6cd05a37b26f1c3da5e14a885baba
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\a5\a5e3c612f10d7fd9ddbae713cb58644d
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\a5\a5e3c612f10d7fd9ddbae713cb58644d
+    projectPath: Library\Artifacts\a5\a5e3c612f10d7fd9ddbae713cb58644d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a8\a8d059dec673b545fe9b9f58b71d79a3
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\a8\a8d059dec673b545fe9b9f58b71d79a3
+    projectPath: Library\Artifacts\a8\a8d059dec673b545fe9b9f58b71d79a3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\aa\aa6e5e98115f78141b1ed0e3acd4619f
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\aa\aa6e5e98115f78141b1ed0e3acd4619f
+    projectPath: Library\Artifacts\aa\aa6e5e98115f78141b1ed0e3acd4619f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\ad\add2f03b1f38bd7c5cbcf13732c17345
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\ad\add2f03b1f38bd7c5cbcf13732c17345
+    projectPath: Library\Artifacts\ad\add2f03b1f38bd7c5cbcf13732c17345
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ae\ae152aa278d1014f3929ff961f20825e
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\ae\ae152aa278d1014f3929ff961f20825e
+    projectPath: Library\Artifacts\ae\ae152aa278d1014f3929ff961f20825e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ae\aee7317e9089a7be9dae94e323d44242
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\ae\aee7317e9089a7be9dae94e323d44242
+    projectPath: Library\Artifacts\ae\aee7317e9089a7be9dae94e323d44242
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\af\af93d2c57c29c337053fe85ecaf5aa55
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\af\af93d2c57c29c337053fe85ecaf5aa55
+    projectPath: Library\Artifacts\af\af93d2c57c29c337053fe85ecaf5aa55
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b6\b69c2cc4cc9ed2850e3866ad0b58777a
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\b6\b69c2cc4cc9ed2850e3866ad0b58777a
+    projectPath: Library\Artifacts\b6\b69c2cc4cc9ed2850e3866ad0b58777a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\bc\bcb382fbd75740634d06ff52476a7cc8
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\bc\bcb382fbd75740634d06ff52476a7cc8
+    projectPath: Library\Artifacts\bc\bcb382fbd75740634d06ff52476a7cc8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c0\c07e3f1b7f5bd71fd59654e9f6c9c289
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\c0\c07e3f1b7f5bd71fd59654e9f6c9c289
+    projectPath: Library\Artifacts\c0\c07e3f1b7f5bd71fd59654e9f6c9c289
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\c2\c20d5e35a3163693f3c60dbd69b52070
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\c2\c20d5e35a3163693f3c60dbd69b52070
+    projectPath: Library\Artifacts\c2\c20d5e35a3163693f3c60dbd69b52070
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c3\c35ede2f529030355f3141a38455f024
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\c3\c35ede2f529030355f3141a38455f024
+    projectPath: Library\Artifacts\c3\c35ede2f529030355f3141a38455f024
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c5\c5ec67093afeee679035b8170ef0a31b
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\c5\c5ec67093afeee679035b8170ef0a31b
+    projectPath: Library\Artifacts\c5\c5ec67093afeee679035b8170ef0a31b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c6\c65af0a91a528286630fd47b1eedfda3
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\c6\c65af0a91a528286630fd47b1eedfda3
+    projectPath: Library\Artifacts\c6\c65af0a91a528286630fd47b1eedfda3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\c9\c9434c611d731955acd10080f1eb371a
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\c9\c9434c611d731955acd10080f1eb371a
+    projectPath: Library\Artifacts\c9\c9434c611d731955acd10080f1eb371a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\c9\c9702fa07e8bfd950e960e5b4c803769
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\c9\c9702fa07e8bfd950e960e5b4c803769
+    projectPath: Library\Artifacts\c9\c9702fa07e8bfd950e960e5b4c803769
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cb\cb4eebb13240f9be234b3b95ef24c649
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\cb\cb4eebb13240f9be234b3b95ef24c649
+    projectPath: Library\Artifacts\cb\cb4eebb13240f9be234b3b95ef24c649
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\cd\cd5938c1ca906ac090c149919ccad73c
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\cd\cd5938c1ca906ac090c149919ccad73c
+    projectPath: Library\Artifacts\cd\cd5938c1ca906ac090c149919ccad73c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\cf\cf9586a57b8daf3a4ac0236ce3300f87
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\cf\cf9586a57b8daf3a4ac0236ce3300f87
+    projectPath: Library\Artifacts\cf\cf9586a57b8daf3a4ac0236ce3300f87
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d0\d0af44a7637c2fef8aa6a200782a3a45
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\d0\d0af44a7637c2fef8aa6a200782a3a45
+    projectPath: Library\Artifacts\d0\d0af44a7637c2fef8aa6a200782a3a45
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\da\da121dbc95bff78b37d121472957346f
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\da\da121dbc95bff78b37d121472957346f
+    projectPath: Library\Artifacts\da\da121dbc95bff78b37d121472957346f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\de\ded3e66ba34edb42b4cb2745f18c7867
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\de\ded3e66ba34edb42b4cb2745f18c7867
+    projectPath: Library\Artifacts\de\ded3e66ba34edb42b4cb2745f18c7867
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\de\deeb2aad2c4468b2cb13f25cf67aadd0
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\de\deeb2aad2c4468b2cb13f25cf67aadd0
+    projectPath: Library\Artifacts\de\deeb2aad2c4468b2cb13f25cf67aadd0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\e4\e4614e199b586ee381367a10d8885457
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\e4\e4614e199b586ee381367a10d8885457
+    projectPath: Library\Artifacts\e4\e4614e199b586ee381367a10d8885457
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\e7\e74b85597b39c39a208d11f1eadc8983
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\e7\e74b85597b39c39a208d11f1eadc8983
+    projectPath: Library\Artifacts\e7\e74b85597b39c39a208d11f1eadc8983
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\e7\e7b35e9e077514d9898d8ab2dd40e2f5
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\e7\e7b35e9e077514d9898d8ab2dd40e2f5
+    projectPath: Library\Artifacts\e7\e7b35e9e077514d9898d8ab2dd40e2f5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\e8\e800335bdfd38b017252bb43dc309d16
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\e8\e800335bdfd38b017252bb43dc309d16
+    projectPath: Library\Artifacts\e8\e800335bdfd38b017252bb43dc309d16
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e9\e93b507d480d6c916faf22507b52c3f4
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\e9\e93b507d480d6c916faf22507b52c3f4
+    projectPath: Library\Artifacts\e9\e93b507d480d6c916faf22507b52c3f4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\ed\ed1e9192ff6ee8cb440e0ef09c5e8d2f
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\ed\ed1e9192ff6ee8cb440e0ef09c5e8d2f
+    projectPath: Library\Artifacts\ed\ed1e9192ff6ee8cb440e0ef09c5e8d2f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\ed\ed4b27407265aeec72b6b71d5be9745b
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\ed\ed4b27407265aeec72b6b71d5be9745b
+    projectPath: Library\Artifacts\ed\ed4b27407265aeec72b6b71d5be9745b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\ee\ee69f5a166a75dd4dd3dd8b708364930
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\ee\ee69f5a166a75dd4dd3dd8b708364930
+    projectPath: Library\Artifacts\ee\ee69f5a166a75dd4dd3dd8b708364930
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ef\ef184f707e32ee1944e0ce2c44e10a38
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\ef\ef184f707e32ee1944e0ce2c44e10a38
+    projectPath: Library\Artifacts\ef\ef184f707e32ee1944e0ce2c44e10a38
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\f1\f10bffa54944a5c445ccb7d3bde8c9d0
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\f1\f10bffa54944a5c445ccb7d3bde8c9d0
+    projectPath: Library\Artifacts\f1\f10bffa54944a5c445ccb7d3bde8c9d0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\f1\f13628792b5edbbcf406c95b3fda2b43
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\f1\f13628792b5edbbcf406c95b3fda2b43
+    projectPath: Library\Artifacts\f1\f13628792b5edbbcf406c95b3fda2b43
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f4\f4e19506ce7c466eefe91d1fd7960e94
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\f4\f4e19506ce7c466eefe91d1fd7960e94
+    projectPath: Library\Artifacts\f4\f4e19506ce7c466eefe91d1fd7960e94
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\f5\f53718e184f5c0c38598dcadf743f5ad
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\f5\f53718e184f5c0c38598dcadf743f5ad
+    projectPath: Library\Artifacts\f5\f53718e184f5c0c38598dcadf743f5ad
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\f8\f89adc5b1b737eec289f864036364551
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\f8\f89adc5b1b737eec289f864036364551
+    projectPath: Library\Artifacts\f8\f89adc5b1b737eec289f864036364551
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\f9\f98a0c060f5e9e28ce2d8f68c1b3426d
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\f9\f98a0c060f5e9e28ce2d8f68c1b3426d
+    projectPath: Library\Artifacts\f9\f98a0c060f5e9e28ce2d8f68c1b3426d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f9\f98b2363a219696ddff10243f4e533d3
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\f9\f98b2363a219696ddff10243f4e533d3
+    projectPath: Library\Artifacts\f9\f98b2363a219696ddff10243f4e533d3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f9\f9f72c368d631b249f0445923f188445
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\f9\f9f72c368d631b249f0445923f188445
+    projectPath: Library\Artifacts\f9\f9f72c368d631b249f0445923f188445
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fd\fde39b54a1da0fd5ab076e0f1dba5b64
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\fd\fde39b54a1da0fd5ab076e0f1dba5b64
+    projectPath: Library\Artifacts\fd\fde39b54a1da0fd5ab076e0f1dba5b64
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\SceneVisibilityState.asset
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\00adedf6f493f8f168f300feaaf88f4c.bin
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\0\00adedf6f493f8f168f300feaaf88f4c.bin
+    projectPath: Library\ShaderCache\0\00adedf6f493f8f168f300feaaf88f4c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\01d076c90adf0b08bb33fb5a6597557d.bin
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\0\01d076c90adf0b08bb33fb5a6597557d.bin
+    projectPath: Library\ShaderCache\0\01d076c90adf0b08bb33fb5a6597557d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\029c6ec102674a8fd2ea4b598dbab5a1.bin
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\0\029c6ec102674a8fd2ea4b598dbab5a1.bin
+    projectPath: Library\ShaderCache\0\029c6ec102674a8fd2ea4b598dbab5a1.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\0c3fafb11abfb662c92699d3fa77746e.bin
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\0\0c3fafb11abfb662c92699d3fa77746e.bin
+    projectPath: Library\ShaderCache\0\0c3fafb11abfb662c92699d3fa77746e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\0e4e39cd54a989b5638a8dd897b8329e.bin
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\0\0e4e39cd54a989b5638a8dd897b8329e.bin
+    projectPath: Library\ShaderCache\0\0e4e39cd54a989b5638a8dd897b8329e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\182093065e58d76ae8730a0f7f6d7f16.bin
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\1\182093065e58d76ae8730a0f7f6d7f16.bin
+    projectPath: Library\ShaderCache\1\182093065e58d76ae8730a0f7f6d7f16.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\1dff2b45445079edbf2579025a655a4f.bin
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\1\1dff2b45445079edbf2579025a655a4f.bin
+    projectPath: Library\ShaderCache\1\1dff2b45445079edbf2579025a655a4f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\25ea9e0f5ebb391bb588cb1401dc497e.bin
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\2\25ea9e0f5ebb391bb588cb1401dc497e.bin
+    projectPath: Library\ShaderCache\2\25ea9e0f5ebb391bb588cb1401dc497e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\26302dba016bd48b9c4d8d443f987b31.bin
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\2\26302dba016bd48b9c4d8d443f987b31.bin
+    projectPath: Library\ShaderCache\2\26302dba016bd48b9c4d8d443f987b31.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\34c84e58d3d2131a13ee84c0aaa4deb6.bin
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\3\34c84e58d3d2131a13ee84c0aaa4deb6.bin
+    projectPath: Library\ShaderCache\3\34c84e58d3d2131a13ee84c0aaa4deb6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\372f72338df7ac5991f6e64f6a222e85.bin
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\3\372f72338df7ac5991f6e64f6a222e85.bin
+    projectPath: Library\ShaderCache\3\372f72338df7ac5991f6e64f6a222e85.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3c2b9a680fa98b4225daf9964f715214.bin
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\3\3c2b9a680fa98b4225daf9964f715214.bin
+    projectPath: Library\ShaderCache\3\3c2b9a680fa98b4225daf9964f715214.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\40a6804b16c0811140baf796cd2cb00f.bin
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\4\40a6804b16c0811140baf796cd2cb00f.bin
+    projectPath: Library\ShaderCache\4\40a6804b16c0811140baf796cd2cb00f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\4f906c0bbf9a7a13f0e4259f914f73c3.bin
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\4\4f906c0bbf9a7a13f0e4259f914f73c3.bin
+    projectPath: Library\ShaderCache\4\4f906c0bbf9a7a13f0e4259f914f73c3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\4fdbef369595d68dcb19db1b81f2b73e.bin
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\4\4fdbef369595d68dcb19db1b81f2b73e.bin
+    projectPath: Library\ShaderCache\4\4fdbef369595d68dcb19db1b81f2b73e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\585f14e5aeba2a3a2b715c5abb58f361.bin
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\5\585f14e5aeba2a3a2b715c5abb58f361.bin
+    projectPath: Library\ShaderCache\5\585f14e5aeba2a3a2b715c5abb58f361.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\5b3e7d7df97fd8beeb69f0d4c939b985.bin
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\5\5b3e7d7df97fd8beeb69f0d4c939b985.bin
+    projectPath: Library\ShaderCache\5\5b3e7d7df97fd8beeb69f0d4c939b985.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\5ba26c7151f52854cbd610526028dfa9.bin
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\5\5ba26c7151f52854cbd610526028dfa9.bin
+    projectPath: Library\ShaderCache\5\5ba26c7151f52854cbd610526028dfa9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\68a5685e8df3453499c07838ca41da49.bin
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\6\68a5685e8df3453499c07838ca41da49.bin
+    projectPath: Library\ShaderCache\6\68a5685e8df3453499c07838ca41da49.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\6c6a061156b9ee8c74c32b11f6b21027.bin
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\6\6c6a061156b9ee8c74c32b11f6b21027.bin
+    projectPath: Library\ShaderCache\6\6c6a061156b9ee8c74c32b11f6b21027.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\6e63082a6f83b8e2e8ceebbfe631ce34.bin
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\6\6e63082a6f83b8e2e8ceebbfe631ce34.bin
+    projectPath: Library\ShaderCache\6\6e63082a6f83b8e2e8ceebbfe631ce34.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\708972a55a6d8a4653ce10a7880ec7dc.bin
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\7\708972a55a6d8a4653ce10a7880ec7dc.bin
+    projectPath: Library\ShaderCache\7\708972a55a6d8a4653ce10a7880ec7dc.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\86e0bf788cf7a6de18ba12eb6acd321c.bin
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\8\86e0bf788cf7a6de18ba12eb6acd321c.bin
+    projectPath: Library\ShaderCache\8\86e0bf788cf7a6de18ba12eb6acd321c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\8bd5f8da3f08c56b0e54c7437c148d5d.bin
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\8\8bd5f8da3f08c56b0e54c7437c148d5d.bin
+    projectPath: Library\ShaderCache\8\8bd5f8da3f08c56b0e54c7437c148d5d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9a696a4771228b88b00eb3ebc41a1042.bin
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\9\9a696a4771228b88b00eb3ebc41a1042.bin
+    projectPath: Library\ShaderCache\9\9a696a4771228b88b00eb3ebc41a1042.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a6f002a019e183b589b294ec62cb5ab0.bin
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\a\a6f002a019e183b589b294ec62cb5ab0.bin
+    projectPath: Library\ShaderCache\a\a6f002a019e183b589b294ec62cb5ab0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a720728e09a40f6ece1bbbb36aaa8c42.bin
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\a\a720728e09a40f6ece1bbbb36aaa8c42.bin
+    projectPath: Library\ShaderCache\a\a720728e09a40f6ece1bbbb36aaa8c42.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b7a734ba62a7d89a670942e4122bc7f0.bin
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\b\b7a734ba62a7d89a670942e4122bc7f0.bin
+    projectPath: Library\ShaderCache\b\b7a734ba62a7d89a670942e4122bc7f0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\bca5cc4cee329452c98ff8dac5c562c8.bin
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\b\bca5cc4cee329452c98ff8dac5c562c8.bin
+    projectPath: Library\ShaderCache\b\bca5cc4cee329452c98ff8dac5c562c8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c03787b44651833c1a1effde8196ac88.bin
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\c\c03787b44651833c1a1effde8196ac88.bin
+    projectPath: Library\ShaderCache\c\c03787b44651833c1a1effde8196ac88.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c0922079d9778c9fe0377dd368516f8d.bin
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\c\c0922079d9778c9fe0377dd368516f8d.bin
+    projectPath: Library\ShaderCache\c\c0922079d9778c9fe0377dd368516f8d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c9071f47f9c199e7069b439205f91871.bin
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\c\c9071f47f9c199e7069b439205f91871.bin
+    projectPath: Library\ShaderCache\c\c9071f47f9c199e7069b439205f91871.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e6c92c75c9aade3d6e0752eefd339d27.bin
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\e\e6c92c75c9aade3d6e0752eefd339d27.bin
+    projectPath: Library\ShaderCache\e\e6c92c75c9aade3d6e0752eefd339d27.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\eb514adad906dc4443a5a152b41ea9f6.bin
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\e\eb514adad906dc4443a5a152b41ea9f6.bin
+    projectPath: Library\ShaderCache\e\eb514adad906dc4443a5a152b41ea9f6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\f0e2482fb2276371cdbd93a4b7600fcf.bin
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\f\f0e2482fb2276371cdbd93a4b7600fcf.bin
+    projectPath: Library\ShaderCache\f\f0e2482fb2276371cdbd93a4b7600fcf.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\f27f29bbc1177b842979ffdd3e459051.bin
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\f\f27f29bbc1177b842979ffdd3e459051.bin
+    projectPath: Library\ShaderCache\f\f27f29bbc1177b842979ffdd3e459051.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\f729cf3945ab15c0f9d1d234d16bc826.bin
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\f\f729cf3945ab15c0f9d1d234d16bc826.bin
+    projectPath: Library\ShaderCache\f\f729cf3945ab15c0f9d1d234d16bc826.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\f9e82e9c21db60da0e1154aeec9d6473.bin
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\f\f9e82e9c21db60da0e1154aeec9d6473.bin
+    projectPath: Library\ShaderCache\f\f9e82e9c21db60da0e1154aeec9d6473.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\SourceAssetDB
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs\AssetImportWorker0.log
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Logs\AssetImportWorker0.log
+    projectPath: Logs\AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs\AssetImportWorker0-prev.log
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Logs\AssetImportWorker0-prev.log
+    projectPath: Logs\AssetImportWorker0-prev.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\shadercompiler-AssetImportWorker0.log
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Logs\shadercompiler-AssetImportWorker0.log
+    projectPath: Logs\shadercompiler-AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe5.log
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Logs\shadercompiler-UnityShaderCompiler.exe5.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe5.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe7.log
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Logs\shadercompiler-UnityShaderCompiler.exe7.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe7.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityLockfile
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\workerlic
+    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Temp\workerlic
+    projectPath: Temp\workerlic
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
