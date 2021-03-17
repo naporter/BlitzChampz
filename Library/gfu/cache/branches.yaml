@@ -13,17 +13,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-03-15T14:32:38.310-05:00
-  initializedAtString: 2021-03-15T14:28:01.628-05:00
+  lastUpdatedAtString: 2021-03-17T17:09:00.083-05:00
+  initializedAtString: 2021-03-17T10:09:07.674-05:00
   localBranches:
   - name: development
-    tracking: 
-  - name: devlopment
-    tracking: 
+    tracking: origin/development
   - name: main
     tracking: origin/main
+  - name: quality-assurance
+    tracking: origin/quality-assurance
   remoteBranches:
-  - name: origin/HEAD
+  - name: origin/development
+    tracking: '[None]'
+  - name: origin/main
+    tracking: '[None]'
+  - name: origin/quality-assurance
     tracking: '[None]'
   remotes:
   - name: origin
@@ -36,33 +40,45 @@ MonoBehaviour:
   localConfigBranches:
     keys:
     - development
-    - devlopment
     - main
+    - quality-assurance
     values:
     - name: development
       remote:
-        name: 
-        url: 
-      trackingBranch: 
-    - name: devlopment
-      remote:
-        name: 
-        url: 
-      trackingBranch: 
+        name: origin
+        url: https://github.com/naporter/BlitzChampz.git
+      trackingBranch: development
     - name: main
       remote:
         name: origin
         url: https://github.com/naporter/BlitzChampz.git
       trackingBranch: main
+    - name: quality-assurance
+      remote:
+        name: origin
+        url: https://github.com/naporter/BlitzChampz.git
+      trackingBranch: quality-assurance
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
-      - HEAD
+      - development
+      - main
+      - quality-assurance
     subKeyValues:
     - Values:
-      - name: HEAD
+      - name: development
+        remote:
+          name: origin
+          url: https://github.com/naporter/BlitzChampz.git
+        trackingBranch: 
+      - name: main
+        remote:
+          name: origin
+          url: https://github.com/naporter/BlitzChampz.git
+        trackingBranch: 
+      - name: quality-assurance
         remote:
           name: origin
           url: https://github.com/naporter/BlitzChampz.git
