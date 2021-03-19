@@ -2,10 +2,13 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - CreateLobbyController
+    - GameUI
     - JoinLobbyController
     - MainMenu
     - NetworkController
+    - OnButtonSelected
     - QuickPlayController
+    - QuickPlayLobbyController
     GitHub.Unity.45.dll:
     - GitHub.Unity.ApplicationCache
     - GitHub.Unity.BranchesCache
@@ -29,6 +32,12 @@ ScriptsOnlyBuild:
     - TMPro.TMP_SpriteAsset
     - TMPro.TMP_StyleSheet
     - TMPro.TextMeshProUGUI
+    UnityEditor.Graphs.dll:
+    - UnityEditor.Graphs.AnimationBlendTree.Graph
+    - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.Graph
+    - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -46,6 +55,57 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.Text
     - UnityEngine.UI.Toggle
   sceneClasses:
+    Assets/Scenes/Game.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1570}
+    - Class: 114
+      Script: {instanceID: 2354}
+    - Class: 114
+      Script: {instanceID: 2920}
+    - Class: 114
+      Script: {instanceID: 3132}
+    - Class: 114
+      Script: {instanceID: 3370}
+    - Class: 114
+      Script: {instanceID: 3728}
+    - Class: 114
+      Script: {instanceID: 37988}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
     Assets/Scenes/Main Menu.unity:
     - Class: 1
       Script: {instanceID: 0}
@@ -78,47 +138,51 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1726}
     - Class: 114
-      Script: {instanceID: 1738}
+      Script: {instanceID: 1736}
     - Class: 114
-      Script: {instanceID: 1772}
+      Script: {instanceID: 1740}
     - Class: 114
-      Script: {instanceID: 1856}
+      Script: {instanceID: 1774}
     - Class: 114
-      Script: {instanceID: 1928}
+      Script: {instanceID: 1858}
     - Class: 114
-      Script: {instanceID: 2336}
+      Script: {instanceID: 1930}
     - Class: 114
-      Script: {instanceID: 2352}
+      Script: {instanceID: 2338}
     - Class: 114
-      Script: {instanceID: 2612}
+      Script: {instanceID: 2354}
     - Class: 114
-      Script: {instanceID: 2792}
+      Script: {instanceID: 2614}
     - Class: 114
-      Script: {instanceID: 2916}
+      Script: {instanceID: 2794}
     - Class: 114
-      Script: {instanceID: 2942}
+      Script: {instanceID: 2886}
     - Class: 114
-      Script: {instanceID: 2966}
+      Script: {instanceID: 2920}
     - Class: 114
-      Script: {instanceID: 3128}
+      Script: {instanceID: 2946}
     - Class: 114
-      Script: {instanceID: 3180}
+      Script: {instanceID: 2970}
     - Class: 114
-      Script: {instanceID: 3344}
+      Script: {instanceID: 3132}
     - Class: 114
-      Script: {instanceID: 3364}
+      Script: {instanceID: 3152}
     - Class: 114
-      Script: {instanceID: 3420}
+      Script: {instanceID: 3186}
     - Class: 114
-      Script: {instanceID: 3540}
+      Script: {instanceID: 3278}
     - Class: 114
-      Script: {instanceID: 3720}
+      Script: {instanceID: 3350}
     - Class: 114
-      Script: {instanceID: 3832}
+      Script: {instanceID: 3370}
     - Class: 114
-      Script: {instanceID: 31036}
+      Script: {instanceID: 3426}
     - Class: 114
-      Script: {instanceID: 57076}
+      Script: {instanceID: 3546}
+    - Class: 114
+      Script: {instanceID: 3728}
+    - Class: 114
+      Script: {instanceID: 3840}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -226,6 +290,12 @@ ScriptsOnlyBuild:
     className: Toggle
   - hash:
       serializedVersion: 2
+      Hash: ad82aa45dc5ab89698ab50112e863f36
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: JoinLobbyController
+  - hash:
+      serializedVersion: 2
       Hash: 0dbc3be398b4869a5c8d0d8481ee402c
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -292,7 +362,7 @@ ScriptsOnlyBuild:
     className: BaseInput
   - hash:
       serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+      Hash: 2d6085981c5c1bebd3b1db7ff2c4395e
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: NetworkController
@@ -556,6 +626,12 @@ ScriptsOnlyBuild:
     className: ScrollRect
   - hash:
       serializedVersion: 2
+      Hash: 0ea04ceb34dd8cf475f3938d110239e0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CreateLobbyController
+  - hash:
+      serializedVersion: 2
       Hash: 18c222bef9ae745ce69ddde9b74337ca
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.EventSystems
@@ -646,16 +722,22 @@ ScriptsOnlyBuild:
     className: AudioTrack
   - hash:
       serializedVersion: 2
-      Hash: c1933cc0a2f4ff6eb13333347497beb3
-    assemblyName: Unity.Timeline.dll
-    namespaceName: UnityEngine.Timeline
-    className: TimelineAsset
+      Hash: 35ec97400fd57993e189a9a878318af3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: OnButtonSelected
   - hash:
       serializedVersion: 2
       Hash: fc7b5e7d6c06e2ed584cb9a4e054c79c
     assemblyName: PhotonUnityNetworking.Utilities.dll
     namespaceName: Photon.Pun.UtilityScripts
     className: ConnectAndJoinRandom
+  - hash:
+      serializedVersion: 2
+      Hash: c1933cc0a2f4ff6eb13333347497beb3
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: TimelineAsset
   - hash:
       serializedVersion: 2
       Hash: 760787567e1b60d64a3e421ab83ee14a
@@ -730,7 +812,7 @@ ScriptsOnlyBuild:
     className: TMP_ScrollbarEventHandler
   - hash:
       serializedVersion: 2
-      Hash: f7604ae8f5690d619ced2869691f76e1
+      Hash: d182d1c9548546a4d99a1e091a576385
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: QuickPlayController
@@ -776,6 +858,12 @@ ScriptsOnlyBuild:
     assemblyName: PhotonUnityNetworking.Utilities.dll
     namespaceName: Photon.Pun.UtilityScripts
     className: PunTurnManager
+  - hash:
+      serializedVersion: 2
+      Hash: dcc352ecfaf5b0c15fafa69bcda64dc4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PhotonLobby
   - hash:
       serializedVersion: 2
       Hash: 57d2b3ca58a430f7cf319bb757c1f0f5
@@ -892,23 +980,12 @@ ScriptsOnlyBuild:
     className: TextContainer
   - hash:
       serializedVersion: 2
-      Hash: 208476ab5fa44bcd0a81fdcec448cc67
+      Hash: c788d50d740a63944fe26c0b73544213
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: CreateLobbyController
-  - hash:
-      serializedVersion: 2
-      Hash: 37759e7e27041706a8c624c02617445d
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: JoinLobbyController
-  - hash:
-      serializedVersion: 2
-      Hash: dcc352ecfaf5b0c15fafa69bcda64dc4
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: PhotonLobby
+    className: GameUI
   platform: 13
   scenePathNames:
   - Assets/Scenes/Main Menu.unity
+  - Assets/Scenes/Game.unity
   playerPath: F:/Unity Projects/Blitz_Champz/APKs/Photon Enabled.apk

@@ -72,13 +72,14 @@
     <Compile Include="Assets\Scripts\Photon Scripts\CreateLobbyController.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\DemoChat\ChatGui.cs" />
     <Compile Include="Assets\Scripts\Photon Scripts\GameSetupController.cs" />
+    <Compile Include="Assets\Scripts\OnButtonSelected.cs" />
     <Compile Include="Assets\Scripts\Photon Scripts\QuickPlayLobbyController.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\Common\TextToggleIsOnTransition.cs" />
     <Compile Include="Assets\Scripts\Photon Scripts\QuickPlayController.cs" />
     <Compile Include="Assets\Scripts\Photon Scripts\PhotonLobby.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\DemoChat\ChannelSelector.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\Common\OnStartDelete.cs" />
-    <Compile Include="Assets\Scripts\OnButtonSelected.cs" />
+    <Compile Include="Assets\Scripts\GameUI.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

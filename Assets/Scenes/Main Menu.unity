@@ -354,7 +354,8 @@ MonoBehaviour:
   joinRandomLobbyButton: {fileID: 691899585}
   cancelLobbySearchButton: {fileID: 1313168753}
   userMessage: {fileID: 694681375}
-  numPlayers: 0
+  userName: {fileID: 1924840878}
+  numPlayers: 2
 --- !u!1 &101770755
 GameObject:
   m_ObjectHideFlags: 0
@@ -2173,6 +2174,8 @@ MonoBehaviour:
   userMessage: {fileID: 1125470168}
   roomId: {fileID: 1569157499}
   isPublic: {fileID: 705721748}
+  userName: {fileID: 1039523627}
+  numPlayers: 2
 --- !u!1 &591917970
 GameObject:
   m_ObjectHideFlags: 0
@@ -2939,7 +2942,7 @@ GameObject:
   - component: {fileID: 696535772}
   - component: {fileID: 696535771}
   m_Layer: 5
-  m_Name: Panel
+  m_Name: Photon Panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2963,8 +2966,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.023000002}
   m_AnchorMax: {x: 0.27058107, y: 0.10466666}
-  m_AnchoredPosition: {x: 0.5250244, y: -0.33740234}
-  m_SizeDelta: {x: -1.0499, y: 0.6748}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &696535771
 MonoBehaviour:
@@ -5331,6 +5334,7 @@ GameObject:
   - component: {fileID: 1302005012}
   - component: {fileID: 1302005011}
   - component: {fileID: 1302005013}
+  - component: {fileID: 1302005014}
   m_Layer: 5
   m_Name: Background
   m_TagString: Untagged
@@ -5420,6 +5424,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   connectedText: {fileID: 1595652200}
   connectedImage: {fileID: 1038070315}
+--- !u!114 &1302005014
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1302005009}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37b9a8259a7a5754dbc425b32e112e44, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  multiplayerScenceIndex: 1
 --- !u!1 &1304082716
 GameObject:
   m_ObjectHideFlags: 0
@@ -6499,7 +6516,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.13938889}
   m_AnchorMax: {x: 0.119, y: 0.208}
-  m_AnchoredPosition: {x: -0.000015259, y: 0.000015259}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1695621426
@@ -8697,6 +8714,7 @@ MonoBehaviour:
   joinLobbyButton: {fileID: 1144024384}
   leaveLobbyButton: {fileID: 265120098}
   userMessage: {fileID: 1771348766}
+  userName: {fileID: 1704001227}
 --- !u!1 &2007108300
 GameObject:
   m_ObjectHideFlags: 0

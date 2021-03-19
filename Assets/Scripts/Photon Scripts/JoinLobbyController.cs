@@ -14,6 +14,8 @@ public class JoinLobbyController : MonoBehaviourPunCallbacks
     private GameObject leaveLobbyButton;
     [SerializeField]
     private Text userMessage;
+    [SerializeField]
+    private GameObject userName;
 
     public void JoinLobby()
     {
@@ -26,6 +28,7 @@ public class JoinLobbyController : MonoBehaviourPunCallbacks
         {
             leaveLobbyButton.SetActive(true);
             joinLobbyButton.SetActive(false);
+            PhotonNetwork.NickName = userName.GetComponent<TMP_InputField>().text; // sets local users name before connecting to a room
             PhotonNetwork.JoinRoom(text);
         }
         
@@ -39,6 +42,7 @@ public class JoinLobbyController : MonoBehaviourPunCallbacks
     public override void OnJoinedRoom()
     {
         userMessage.text = "Lobby joined!";
+        
     }
 
     public void LeaveLobby()

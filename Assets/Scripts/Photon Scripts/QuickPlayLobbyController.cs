@@ -2,6 +2,7 @@ using Photon.Pun;
 using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
+using Photon.Realtime;
 
 public class QuickPlayLobbyController : MonoBehaviourPunCallbacks
 {
@@ -24,13 +25,18 @@ public class QuickPlayLobbyController : MonoBehaviourPunCallbacks
         StartGame();
     }
 
+    public override void OnPlayerEnteredRoom(Player newPlayer)
+    {
+        StartGame();
+    }
+
     private void StartGame()
     {
         // TODO: Fill with our load scripts
-        // if (PhotonNetwork.IsMasterClient){
-        //     Debug.Log("Starting Game");
-        //     PhotonNetwork.LoadLevel(multiplayerScenceIndex); //since autosyncscene is set to true all players are loaded into the scene
-        // }
+        if (PhotonNetwork.CurrentRoom.MaxPlayers == PhotonNetwork.CurrentRoom.PlayerCount){ //if the room is full
+            Debug.Log("Starting Game");
+            PhotonNetwork.LoadLevel(multiplayerScenceIndex); //since autosyncscene is set to true all players are loaded into the scene
+        }
     }
 
     // Start is called before the first frame update
