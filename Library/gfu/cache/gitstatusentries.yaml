@@ -13,1589 +13,1566 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-03-15T14:32:42.129-05:00
-  initializedAtString: 2021-03-15T14:27:55.580-05:00
+  lastUpdatedAtString: 2021-03-22T17:07:58.873-05:00
+  initializedAtString: 2021-03-22T17:07:19.851-05:00
   entries:
-  - path: Assets\Plugins.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins.meta
-    projectPath: Assets\Plugins.meta
+  - path: .vs\Blitz Champz\v16\.suo
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\.vs\Blitz Champz\v16\.suo
+    projectPath: .vs\Blitz Champz\v16\.suo
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub.meta
-    projectPath: Assets\Plugins\GitHub.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor.meta
-    projectPath: Assets\Plugins\GitHub\Editor.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
-    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp.csproj
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\big-logo@2x.png
-    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
-    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Images\Cards.meta
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Cards.meta
+    projectPath: Assets\Images\Cards.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\credits.txt
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\credits.txt
-    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+  - path: Assets\Images\Cards\5_yard_run.png
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Cards\5_yard_run.png
+    projectPath: Assets\Images\Cards\5_yard_run.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\credits.txt.meta
-    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+  - path: Assets\Images\Cards\5_yard_run.png.meta
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Cards\5_yard_run.png.meta
+    projectPath: Assets\Images\Cards\5_yard_run.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\eula.txt
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\eula.txt
-    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+  - path: Assets\Images\Cards\back.png
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Cards\back.png
+    projectPath: Assets\Images\Cards\back.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\eula.txt.meta
-    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+  - path: Assets\Images\Cards\back.png.meta
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Cards\back.png.meta
+    projectPath: Assets\Images\Cards\back.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
-    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+  - path: Assets\Images\Cards\blitz.png
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Cards\blitz.png
+    projectPath: Assets\Images\Cards\blitz.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
-    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+  - path: Assets\Images\Cards\blitz.png.meta
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Cards\blitz.png.meta
+    projectPath: Assets\Images\Cards\blitz.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+  - path: Assets\Images\Cards\blocked_kick.png
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Cards\blocked_kick.png
+    projectPath: Assets\Images\Cards\blocked_kick.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+  - path: Assets\Images\Cards\blocked_kick.png.meta
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Cards\blocked_kick.png.meta
+    projectPath: Assets\Images\Cards\blocked_kick.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+  - path: Assets\Images\Cards\conversion.png
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Cards\conversion.png
+    projectPath: Assets\Images\Cards\conversion.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+  - path: Assets\Images\Cards\conversion.png.meta
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Cards\conversion.png.meta
+    projectPath: Assets\Images\Cards\conversion.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+  - path: Assets\Images\Cards\end_of_quarter1.png
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Cards\end_of_quarter1.png
+    projectPath: Assets\Images\Cards\end_of_quarter1.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+  - path: Assets\Images\Cards\end_of_quarter1.png.meta
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Cards\end_of_quarter1.png.meta
+    projectPath: Assets\Images\Cards\end_of_quarter1.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+  - path: Assets\Images\Cards\end_of_quarter2.png
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Cards\end_of_quarter2.png
+    projectPath: Assets\Images\Cards\end_of_quarter2.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+  - path: Assets\Images\Cards\end_of_quarter2.png.meta
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Cards\end_of_quarter2.png.meta
+    projectPath: Assets\Images\Cards\end_of_quarter2.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+  - path: Assets\Images\Cards\end_of_quarter3.png
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Cards\end_of_quarter3.png
+    projectPath: Assets\Images\Cards\end_of_quarter3.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+  - path: Assets\Images\Cards\end_of_quarter3.png.meta
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Cards\end_of_quarter3.png.meta
+    projectPath: Assets\Images\Cards\end_of_quarter3.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+  - path: Assets\Images\Cards\end_of_quarter4.png
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Cards\end_of_quarter4.png
+    projectPath: Assets\Images\Cards\end_of_quarter4.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+  - path: Assets\Images\Cards\end_of_quarter4.png.meta
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Cards\end_of_quarter4.png.meta
+    projectPath: Assets\Images\Cards\end_of_quarter4.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+  - path: Assets\Images\Cards\extra_point.png
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Cards\extra_point.png
+    projectPath: Assets\Images\Cards\extra_point.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+  - path: Assets\Images\Cards\extra_point.png.meta
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Cards\extra_point.png.meta
+    projectPath: Assets\Images\Cards\extra_point.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+  - path: Assets\Images\Cards\field_goal.png
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Cards\field_goal.png
+    projectPath: Assets\Images\Cards\field_goal.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+  - path: Assets\Images\Cards\field_goal.png.meta
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Cards\field_goal.png.meta
+    projectPath: Assets\Images\Cards\field_goal.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+  - path: Assets\Images\Cards\first_down.png
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Cards\first_down.png
+    projectPath: Assets\Images\Cards\first_down.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+  - path: Assets\Images\Cards\first_down.png.meta
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Cards\first_down.png.meta
+    projectPath: Assets\Images\Cards\first_down.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+  - path: Assets\Images\Cards\fumble.png
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Cards\fumble.png
+    projectPath: Assets\Images\Cards\fumble.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+  - path: Assets\Images\Cards\fumble.png.meta
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Cards\fumble.png.meta
+    projectPath: Assets\Images\Cards\fumble.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+  - path: Assets\Images\Cards\hail_mary.png
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Cards\hail_mary.png
+    projectPath: Assets\Images\Cards\hail_mary.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+  - path: Assets\Images\Cards\hail_mary.png.meta
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Cards\hail_mary.png.meta
+    projectPath: Assets\Images\Cards\hail_mary.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+  - path: Assets\Images\Cards\interception.png
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Cards\interception.png
+    projectPath: Assets\Images\Cards\interception.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+  - path: Assets\Images\Cards\interception.png.meta
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Cards\interception.png.meta
+    projectPath: Assets\Images\Cards\interception.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+  - path: Assets\Images\Cards\pass_completion.png
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Cards\pass_completion.png
+    projectPath: Assets\Images\Cards\pass_completion.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+  - path: Assets\Images\Cards\pass_completion.png.meta
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Cards\pass_completion.png.meta
+    projectPath: Assets\Images\Cards\pass_completion.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+  - path: Assets\Images\Cards\passing_td.png
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Cards\passing_td.png
+    projectPath: Assets\Images\Cards\passing_td.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+  - path: Assets\Images\Cards\passing_td.png.meta
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Cards\passing_td.png.meta
+    projectPath: Assets\Images\Cards\passing_td.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+  - path: Assets\Images\Cards\rushing_td.png
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Cards\rushing_td.png
+    projectPath: Assets\Images\Cards\rushing_td.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+  - path: Assets\Images\Cards\rushing_td.png.meta
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Cards\rushing_td.png.meta
+    projectPath: Assets\Images\Cards\rushing_td.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+  - path: Assets\Images\Cards\tackle.png
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Cards\tackle.png
+    projectPath: Assets\Images\Cards\tackle.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+  - path: Assets\Images\Cards\tackle.png.meta
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Cards\tackle.png.meta
+    projectPath: Assets\Images\Cards\tackle.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+  - path: Assets\Images\Networking Connected.png.meta
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Networking
+      Connected.png.meta
+    projectPath: Assets\Images\Networking Connected.png.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Images\Networking Disconnected.png.meta
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Images\Networking
+      Disconnected.png.meta
+    projectPath: Assets\Images\Networking Disconnected.png.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Cards and Deck.meta
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards and
+      Deck.meta
+    projectPath: Assets\Scripts\Cards and Deck.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+  - path: Assets\Scripts\Cards and Deck\Card.cs
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards and
+      Deck\Card.cs
+    projectPath: Assets\Scripts\Cards and Deck\Card.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\libsfw.bundle
-    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+  - path: Assets\Scripts\Cards and Deck\Card.cs.meta
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards and
+      Deck\Card.cs.meta
+    projectPath: Assets\Scripts\Cards and Deck\Card.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
-    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+  - path: Assets\Scripts\Cards and Deck\ContinuationCard.cs
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards and
+      Deck\ContinuationCard.cs
+    projectPath: Assets\Scripts\Cards and Deck\ContinuationCard.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\libsfw.so
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\libsfw.so
-    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+  - path: Assets\Scripts\Cards and Deck\ContinuationCard.cs.meta
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards and
+      Deck\ContinuationCard.cs.meta
+    projectPath: Assets\Scripts\Cards and Deck\ContinuationCard.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\libsfw.so.meta
-    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+  - path: Assets\Scripts\Cards and Deck\Deck.cs
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards and
+      Deck\Deck.cs
+    projectPath: Assets\Scripts\Cards and Deck\Deck.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
-    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+  - path: Assets\Scripts\Cards and Deck\Deck.cs.meta
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards and
+      Deck\Deck.cs.meta
+    projectPath: Assets\Scripts\Cards and Deck\Deck.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+  - path: Assets\Scripts\Cards and Deck\DefensiveCard.cs
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards and
+      Deck\DefensiveCard.cs
+    projectPath: Assets\Scripts\Cards and Deck\DefensiveCard.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
-    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+  - path: Assets\Scripts\Cards and Deck\DefensiveCard.cs.meta
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards and
+      Deck\DefensiveCard.cs.meta
+    projectPath: Assets\Scripts\Cards and Deck\DefensiveCard.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
-    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+  - path: Assets\Scripts\Cards and Deck\OffensiveCard.cs
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards and
+      Deck\OffensiveCard.cs
+    projectPath: Assets\Scripts\Cards and Deck\OffensiveCard.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
-    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+  - path: Assets\Scripts\Cards and Deck\OffensiveCard.cs.meta
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards and
+      Deck\OffensiveCard.cs.meta
+    projectPath: Assets\Scripts\Cards and Deck\OffensiveCard.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+  - path: Assets\Scripts\GamePlayer.cs
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\GamePlayer.cs
+    projectPath: Assets\Scripts\GamePlayer.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\sfw.net.dll
-    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+  - path: Assets\Scripts\GamePlayer.cs.meta
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\GamePlayer.cs.meta
+    projectPath: Assets\Scripts\GamePlayer.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+  - path: Assets\Scripts\GameUI.cs
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\GameUI.cs
+    projectPath: Assets\Scripts\GameUI.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\System.Threading.dll
-    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\GameUI.cs.meta
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\GameUI.cs.meta
+    projectPath: Assets\Scripts\GameUI.cs.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\MainMenu.cs
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\MainMenu.cs
+    projectPath: Assets\Scripts\MainMenu.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
-    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\MainMenu.cs.meta
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\MainMenu.cs.meta
+    projectPath: Assets\Scripts\MainMenu.cs.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
-    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\OnButtonSelected.cs
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\OnButtonSelected.cs
+    projectPath: Assets\Scripts\OnButtonSelected.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x64.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\x64.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\OnButtonSelected.cs.meta
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\OnButtonSelected.cs.meta
+    projectPath: Assets\Scripts\OnButtonSelected.cs.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
-    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Table.cs
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Table.cs
+    projectPath: Assets\Scripts\Table.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+  - path: Assets\Scripts\Table.cs.meta
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Table.cs.meta
+    projectPath: Assets\Scripts\Table.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
-    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+  - path: Assets\Scripts\UI.meta
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\UI.meta
+    projectPath: Assets\Scripts\UI.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+  - path: Assets\Scripts\UI\GameUI.cs
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\UI\GameUI.cs
+    projectPath: Assets\Scripts\UI\GameUI.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x86.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\x86.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+  - path: Assets\Scripts\UI\GameUI.cs.meta
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\UI\GameUI.cs.meta
+    projectPath: Assets\Scripts\UI\GameUI.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
-    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+  - path: Assets\Scripts\UI\MainMenu.cs
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\UI\MainMenu.cs
+    projectPath: Assets\Scripts\UI\MainMenu.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+  - path: Assets\Scripts\UI\MainMenu.cs.meta
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\UI\MainMenu.cs.meta
+    projectPath: Assets\Scripts\UI\MainMenu.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
-    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+  - path: Assets\Scripts\UI\OnButtonSelected.cs
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\UI\OnButtonSelected.cs
+    projectPath: Assets\Scripts\UI\OnButtonSelected.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+  - path: Assets\Scripts\UI\OnButtonSelected.cs.meta
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\UI\OnButtonSelected.cs.meta
+    projectPath: Assets\Scripts\UI\OnButtonSelected.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Library\ArtifactDB
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ArtifactDB
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\01\016198a3cd7f0731b7c6e96c05a43b73
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\01\016198a3cd7f0731b7c6e96c05a43b73
-    projectPath: Library\Artifacts\01\016198a3cd7f0731b7c6e96c05a43b73
+  - path: Library\Artifacts\02\0243cef377d08363370a072fef660626
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\02\0243cef377d08363370a072fef660626
+    projectPath: Library\Artifacts\02\0243cef377d08363370a072fef660626
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\01\01d4ad0ba11be587578ccc94b5ccf3a6
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\01\01d4ad0ba11be587578ccc94b5ccf3a6
-    projectPath: Library\Artifacts\01\01d4ad0ba11be587578ccc94b5ccf3a6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\03\03220ec6940a4ce2e9da75b10380dc49
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\03\03220ec6940a4ce2e9da75b10380dc49
-    projectPath: Library\Artifacts\03\03220ec6940a4ce2e9da75b10380dc49
+  - path: Library\Artifacts\07\0718d9ee6ed4e6786c5c692b861fef12
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\07\0718d9ee6ed4e6786c5c692b861fef12
+    projectPath: Library\Artifacts\07\0718d9ee6ed4e6786c5c692b861fef12
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\03\03255e8e45e81612c0a816b1a7c77c8d
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\03\03255e8e45e81612c0a816b1a7c77c8d
-    projectPath: Library\Artifacts\03\03255e8e45e81612c0a816b1a7c77c8d
+  - path: Library\Artifacts\09\095f63aa4ce41ce7048a3912010144ba
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\09\095f63aa4ce41ce7048a3912010144ba
+    projectPath: Library\Artifacts\09\095f63aa4ce41ce7048a3912010144ba
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\03\035dcda765ca05a16214879a478fad7c
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\03\035dcda765ca05a16214879a478fad7c
-    projectPath: Library\Artifacts\03\035dcda765ca05a16214879a478fad7c
+  - path: Library\Artifacts\0e\0e0019022746a7175b22a1e948818246
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\0e\0e0019022746a7175b22a1e948818246
+    projectPath: Library\Artifacts\0e\0e0019022746a7175b22a1e948818246
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\05\05de91dd4e1db3d167f75c6cacb930c2
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\05\05de91dd4e1db3d167f75c6cacb930c2
-    projectPath: Library\Artifacts\05\05de91dd4e1db3d167f75c6cacb930c2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\08\08f698b2f57eb2d2c8ed7c6f6af51b8d
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\08\08f698b2f57eb2d2c8ed7c6f6af51b8d
-    projectPath: Library\Artifacts\08\08f698b2f57eb2d2c8ed7c6f6af51b8d
+  - path: Library\Artifacts\10\109435f76ae3685eddcc583a16971b57
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\10\109435f76ae3685eddcc583a16971b57
+    projectPath: Library\Artifacts\10\109435f76ae3685eddcc583a16971b57
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\09\0968c929629a8205785b1c655984ca9d
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\09\0968c929629a8205785b1c655984ca9d
-    projectPath: Library\Artifacts\09\0968c929629a8205785b1c655984ca9d
+  - path: Library\Artifacts\11\11b2f6fa0d19420f0fd596f4ed1b5961
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\11\11b2f6fa0d19420f0fd596f4ed1b5961
+    projectPath: Library\Artifacts\11\11b2f6fa0d19420f0fd596f4ed1b5961
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\0c\0c60c86281347226d4bcb35b6851fdc4
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\0c\0c60c86281347226d4bcb35b6851fdc4
-    projectPath: Library\Artifacts\0c\0c60c86281347226d4bcb35b6851fdc4
+  - path: Library\Artifacts\12\123774dffecd818b0a4e2750bd142d7e
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\12\123774dffecd818b0a4e2750bd142d7e
+    projectPath: Library\Artifacts\12\123774dffecd818b0a4e2750bd142d7e
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\0f\0f22dc02b862dc306ade2c4bb69d091b
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\0f\0f22dc02b862dc306ade2c4bb69d091b
-    projectPath: Library\Artifacts\0f\0f22dc02b862dc306ade2c4bb69d091b
+  - path: Library\Artifacts\13\134cb7bc1edfec6c64fe53a934f5f320
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\13\134cb7bc1edfec6c64fe53a934f5f320
+    projectPath: Library\Artifacts\13\134cb7bc1edfec6c64fe53a934f5f320
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\10\108ff22c79273bb8151f19d7fca60821
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\10\108ff22c79273bb8151f19d7fca60821
-    projectPath: Library\Artifacts\10\108ff22c79273bb8151f19d7fca60821
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\11\11f418b1f7ae8c12561ebd17ecef937f
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\11\11f418b1f7ae8c12561ebd17ecef937f
-    projectPath: Library\Artifacts\11\11f418b1f7ae8c12561ebd17ecef937f
+  - path: Library\Artifacts\16\16d2ee98c271db1ed8f8d4868c0c6589
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\16\16d2ee98c271db1ed8f8d4868c0c6589
+    projectPath: Library\Artifacts\16\16d2ee98c271db1ed8f8d4868c0c6589
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\13\132e2e45e8a3a8742bef96df58ced9b0
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\13\132e2e45e8a3a8742bef96df58ced9b0
-    projectPath: Library\Artifacts\13\132e2e45e8a3a8742bef96df58ced9b0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\15\1560af21004d6070d573cf0afbcf96ef
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\15\1560af21004d6070d573cf0afbcf96ef
-    projectPath: Library\Artifacts\15\1560af21004d6070d573cf0afbcf96ef
+  - path: Library\Artifacts\18\18033a7984f3b1080f8afa0cccd65919
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\18\18033a7984f3b1080f8afa0cccd65919
+    projectPath: Library\Artifacts\18\18033a7984f3b1080f8afa0cccd65919
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\17\17c685d625bfb55f08813fe8428e46da
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\17\17c685d625bfb55f08813fe8428e46da
-    projectPath: Library\Artifacts\17\17c685d625bfb55f08813fe8428e46da
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\1a\1a8a160a01f8eedbcb803ea7f634afb7
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\1a\1a8a160a01f8eedbcb803ea7f634afb7
-    projectPath: Library\Artifacts\1a\1a8a160a01f8eedbcb803ea7f634afb7
+  - path: Library\Artifacts\19\1970048046b4ed53cfa9d7f09c0f5cf5
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\19\1970048046b4ed53cfa9d7f09c0f5cf5
+    projectPath: Library\Artifacts\19\1970048046b4ed53cfa9d7f09c0f5cf5
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\1c\1c8d60ffb8486a99b068d644bf78b542
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\1c\1c8d60ffb8486a99b068d644bf78b542
-    projectPath: Library\Artifacts\1c\1c8d60ffb8486a99b068d644bf78b542
+  - path: Library\Artifacts\1a\1ae45c49090ce3f617e4d4ee4db9f790
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\1a\1ae45c49090ce3f617e4d4ee4db9f790
+    projectPath: Library\Artifacts\1a\1ae45c49090ce3f617e4d4ee4db9f790
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\1f\1f25c76a377f9efdd9f2a53c984cf4ff
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\1f\1f25c76a377f9efdd9f2a53c984cf4ff
-    projectPath: Library\Artifacts\1f\1f25c76a377f9efdd9f2a53c984cf4ff
+  - path: Library\Artifacts\1b\1bd3cf4b2e71d882932f748d9fee9acb
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\1b\1bd3cf4b2e71d882932f748d9fee9acb
+    projectPath: Library\Artifacts\1b\1bd3cf4b2e71d882932f748d9fee9acb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\1d\1d7edaa48911aa9cfc40c191d5b008dd
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\1d\1d7edaa48911aa9cfc40c191d5b008dd
+    projectPath: Library\Artifacts\1d\1d7edaa48911aa9cfc40c191d5b008dd
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\20\2019aa419535e36d88909d102f723e4b
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\20\2019aa419535e36d88909d102f723e4b
-    projectPath: Library\Artifacts\20\2019aa419535e36d88909d102f723e4b
+  - path: Library\Artifacts\20\2066ea0365cad72d45c15a0af39eecb9
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\20\2066ea0365cad72d45c15a0af39eecb9
+    projectPath: Library\Artifacts\20\2066ea0365cad72d45c15a0af39eecb9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\21\21ed92096c0026f624eb82686e9e0baa
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\21\21ed92096c0026f624eb82686e9e0baa
+    projectPath: Library\Artifacts\21\21ed92096c0026f624eb82686e9e0baa
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\22\22b7466021e2acbf152938e34e1168dc
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\22\22b7466021e2acbf152938e34e1168dc
+    projectPath: Library\Artifacts\22\22b7466021e2acbf152938e34e1168dc
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\21\21d7caba8bf31be3c859c024f7dd4a1f
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\21\21d7caba8bf31be3c859c024f7dd4a1f
-    projectPath: Library\Artifacts\21\21d7caba8bf31be3c859c024f7dd4a1f
+  - path: Library\Artifacts\24\24524919da12f32afe44d2b9ef6ba46c
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\24\24524919da12f32afe44d2b9ef6ba46c
+    projectPath: Library\Artifacts\24\24524919da12f32afe44d2b9ef6ba46c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\24\24d28865963e09b33c58ece05883bc30
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\24\24d28865963e09b33c58ece05883bc30
+    projectPath: Library\Artifacts\24\24d28865963e09b33c58ece05883bc30
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\25\258004b21ff8cda746d668218c21b6aa
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\25\258004b21ff8cda746d668218c21b6aa
+    projectPath: Library\Artifacts\25\258004b21ff8cda746d668218c21b6aa
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\22\228578208a09d47a9dd794cf8ecacd3d
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\22\228578208a09d47a9dd794cf8ecacd3d
-    projectPath: Library\Artifacts\22\228578208a09d47a9dd794cf8ecacd3d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\22\22ec8cdb833548b4e7d0f2fe974db81e
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\22\22ec8cdb833548b4e7d0f2fe974db81e
-    projectPath: Library\Artifacts\22\22ec8cdb833548b4e7d0f2fe974db81e
+  - path: Library\Artifacts\27\278323417591b767bcc7f71a27e6cb4e
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\27\278323417591b767bcc7f71a27e6cb4e
+    projectPath: Library\Artifacts\27\278323417591b767bcc7f71a27e6cb4e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\23\23fd9a4cb2e553c00730463997890708
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\23\23fd9a4cb2e553c00730463997890708
-    projectPath: Library\Artifacts\23\23fd9a4cb2e553c00730463997890708
+  - path: Library\Artifacts\28\2887a1a8a3b320f2737b9e62be5b72d0
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\28\2887a1a8a3b320f2737b9e62be5b72d0
+    projectPath: Library\Artifacts\28\2887a1a8a3b320f2737b9e62be5b72d0
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\26\26bcd7b8c2b0c1021e8deeeeed1bcc92
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\26\26bcd7b8c2b0c1021e8deeeeed1bcc92
-    projectPath: Library\Artifacts\26\26bcd7b8c2b0c1021e8deeeeed1bcc92
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\28\281aa10784b645717a36010e6feb7457
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\28\281aa10784b645717a36010e6feb7457
-    projectPath: Library\Artifacts\28\281aa10784b645717a36010e6feb7457
+  - path: Library\Artifacts\2a\2a8426feaa1f58b82e39dbeac5529f26
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\2a\2a8426feaa1f58b82e39dbeac5529f26
+    projectPath: Library\Artifacts\2a\2a8426feaa1f58b82e39dbeac5529f26
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\2b\2be1b6be96eb18cbf436bd4fb468427e
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\2b\2be1b6be96eb18cbf436bd4fb468427e
-    projectPath: Library\Artifacts\2b\2be1b6be96eb18cbf436bd4fb468427e
+  - path: Library\Artifacts\31\314e03a3a947aca824ff5a605ec8e72f
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\31\314e03a3a947aca824ff5a605ec8e72f
+    projectPath: Library\Artifacts\31\314e03a3a947aca824ff5a605ec8e72f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\2f\2fb167ddd05875f76da284f364e8f68a
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\2f\2fb167ddd05875f76da284f364e8f68a
-    projectPath: Library\Artifacts\2f\2fb167ddd05875f76da284f364e8f68a
+  - path: Library\Artifacts\33\33260ce5b0ede8c97edae2a37bcd171a
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\33\33260ce5b0ede8c97edae2a37bcd171a
+    projectPath: Library\Artifacts\33\33260ce5b0ede8c97edae2a37bcd171a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\33\3332fa822da21d4a15e0bce9d4059c0c
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\33\3332fa822da21d4a15e0bce9d4059c0c
+    projectPath: Library\Artifacts\33\3332fa822da21d4a15e0bce9d4059c0c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\34\348f96907793709a2ab05fbdbca8a8f3
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\34\348f96907793709a2ab05fbdbca8a8f3
+    projectPath: Library\Artifacts\34\348f96907793709a2ab05fbdbca8a8f3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\30\30f87fd970426fb4677f572b2387857a
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\30\30f87fd970426fb4677f572b2387857a
-    projectPath: Library\Artifacts\30\30f87fd970426fb4677f572b2387857a
+  - path: Library\Artifacts\36\360509d6c1bd9eea4fae1ff80e260a4c
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\36\360509d6c1bd9eea4fae1ff80e260a4c
+    projectPath: Library\Artifacts\36\360509d6c1bd9eea4fae1ff80e260a4c
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\35\35430e16022c68fff52d06737ac54168
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\35\35430e16022c68fff52d06737ac54168
-    projectPath: Library\Artifacts\35\35430e16022c68fff52d06737ac54168
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\35\35d4a29e1309f5197d9e37afa716eb73
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\35\35d4a29e1309f5197d9e37afa716eb73
-    projectPath: Library\Artifacts\35\35d4a29e1309f5197d9e37afa716eb73
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\39\39f93a3a8155c9d0d82d86e2efdee825
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\39\39f93a3a8155c9d0d82d86e2efdee825
-    projectPath: Library\Artifacts\39\39f93a3a8155c9d0d82d86e2efdee825
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\3a\3a14cd17548c2dd4c29603e787ce4e06
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\3a\3a14cd17548c2dd4c29603e787ce4e06
-    projectPath: Library\Artifacts\3a\3a14cd17548c2dd4c29603e787ce4e06
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\3a\3a1b0f8d32243a5030bbc6d296dc6560
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\3a\3a1b0f8d32243a5030bbc6d296dc6560
-    projectPath: Library\Artifacts\3a\3a1b0f8d32243a5030bbc6d296dc6560
+  - path: Library\Artifacts\36\369a4b8c940c90eff6006169f7e3f471
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\36\369a4b8c940c90eff6006169f7e3f471
+    projectPath: Library\Artifacts\36\369a4b8c940c90eff6006169f7e3f471
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\3a\3a9523682fd0db264b3f262b210b8a33
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\3a\3a9523682fd0db264b3f262b210b8a33
-    projectPath: Library\Artifacts\3a\3a9523682fd0db264b3f262b210b8a33
+  - path: Library\Artifacts\37\3748206225b7f484bdd075c74fdfcca0
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\37\3748206225b7f484bdd075c74fdfcca0
+    projectPath: Library\Artifacts\37\3748206225b7f484bdd075c74fdfcca0
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\3e\3ebc5840acb7b8b95dee4deba573db55
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\3e\3ebc5840acb7b8b95dee4deba573db55
-    projectPath: Library\Artifacts\3e\3ebc5840acb7b8b95dee4deba573db55
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\47\47a03868c4d8966fe5d283023735f7a7
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\47\47a03868c4d8966fe5d283023735f7a7
-    projectPath: Library\Artifacts\47\47a03868c4d8966fe5d283023735f7a7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\48\4819fd79629138ec96079180bd008650
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\48\4819fd79629138ec96079180bd008650
-    projectPath: Library\Artifacts\48\4819fd79629138ec96079180bd008650
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\48\486aafcf94f27349039472d4e3d8eef2
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\48\486aafcf94f27349039472d4e3d8eef2
-    projectPath: Library\Artifacts\48\486aafcf94f27349039472d4e3d8eef2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\49\492adb52fb27a3817cd2ee5e6464296f
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\49\492adb52fb27a3817cd2ee5e6464296f
-    projectPath: Library\Artifacts\49\492adb52fb27a3817cd2ee5e6464296f
+  - path: Library\Artifacts\40\4031b81e2c7d71511bd776fad744da30
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\40\4031b81e2c7d71511bd776fad744da30
+    projectPath: Library\Artifacts\40\4031b81e2c7d71511bd776fad744da30
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\4e\4e66893b2357d957e5a93cddd7922f70
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\4e\4e66893b2357d957e5a93cddd7922f70
-    projectPath: Library\Artifacts\4e\4e66893b2357d957e5a93cddd7922f70
+  - path: Library\Artifacts\42\422d8036169f4b1ba10cd5f59f26edb7
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\42\422d8036169f4b1ba10cd5f59f26edb7
+    projectPath: Library\Artifacts\42\422d8036169f4b1ba10cd5f59f26edb7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\46\46bfd478d838a05bb5f01ec54a936234
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\46\46bfd478d838a05bb5f01ec54a936234
+    projectPath: Library\Artifacts\46\46bfd478d838a05bb5f01ec54a936234
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\4e\4eca8f62d30c286927bdb6737cd56210
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\4e\4eca8f62d30c286927bdb6737cd56210
-    projectPath: Library\Artifacts\4e\4eca8f62d30c286927bdb6737cd56210
+  - path: Library\Artifacts\4d\4d2c616996180b685df7924121aa6d85
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\4d\4d2c616996180b685df7924121aa6d85
+    projectPath: Library\Artifacts\4d\4d2c616996180b685df7924121aa6d85
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\4f\4fdcf4ff35dddc1650d23ede3ebe5098
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\4f\4fdcf4ff35dddc1650d23ede3ebe5098
-    projectPath: Library\Artifacts\4f\4fdcf4ff35dddc1650d23ede3ebe5098
+  - path: Library\Artifacts\4d\4df9793853c5d6f86186e972d41a65f0
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\4d\4df9793853c5d6f86186e972d41a65f0
+    projectPath: Library\Artifacts\4d\4df9793853c5d6f86186e972d41a65f0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\4f\4fe9f242def4a47a574dc11952a6d6a5
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\4f\4fe9f242def4a47a574dc11952a6d6a5
-    projectPath: Library\Artifacts\4f\4fe9f242def4a47a574dc11952a6d6a5
+  - path: Library\Artifacts\4e\4edce71d3c5413bde1f3821fb1bd0eac
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\4e\4edce71d3c5413bde1f3821fb1bd0eac
+    projectPath: Library\Artifacts\4e\4edce71d3c5413bde1f3821fb1bd0eac
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\51\514eb01b10b154761cdac26748eeb210
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\51\514eb01b10b154761cdac26748eeb210
-    projectPath: Library\Artifacts\51\514eb01b10b154761cdac26748eeb210
+  - path: Library\Artifacts\51\515538f9a3993f637517bba9269039f7
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\51\515538f9a3993f637517bba9269039f7
+    projectPath: Library\Artifacts\51\515538f9a3993f637517bba9269039f7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\51\5162a0aa0ae93e70bfb1c371d1453e61
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\51\5162a0aa0ae93e70bfb1c371d1453e61
-    projectPath: Library\Artifacts\51\5162a0aa0ae93e70bfb1c371d1453e61
+  - path: Library\Artifacts\5b\5b667f5d812b5106f6999ac1d29d1420
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\5b\5b667f5d812b5106f6999ac1d29d1420
+    projectPath: Library\Artifacts\5b\5b667f5d812b5106f6999ac1d29d1420
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\52\52359ae4092365f9426e96e2afa7014c
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\52\52359ae4092365f9426e96e2afa7014c
-    projectPath: Library\Artifacts\52\52359ae4092365f9426e96e2afa7014c
+  - path: Library\Artifacts\5e\5e641dcbcf78548990883748cf2e2234
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\5e\5e641dcbcf78548990883748cf2e2234
+    projectPath: Library\Artifacts\5e\5e641dcbcf78548990883748cf2e2234
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\53\534b4ec6d1ec7e01cab74c8076bcfdf6
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\53\534b4ec6d1ec7e01cab74c8076bcfdf6
-    projectPath: Library\Artifacts\53\534b4ec6d1ec7e01cab74c8076bcfdf6
+  - path: Library\Artifacts\5f\5f7d26878e4b5db734c7b00d97c5e562
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\5f\5f7d26878e4b5db734c7b00d97c5e562
+    projectPath: Library\Artifacts\5f\5f7d26878e4b5db734c7b00d97c5e562
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\54\54e56bc41fbd09065e6d58e75f49dbac
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\54\54e56bc41fbd09065e6d58e75f49dbac
-    projectPath: Library\Artifacts\54\54e56bc41fbd09065e6d58e75f49dbac
+  - path: Library\Artifacts\60\60c3fb7f70630de3197ff114e63550a8
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\60\60c3fb7f70630de3197ff114e63550a8
+    projectPath: Library\Artifacts\60\60c3fb7f70630de3197ff114e63550a8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\62\6253f2b3317dc39c65a5062144c2a43b
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\62\6253f2b3317dc39c65a5062144c2a43b
+    projectPath: Library\Artifacts\62\6253f2b3317dc39c65a5062144c2a43b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\58\58e6a4f46b070f88fd687da5089c06fb
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\58\58e6a4f46b070f88fd687da5089c06fb
-    projectPath: Library\Artifacts\58\58e6a4f46b070f88fd687da5089c06fb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\5a\5a09618e55d46df3deb100474c9f2d4c
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\5a\5a09618e55d46df3deb100474c9f2d4c
-    projectPath: Library\Artifacts\5a\5a09618e55d46df3deb100474c9f2d4c
+  - path: Library\Artifacts\63\637028f566d94c785be8b57ad288ac68
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\63\637028f566d94c785be8b57ad288ac68
+    projectPath: Library\Artifacts\63\637028f566d94c785be8b57ad288ac68
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\5b\5ba7fc73b2fd5ab437a4b30488b4795f
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\5b\5ba7fc73b2fd5ab437a4b30488b4795f
-    projectPath: Library\Artifacts\5b\5ba7fc73b2fd5ab437a4b30488b4795f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\5f\5f3303791ccd73cad2fae4b0afe8d0e4
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\5f\5f3303791ccd73cad2fae4b0afe8d0e4
-    projectPath: Library\Artifacts\5f\5f3303791ccd73cad2fae4b0afe8d0e4
+  - path: Library\Artifacts\63\6398098c5568667cb641f7e8e1a62c0e
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\63\6398098c5568667cb641f7e8e1a62c0e
+    projectPath: Library\Artifacts\63\6398098c5568667cb641f7e8e1a62c0e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\60\608fe9bfef010a014e2b7a9289c47cf0
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\60\608fe9bfef010a014e2b7a9289c47cf0
-    projectPath: Library\Artifacts\60\608fe9bfef010a014e2b7a9289c47cf0
+  - path: Library\Artifacts\64\645b1b0240afa35afc8932decd67dc0d
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\64\645b1b0240afa35afc8932decd67dc0d
+    projectPath: Library\Artifacts\64\645b1b0240afa35afc8932decd67dc0d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\65\65a994709f41bba8ab433e5cf5903e0a
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\65\65a994709f41bba8ab433e5cf5903e0a
+    projectPath: Library\Artifacts\65\65a994709f41bba8ab433e5cf5903e0a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\62\629c8b670efbcf8bf6bf22b0d6019351
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\62\629c8b670efbcf8bf6bf22b0d6019351
-    projectPath: Library\Artifacts\62\629c8b670efbcf8bf6bf22b0d6019351
+  - path: Library\Artifacts\67\67055051849102ccaab8ed77f5b3fb08
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\67\67055051849102ccaab8ed77f5b3fb08
+    projectPath: Library\Artifacts\67\67055051849102ccaab8ed77f5b3fb08
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\63\63ac38f80817674b4aa5cba1fa02fdb4
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\63\63ac38f80817674b4aa5cba1fa02fdb4
-    projectPath: Library\Artifacts\63\63ac38f80817674b4aa5cba1fa02fdb4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\63\63f564e5756a2c28b18cad228b34800c
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\63\63f564e5756a2c28b18cad228b34800c
-    projectPath: Library\Artifacts\63\63f564e5756a2c28b18cad228b34800c
+  - path: Library\Artifacts\6d\6d836a8a9e2cf8545986e8d84c9b64ab
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\6d\6d836a8a9e2cf8545986e8d84c9b64ab
+    projectPath: Library\Artifacts\6d\6d836a8a9e2cf8545986e8d84c9b64ab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\63\63fa20a4c921d7eca42da3d0ed06f0fa
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\63\63fa20a4c921d7eca42da3d0ed06f0fa
-    projectPath: Library\Artifacts\63\63fa20a4c921d7eca42da3d0ed06f0fa
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\65\65dc9166be9d5bddb3c176fd8b6ec0fe
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\65\65dc9166be9d5bddb3c176fd8b6ec0fe
-    projectPath: Library\Artifacts\65\65dc9166be9d5bddb3c176fd8b6ec0fe
+  - path: Library\Artifacts\71\7119bd5cca274b3c49490e72dae4040b
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\71\7119bd5cca274b3c49490e72dae4040b
+    projectPath: Library\Artifacts\71\7119bd5cca274b3c49490e72dae4040b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\69\69998c8b6b8e036bf6196c26d5029b8b
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\69\69998c8b6b8e036bf6196c26d5029b8b
-    projectPath: Library\Artifacts\69\69998c8b6b8e036bf6196c26d5029b8b
+  - path: Library\Artifacts\72\729303597106f8add9353873f432ee8d
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\72\729303597106f8add9353873f432ee8d
+    projectPath: Library\Artifacts\72\729303597106f8add9353873f432ee8d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\74\74f4bd1ab86fed8d6b55fde67b3bfd0b
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\74\74f4bd1ab86fed8d6b55fde67b3bfd0b
+    projectPath: Library\Artifacts\74\74f4bd1ab86fed8d6b55fde67b3bfd0b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\6b\6baa7263942c7fa3a17876ac566d7285
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\6b\6baa7263942c7fa3a17876ac566d7285
-    projectPath: Library\Artifacts\6b\6baa7263942c7fa3a17876ac566d7285
+  - path: Library\Artifacts\75\75a7c1817b27ded9b609603c07694d55
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\75\75a7c1817b27ded9b609603c07694d55
+    projectPath: Library\Artifacts\75\75a7c1817b27ded9b609603c07694d55
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\70\703660171dd2cacfa4cd53b5ef23cab5
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\70\703660171dd2cacfa4cd53b5ef23cab5
-    projectPath: Library\Artifacts\70\703660171dd2cacfa4cd53b5ef23cab5
+  - path: Library\Artifacts\78\787ca5c2835a387fe138f1f9cc133ecb
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\78\787ca5c2835a387fe138f1f9cc133ecb
+    projectPath: Library\Artifacts\78\787ca5c2835a387fe138f1f9cc133ecb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\70\70991952888128f1e38a796d299e837b
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\70\70991952888128f1e38a796d299e837b
-    projectPath: Library\Artifacts\70\70991952888128f1e38a796d299e837b
+  - path: Library\Artifacts\79\7919ba4c6542318b1feae188b674d442
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\79\7919ba4c6542318b1feae188b674d442
+    projectPath: Library\Artifacts\79\7919ba4c6542318b1feae188b674d442
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\79\79bd7c98ad4485d10cab6441db141401
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\79\79bd7c98ad4485d10cab6441db141401
+    projectPath: Library\Artifacts\79\79bd7c98ad4485d10cab6441db141401
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\7a\7a20e853f97187b2a9f38d6327175e68
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\7a\7a20e853f97187b2a9f38d6327175e68
+    projectPath: Library\Artifacts\7a\7a20e853f97187b2a9f38d6327175e68
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\7c\7c6d8857736c749144313064d9723fb7
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\7c\7c6d8857736c749144313064d9723fb7
+    projectPath: Library\Artifacts\7c\7c6d8857736c749144313064d9723fb7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\70\70f4422f94166d75e474aa31776d4803
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\70\70f4422f94166d75e474aa31776d4803
-    projectPath: Library\Artifacts\70\70f4422f94166d75e474aa31776d4803
+  - path: Library\Artifacts\7f\7f48018334346d5b23846a92050e07fb
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\7f\7f48018334346d5b23846a92050e07fb
+    projectPath: Library\Artifacts\7f\7f48018334346d5b23846a92050e07fb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\73\73467662d9fa92adae2b70932acedb97
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\73\73467662d9fa92adae2b70932acedb97
-    projectPath: Library\Artifacts\73\73467662d9fa92adae2b70932acedb97
+  - path: Library\Artifacts\83\83250c952b051b8aaf4d32a59346c9c2
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\83\83250c952b051b8aaf4d32a59346c9c2
+    projectPath: Library\Artifacts\83\83250c952b051b8aaf4d32a59346c9c2
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\74\74d6cb9c9a6aab7ad841849343d83938
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\74\74d6cb9c9a6aab7ad841849343d83938
-    projectPath: Library\Artifacts\74\74d6cb9c9a6aab7ad841849343d83938
+  - path: Library\Artifacts\84\84e1919039d2abb32b203ec96e37afd9
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\84\84e1919039d2abb32b203ec96e37afd9
+    projectPath: Library\Artifacts\84\84e1919039d2abb32b203ec96e37afd9
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\76\7688de4f1120d31d9ddbc9adef6e853a
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\76\7688de4f1120d31d9ddbc9adef6e853a
-    projectPath: Library\Artifacts\76\7688de4f1120d31d9ddbc9adef6e853a
+  - path: Library\Artifacts\86\861d4d1e8a96a0eb5fec72d468790d8a
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\86\861d4d1e8a96a0eb5fec72d468790d8a
+    projectPath: Library\Artifacts\86\861d4d1e8a96a0eb5fec72d468790d8a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\77\778e9ca03e8f899e620cbb2bd0b8a843
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\77\778e9ca03e8f899e620cbb2bd0b8a843
-    projectPath: Library\Artifacts\77\778e9ca03e8f899e620cbb2bd0b8a843
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\78\7849001be579d2381507ebcdaa5945c0
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\78\7849001be579d2381507ebcdaa5945c0
-    projectPath: Library\Artifacts\78\7849001be579d2381507ebcdaa5945c0
+  - path: Library\Artifacts\86\86db3c60ce8236cb6414616d2d9b90dd
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\86\86db3c60ce8236cb6414616d2d9b90dd
+    projectPath: Library\Artifacts\86\86db3c60ce8236cb6414616d2d9b90dd
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\7a\7a436e2063d1fe5f07cd99cf1123ec96
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\7a\7a436e2063d1fe5f07cd99cf1123ec96
-    projectPath: Library\Artifacts\7a\7a436e2063d1fe5f07cd99cf1123ec96
+  - path: Library\Artifacts\87\870618098118e4df173e65e6913d3c16
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\87\870618098118e4df173e65e6913d3c16
+    projectPath: Library\Artifacts\87\870618098118e4df173e65e6913d3c16
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\87\87877750807979f530631774b6ef13d8
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\87\87877750807979f530631774b6ef13d8
+    projectPath: Library\Artifacts\87\87877750807979f530631774b6ef13d8
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\7d\7d82a486bb5f9db88b66f89be7feb310
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\7d\7d82a486bb5f9db88b66f89be7feb310
-    projectPath: Library\Artifacts\7d\7d82a486bb5f9db88b66f89be7feb310
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\7f\7fb52ae6bb5b2090f69f432ee294ee8c
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\7f\7fb52ae6bb5b2090f69f432ee294ee8c
-    projectPath: Library\Artifacts\7f\7fb52ae6bb5b2090f69f432ee294ee8c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\81\818b2c0b1c0253209e87d2c6f05a5e12
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\81\818b2c0b1c0253209e87d2c6f05a5e12
-    projectPath: Library\Artifacts\81\818b2c0b1c0253209e87d2c6f05a5e12
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\85\85a622d1093fa5c212a188751cb193ed
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\85\85a622d1093fa5c212a188751cb193ed
-    projectPath: Library\Artifacts\85\85a622d1093fa5c212a188751cb193ed
+  - path: Library\Artifacts\8a\8ab6cdf5fe8a792df4f97d22e965748a
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\8a\8ab6cdf5fe8a792df4f97d22e965748a
+    projectPath: Library\Artifacts\8a\8ab6cdf5fe8a792df4f97d22e965748a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\89\894b3f17ef6d7c22023fa9b03dd66d18
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\89\894b3f17ef6d7c22023fa9b03dd66d18
-    projectPath: Library\Artifacts\89\894b3f17ef6d7c22023fa9b03dd66d18
+  - path: Library\Artifacts\8c\8c48898596d08838896ba9582936b6e3
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\8c\8c48898596d08838896ba9582936b6e3
+    projectPath: Library\Artifacts\8c\8c48898596d08838896ba9582936b6e3
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\8a\8acd6951ff36313c79cab22f94067619
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\8a\8acd6951ff36313c79cab22f94067619
-    projectPath: Library\Artifacts\8a\8acd6951ff36313c79cab22f94067619
+  - path: Library\Artifacts\8d\8d12d039f0dba41c825a1827863c6d6c
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\8d\8d12d039f0dba41c825a1827863c6d6c
+    projectPath: Library\Artifacts\8d\8d12d039f0dba41c825a1827863c6d6c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\8b\8bf420c4f9e685703c268eb733c4f059
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\8b\8bf420c4f9e685703c268eb733c4f059
-    projectPath: Library\Artifacts\8b\8bf420c4f9e685703c268eb733c4f059
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\8c\8ca8d6ba53dafa8b67c31fdbb4847955
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\8c\8ca8d6ba53dafa8b67c31fdbb4847955
-    projectPath: Library\Artifacts\8c\8ca8d6ba53dafa8b67c31fdbb4847955
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\8e\8e7c571ada9824aee9691ad076d73e8c
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\8e\8e7c571ada9824aee9691ad076d73e8c
-    projectPath: Library\Artifacts\8e\8e7c571ada9824aee9691ad076d73e8c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\92\92c00de3c11ac2a81e437f181d32046a
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\92\92c00de3c11ac2a81e437f181d32046a
-    projectPath: Library\Artifacts\92\92c00de3c11ac2a81e437f181d32046a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\99\99a609d3111ce9537b4c0f8eab173761
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\99\99a609d3111ce9537b4c0f8eab173761
-    projectPath: Library\Artifacts\99\99a609d3111ce9537b4c0f8eab173761
+  - path: Library\Artifacts\92\92213f47914951b2c0ffc1596fb6fa40
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\92\92213f47914951b2c0ffc1596fb6fa40
+    projectPath: Library\Artifacts\92\92213f47914951b2c0ffc1596fb6fa40
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\9a\9ae111dcaaa39d6860230abadbf25cad
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\9a\9ae111dcaaa39d6860230abadbf25cad
-    projectPath: Library\Artifacts\9a\9ae111dcaaa39d6860230abadbf25cad
+  - path: Library\Artifacts\93\93d3b7d7559bcaa1afc2cd6906f8290c
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\93\93d3b7d7559bcaa1afc2cd6906f8290c
+    projectPath: Library\Artifacts\93\93d3b7d7559bcaa1afc2cd6906f8290c
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\9e\9e0316377a6f308351e3ec1a634def4f
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\9e\9e0316377a6f308351e3ec1a634def4f
-    projectPath: Library\Artifacts\9e\9e0316377a6f308351e3ec1a634def4f
+  - path: Library\Artifacts\95\9579fa805f7ab3a6b52c03504714701d
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\95\9579fa805f7ab3a6b52c03504714701d
+    projectPath: Library\Artifacts\95\9579fa805f7ab3a6b52c03504714701d
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\a2\a2ca82c1116bcf13a1d01c86cc1e3818
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\a2\a2ca82c1116bcf13a1d01c86cc1e3818
-    projectPath: Library\Artifacts\a2\a2ca82c1116bcf13a1d01c86cc1e3818
+  - path: Library\Artifacts\9b\9b45605903bddac5244dc68a71071a81
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\9b\9b45605903bddac5244dc68a71071a81
+    projectPath: Library\Artifacts\9b\9b45605903bddac5244dc68a71071a81
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\a2\a2f6cd05a37b26f1c3da5e14a885baba
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\a2\a2f6cd05a37b26f1c3da5e14a885baba
-    projectPath: Library\Artifacts\a2\a2f6cd05a37b26f1c3da5e14a885baba
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\a5\a5e3c612f10d7fd9ddbae713cb58644d
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\a5\a5e3c612f10d7fd9ddbae713cb58644d
-    projectPath: Library\Artifacts\a5\a5e3c612f10d7fd9ddbae713cb58644d
+  - path: Library\Artifacts\9c\9c2cc2965db01c8e62b1b370929408de
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\9c\9c2cc2965db01c8e62b1b370929408de
+    projectPath: Library\Artifacts\9c\9c2cc2965db01c8e62b1b370929408de
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\a8\a8d059dec673b545fe9b9f58b71d79a3
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\a8\a8d059dec673b545fe9b9f58b71d79a3
-    projectPath: Library\Artifacts\a8\a8d059dec673b545fe9b9f58b71d79a3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\aa\aa6e5e98115f78141b1ed0e3acd4619f
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\aa\aa6e5e98115f78141b1ed0e3acd4619f
-    projectPath: Library\Artifacts\aa\aa6e5e98115f78141b1ed0e3acd4619f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ad\add2f03b1f38bd7c5cbcf13732c17345
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\ad\add2f03b1f38bd7c5cbcf13732c17345
-    projectPath: Library\Artifacts\ad\add2f03b1f38bd7c5cbcf13732c17345
+  - path: Library\Artifacts\9d\9d6a270bc6c0de4602aec5dccd250eb3
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\9d\9d6a270bc6c0de4602aec5dccd250eb3
+    projectPath: Library\Artifacts\9d\9d6a270bc6c0de4602aec5dccd250eb3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\ae\ae152aa278d1014f3929ff961f20825e
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\ae\ae152aa278d1014f3929ff961f20825e
-    projectPath: Library\Artifacts\ae\ae152aa278d1014f3929ff961f20825e
+  - path: Library\Artifacts\9f\9f409293c4332381fd94852a5761f773
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\9f\9f409293c4332381fd94852a5761f773
+    projectPath: Library\Artifacts\9f\9f409293c4332381fd94852a5761f773
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\ae\aee7317e9089a7be9dae94e323d44242
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\ae\aee7317e9089a7be9dae94e323d44242
-    projectPath: Library\Artifacts\ae\aee7317e9089a7be9dae94e323d44242
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\af\af93d2c57c29c337053fe85ecaf5aa55
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\af\af93d2c57c29c337053fe85ecaf5aa55
-    projectPath: Library\Artifacts\af\af93d2c57c29c337053fe85ecaf5aa55
+  - path: Library\Artifacts\a4\a45e12f3fee3346ce9f302054f2825ab
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\a4\a45e12f3fee3346ce9f302054f2825ab
+    projectPath: Library\Artifacts\a4\a45e12f3fee3346ce9f302054f2825ab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\b6\b69c2cc4cc9ed2850e3866ad0b58777a
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\b6\b69c2cc4cc9ed2850e3866ad0b58777a
-    projectPath: Library\Artifacts\b6\b69c2cc4cc9ed2850e3866ad0b58777a
+  - path: Library\Artifacts\a5\a5fd54b0b3d319f3955483c5dea8f37b
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\a5\a5fd54b0b3d319f3955483c5dea8f37b
+    projectPath: Library\Artifacts\a5\a5fd54b0b3d319f3955483c5dea8f37b
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\bc\bcb382fbd75740634d06ff52476a7cc8
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\bc\bcb382fbd75740634d06ff52476a7cc8
-    projectPath: Library\Artifacts\bc\bcb382fbd75740634d06ff52476a7cc8
+  - path: Library\Artifacts\a6\a6d47169af3577e98a3a0ba5147c47bf
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\a6\a6d47169af3577e98a3a0ba5147c47bf
+    projectPath: Library\Artifacts\a6\a6d47169af3577e98a3a0ba5147c47bf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\ac\acd864f709a4a63b419ba1c3d390a6e4
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\ac\acd864f709a4a63b419ba1c3d390a6e4
+    projectPath: Library\Artifacts\ac\acd864f709a4a63b419ba1c3d390a6e4
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\c0\c07e3f1b7f5bd71fd59654e9f6c9c289
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\c0\c07e3f1b7f5bd71fd59654e9f6c9c289
-    projectPath: Library\Artifacts\c0\c07e3f1b7f5bd71fd59654e9f6c9c289
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\c2\c20d5e35a3163693f3c60dbd69b52070
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\c2\c20d5e35a3163693f3c60dbd69b52070
-    projectPath: Library\Artifacts\c2\c20d5e35a3163693f3c60dbd69b52070
+  - path: Library\Artifacts\ad\ad5a4f53c6945f7108857b73d15e8ea9
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\ad\ad5a4f53c6945f7108857b73d15e8ea9
+    projectPath: Library\Artifacts\ad\ad5a4f53c6945f7108857b73d15e8ea9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\c3\c35ede2f529030355f3141a38455f024
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\c3\c35ede2f529030355f3141a38455f024
-    projectPath: Library\Artifacts\c3\c35ede2f529030355f3141a38455f024
+  - path: Library\Artifacts\ae\ae13c9e85b2c879307b42a933f9fba43
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\ae\ae13c9e85b2c879307b42a933f9fba43
+    projectPath: Library\Artifacts\ae\ae13c9e85b2c879307b42a933f9fba43
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\c5\c5ec67093afeee679035b8170ef0a31b
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\c5\c5ec67093afeee679035b8170ef0a31b
-    projectPath: Library\Artifacts\c5\c5ec67093afeee679035b8170ef0a31b
+  - path: Library\Artifacts\af\af9380a1f9b71617ba40496c4324206f
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\af\af9380a1f9b71617ba40496c4324206f
+    projectPath: Library\Artifacts\af\af9380a1f9b71617ba40496c4324206f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\c6\c65af0a91a528286630fd47b1eedfda3
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\c6\c65af0a91a528286630fd47b1eedfda3
-    projectPath: Library\Artifacts\c6\c65af0a91a528286630fd47b1eedfda3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\c9\c9434c611d731955acd10080f1eb371a
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\c9\c9434c611d731955acd10080f1eb371a
-    projectPath: Library\Artifacts\c9\c9434c611d731955acd10080f1eb371a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\c9\c9702fa07e8bfd950e960e5b4c803769
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\c9\c9702fa07e8bfd950e960e5b4c803769
-    projectPath: Library\Artifacts\c9\c9702fa07e8bfd950e960e5b4c803769
+  - path: Library\Artifacts\b0\b03a74446be03e6ae41ed30bbc088530
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\b0\b03a74446be03e6ae41ed30bbc088530
+    projectPath: Library\Artifacts\b0\b03a74446be03e6ae41ed30bbc088530
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\cb\cb4eebb13240f9be234b3b95ef24c649
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\cb\cb4eebb13240f9be234b3b95ef24c649
-    projectPath: Library\Artifacts\cb\cb4eebb13240f9be234b3b95ef24c649
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\cd\cd5938c1ca906ac090c149919ccad73c
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\cd\cd5938c1ca906ac090c149919ccad73c
-    projectPath: Library\Artifacts\cd\cd5938c1ca906ac090c149919ccad73c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\cf\cf9586a57b8daf3a4ac0236ce3300f87
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\cf\cf9586a57b8daf3a4ac0236ce3300f87
-    projectPath: Library\Artifacts\cf\cf9586a57b8daf3a4ac0236ce3300f87
+  - path: Library\Artifacts\b0\b07ac2ca8d3b237a0efb51afe10fb891
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\b0\b07ac2ca8d3b237a0efb51afe10fb891
+    projectPath: Library\Artifacts\b0\b07ac2ca8d3b237a0efb51afe10fb891
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\d0\d0af44a7637c2fef8aa6a200782a3a45
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\d0\d0af44a7637c2fef8aa6a200782a3a45
-    projectPath: Library\Artifacts\d0\d0af44a7637c2fef8aa6a200782a3a45
+  - path: Library\Artifacts\b6\b6e4a51ad901c0f4b70ec1bff3c6af62
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\b6\b6e4a51ad901c0f4b70ec1bff3c6af62
+    projectPath: Library\Artifacts\b6\b6e4a51ad901c0f4b70ec1bff3c6af62
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\da\da121dbc95bff78b37d121472957346f
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\da\da121dbc95bff78b37d121472957346f
-    projectPath: Library\Artifacts\da\da121dbc95bff78b37d121472957346f
+  - path: Library\Artifacts\b8\b804f646e94cd2e905195b4bd64d9f4c
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\b8\b804f646e94cd2e905195b4bd64d9f4c
+    projectPath: Library\Artifacts\b8\b804f646e94cd2e905195b4bd64d9f4c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\de\ded3e66ba34edb42b4cb2745f18c7867
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\de\ded3e66ba34edb42b4cb2745f18c7867
-    projectPath: Library\Artifacts\de\ded3e66ba34edb42b4cb2745f18c7867
+  - path: Library\Artifacts\bb\bb313a09277c01c66af5d58010250bcd
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\bb\bb313a09277c01c66af5d58010250bcd
+    projectPath: Library\Artifacts\bb\bb313a09277c01c66af5d58010250bcd
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\de\deeb2aad2c4468b2cb13f25cf67aadd0
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\de\deeb2aad2c4468b2cb13f25cf67aadd0
-    projectPath: Library\Artifacts\de\deeb2aad2c4468b2cb13f25cf67aadd0
+  - path: Library\Artifacts\c0\c097c35523d68d72e7ad5d1a743a2850
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\c0\c097c35523d68d72e7ad5d1a743a2850
+    projectPath: Library\Artifacts\c0\c097c35523d68d72e7ad5d1a743a2850
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\e4\e4614e199b586ee381367a10d8885457
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\e4\e4614e199b586ee381367a10d8885457
-    projectPath: Library\Artifacts\e4\e4614e199b586ee381367a10d8885457
+  - path: Library\Artifacts\c3\c327004e81e65a74f875797119df3f59
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\c3\c327004e81e65a74f875797119df3f59
+    projectPath: Library\Artifacts\c3\c327004e81e65a74f875797119df3f59
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\e7\e74b85597b39c39a208d11f1eadc8983
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\e7\e74b85597b39c39a208d11f1eadc8983
-    projectPath: Library\Artifacts\e7\e74b85597b39c39a208d11f1eadc8983
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\e7\e7b35e9e077514d9898d8ab2dd40e2f5
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\e7\e7b35e9e077514d9898d8ab2dd40e2f5
-    projectPath: Library\Artifacts\e7\e7b35e9e077514d9898d8ab2dd40e2f5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\e8\e800335bdfd38b017252bb43dc309d16
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\e8\e800335bdfd38b017252bb43dc309d16
-    projectPath: Library\Artifacts\e8\e800335bdfd38b017252bb43dc309d16
+  - path: Library\Artifacts\c5\c5f0d07b595fa0b034abe072d72e6610
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\c5\c5f0d07b595fa0b034abe072d72e6610
+    projectPath: Library\Artifacts\c5\c5f0d07b595fa0b034abe072d72e6610
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\e9\e93b507d480d6c916faf22507b52c3f4
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\e9\e93b507d480d6c916faf22507b52c3f4
-    projectPath: Library\Artifacts\e9\e93b507d480d6c916faf22507b52c3f4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ed\ed1e9192ff6ee8cb440e0ef09c5e8d2f
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\ed\ed1e9192ff6ee8cb440e0ef09c5e8d2f
-    projectPath: Library\Artifacts\ed\ed1e9192ff6ee8cb440e0ef09c5e8d2f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ed\ed4b27407265aeec72b6b71d5be9745b
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\ed\ed4b27407265aeec72b6b71d5be9745b
-    projectPath: Library\Artifacts\ed\ed4b27407265aeec72b6b71d5be9745b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ee\ee69f5a166a75dd4dd3dd8b708364930
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\ee\ee69f5a166a75dd4dd3dd8b708364930
-    projectPath: Library\Artifacts\ee\ee69f5a166a75dd4dd3dd8b708364930
+  - path: Library\Artifacts\c7\c7009aa9f3a986fb02d6f093d6fc0999
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\c7\c7009aa9f3a986fb02d6f093d6fc0999
+    projectPath: Library\Artifacts\c7\c7009aa9f3a986fb02d6f093d6fc0999
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\ef\ef184f707e32ee1944e0ce2c44e10a38
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\ef\ef184f707e32ee1944e0ce2c44e10a38
-    projectPath: Library\Artifacts\ef\ef184f707e32ee1944e0ce2c44e10a38
+  - path: Library\Artifacts\ca\ca7cf7fe734a6b157c7132634b7e36bb
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\ca\ca7cf7fe734a6b157c7132634b7e36bb
+    projectPath: Library\Artifacts\ca\ca7cf7fe734a6b157c7132634b7e36bb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\f1\f10bffa54944a5c445ccb7d3bde8c9d0
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\f1\f10bffa54944a5c445ccb7d3bde8c9d0
-    projectPath: Library\Artifacts\f1\f10bffa54944a5c445ccb7d3bde8c9d0
+  - path: Library\Artifacts\cc\cc601638b40b6fd23c83bf5d71646a9f
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\cc\cc601638b40b6fd23c83bf5d71646a9f
+    projectPath: Library\Artifacts\cc\cc601638b40b6fd23c83bf5d71646a9f
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\f1\f13628792b5edbbcf406c95b3fda2b43
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\f1\f13628792b5edbbcf406c95b3fda2b43
-    projectPath: Library\Artifacts\f1\f13628792b5edbbcf406c95b3fda2b43
+  - path: Library\Artifacts\d3\d3bf91fc4130b4f974db2132b71d7f05
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\d3\d3bf91fc4130b4f974db2132b71d7f05
+    projectPath: Library\Artifacts\d3\d3bf91fc4130b4f974db2132b71d7f05
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\f4\f4e19506ce7c466eefe91d1fd7960e94
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\f4\f4e19506ce7c466eefe91d1fd7960e94
-    projectPath: Library\Artifacts\f4\f4e19506ce7c466eefe91d1fd7960e94
+  - path: Library\Artifacts\d8\d8349054ab8de273a8dd890b5fc579f6
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\d8\d8349054ab8de273a8dd890b5fc579f6
+    projectPath: Library\Artifacts\d8\d8349054ab8de273a8dd890b5fc579f6
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\f5\f53718e184f5c0c38598dcadf743f5ad
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\f5\f53718e184f5c0c38598dcadf743f5ad
-    projectPath: Library\Artifacts\f5\f53718e184f5c0c38598dcadf743f5ad
+  - path: Library\Artifacts\d9\d925373ba2a9d13201426aa36ee93e09
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\d9\d925373ba2a9d13201426aa36ee93e09
+    projectPath: Library\Artifacts\d9\d925373ba2a9d13201426aa36ee93e09
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\f8\f89adc5b1b737eec289f864036364551
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\f8\f89adc5b1b737eec289f864036364551
-    projectPath: Library\Artifacts\f8\f89adc5b1b737eec289f864036364551
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f9\f98a0c060f5e9e28ce2d8f68c1b3426d
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\f9\f98a0c060f5e9e28ce2d8f68c1b3426d
-    projectPath: Library\Artifacts\f9\f98a0c060f5e9e28ce2d8f68c1b3426d
+  - path: Library\Artifacts\dd\dd5f3476c0bdfff73970a069f4225489
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\dd\dd5f3476c0bdfff73970a069f4225489
+    projectPath: Library\Artifacts\dd\dd5f3476c0bdfff73970a069f4225489
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\f9\f98b2363a219696ddff10243f4e533d3
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\f9\f98b2363a219696ddff10243f4e533d3
-    projectPath: Library\Artifacts\f9\f98b2363a219696ddff10243f4e533d3
+  - path: Library\Artifacts\de\de89ab9bcb357685b8a0bf7b719642c6
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\de\de89ab9bcb357685b8a0bf7b719642c6
+    projectPath: Library\Artifacts\de\de89ab9bcb357685b8a0bf7b719642c6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\f9\f9f72c368d631b249f0445923f188445
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\f9\f9f72c368d631b249f0445923f188445
-    projectPath: Library\Artifacts\f9\f9f72c368d631b249f0445923f188445
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\fd\fde39b54a1da0fd5ab076e0f1dba5b64
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\Artifacts\fd\fde39b54a1da0fd5ab076e0f1dba5b64
-    projectPath: Library\Artifacts\fd\fde39b54a1da0fd5ab076e0f1dba5b64
+  - path: Library\Artifacts\e3\e37bd07f635409ee757a8145cc197b87
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\e3\e37bd07f635409ee757a8145cc197b87
+    projectPath: Library\Artifacts\e3\e37bd07f635409ee757a8145cc197b87
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
+  - path: Library\Artifacts\e4\e4e6c33a5f6a41cb8858667d7558d29c
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\e4\e4e6c33a5f6a41cb8858667d7558d29c
+    projectPath: Library\Artifacts\e4\e4e6c33a5f6a41cb8858667d7558d29c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\e6\e67a531fcedc456ab9a6ef04ab61e963
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\e6\e67a531fcedc456ab9a6ef04ab61e963
+    projectPath: Library\Artifacts\e6\e67a531fcedc456ab9a6ef04ab61e963
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\e7\e759cd4e084a3d4eef9e8c7294616a75
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\e7\e759cd4e084a3d4eef9e8c7294616a75
+    projectPath: Library\Artifacts\e7\e759cd4e084a3d4eef9e8c7294616a75
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e7\e7aa6ffde6ae00085848da94ec6ad0c9
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\e7\e7aa6ffde6ae00085848da94ec6ad0c9
+    projectPath: Library\Artifacts\e7\e7aa6ffde6ae00085848da94ec6ad0c9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e8\e8830a32c0fc82d427e3ec6c0d051f39
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\e8\e8830a32c0fc82d427e3ec6c0d051f39
+    projectPath: Library\Artifacts\e8\e8830a32c0fc82d427e3ec6c0d051f39
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\ea\ea1d4cb683a9e293e3c4d8553fc13a8a
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\ea\ea1d4cb683a9e293e3c4d8553fc13a8a
+    projectPath: Library\Artifacts\ea\ea1d4cb683a9e293e3c4d8553fc13a8a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\ea\eaba2744cdba7497bd7784d67f4c8faa
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\ea\eaba2744cdba7497bd7784d67f4c8faa
+    projectPath: Library\Artifacts\ea\eaba2744cdba7497bd7784d67f4c8faa
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\ea\eac28e678b4d472e27791693b240190d
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\ea\eac28e678b4d472e27791693b240190d
+    projectPath: Library\Artifacts\ea\eac28e678b4d472e27791693b240190d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\eb\eb02c0f10c9ff1dcb6d5b384ef85b00c
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\eb\eb02c0f10c9ff1dcb6d5b384ef85b00c
+    projectPath: Library\Artifacts\eb\eb02c0f10c9ff1dcb6d5b384ef85b00c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\eb\eb610adb7d63e65c76dde17d8dd94b2f
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\eb\eb610adb7d63e65c76dde17d8dd94b2f
+    projectPath: Library\Artifacts\eb\eb610adb7d63e65c76dde17d8dd94b2f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ee\eef71c477b1ec4f42cdd41ba5f83f67e
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\ee\eef71c477b1ec4f42cdd41ba5f83f67e
+    projectPath: Library\Artifacts\ee\eef71c477b1ec4f42cdd41ba5f83f67e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f0\f0cc46bd7885019a366b220b6aec7c60
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\f0\f0cc46bd7885019a366b220b6aec7c60
+    projectPath: Library\Artifacts\f0\f0cc46bd7885019a366b220b6aec7c60
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f4\f4804991693fcfe63a166b14ae5d7bf3
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\f4\f4804991693fcfe63a166b14ae5d7bf3
+    projectPath: Library\Artifacts\f4\f4804991693fcfe63a166b14ae5d7bf3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f9\f9176a52511a367b6c433f1277070d6d
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\f9\f9176a52511a367b6c433f1277070d6d
+    projectPath: Library\Artifacts\f9\f9176a52511a367b6c433f1277070d6d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fd\fd4bc056bb7bf142dcdacec84b9836eb
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\fd\fd4bc056bb7bf142dcdacec84b9836eb
+    projectPath: Library\Artifacts\fd\fd4bc056bb7bf142dcdacec84b9836eb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fe\fe799406fe5ab88eec22de119bf42deb
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\fe\fe799406fe5ab88eec22de119bf42deb
+    projectPath: Library\Artifacts\fe\fe799406fe5ab88eec22de119bf42deb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\CurrentLayout-default.dwlt
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\EditorInstance.json
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\EditorInstance.json
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Library\expandedItems
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\gfu\cache\branches.yaml
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\gfu\cache\gitlocks.yaml
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\gfu\cache\gitlog.yaml
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\gfu\cache\gitlog.yaml
     projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\gfu\cache\gituser.yaml
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\gfu\cache\gituser.yaml
-    projectPath: Library\gfu\cache\gituser.yaml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\gfu\cache\repoinfo.yaml
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\SceneVisibilityState.asset
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\SceneVisibilityState.asset
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\0\00adedf6f493f8f168f300feaaf88f4c.bin
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\0\00adedf6f493f8f168f300feaaf88f4c.bin
-    projectPath: Library\ShaderCache\0\00adedf6f493f8f168f300feaaf88f4c.bin
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\EditorEncounteredVariants
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\0\01d076c90adf0b08bb33fb5a6597557d.bin
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\0\01d076c90adf0b08bb33fb5a6597557d.bin
-    projectPath: Library\ShaderCache\0\01d076c90adf0b08bb33fb5a6597557d.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\0\029c6ec102674a8fd2ea4b598dbab5a1.bin
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\0\029c6ec102674a8fd2ea4b598dbab5a1.bin
-    projectPath: Library\ShaderCache\0\029c6ec102674a8fd2ea4b598dbab5a1.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\0\0c3fafb11abfb662c92699d3fa77746e.bin
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\0\0c3fafb11abfb662c92699d3fa77746e.bin
-    projectPath: Library\ShaderCache\0\0c3fafb11abfb662c92699d3fa77746e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\0\0e4e39cd54a989b5638a8dd897b8329e.bin
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\0\0e4e39cd54a989b5638a8dd897b8329e.bin
-    projectPath: Library\ShaderCache\0\0e4e39cd54a989b5638a8dd897b8329e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\1\182093065e58d76ae8730a0f7f6d7f16.bin
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\1\182093065e58d76ae8730a0f7f6d7f16.bin
-    projectPath: Library\ShaderCache\1\182093065e58d76ae8730a0f7f6d7f16.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\1\1dff2b45445079edbf2579025a655a4f.bin
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\1\1dff2b45445079edbf2579025a655a4f.bin
-    projectPath: Library\ShaderCache\1\1dff2b45445079edbf2579025a655a4f.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\2\25ea9e0f5ebb391bb588cb1401dc497e.bin
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\2\25ea9e0f5ebb391bb588cb1401dc497e.bin
-    projectPath: Library\ShaderCache\2\25ea9e0f5ebb391bb588cb1401dc497e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\2\26302dba016bd48b9c4d8d443f987b31.bin
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\2\26302dba016bd48b9c4d8d443f987b31.bin
-    projectPath: Library\ShaderCache\2\26302dba016bd48b9c4d8d443f987b31.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\3\34c84e58d3d2131a13ee84c0aaa4deb6.bin
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\3\34c84e58d3d2131a13ee84c0aaa4deb6.bin
-    projectPath: Library\ShaderCache\3\34c84e58d3d2131a13ee84c0aaa4deb6.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\3\372f72338df7ac5991f6e64f6a222e85.bin
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\3\372f72338df7ac5991f6e64f6a222e85.bin
-    projectPath: Library\ShaderCache\3\372f72338df7ac5991f6e64f6a222e85.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\3\3c2b9a680fa98b4225daf9964f715214.bin
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\3\3c2b9a680fa98b4225daf9964f715214.bin
-    projectPath: Library\ShaderCache\3\3c2b9a680fa98b4225daf9964f715214.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\4\40a6804b16c0811140baf796cd2cb00f.bin
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\4\40a6804b16c0811140baf796cd2cb00f.bin
-    projectPath: Library\ShaderCache\4\40a6804b16c0811140baf796cd2cb00f.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\4\4f906c0bbf9a7a13f0e4259f914f73c3.bin
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\4\4f906c0bbf9a7a13f0e4259f914f73c3.bin
-    projectPath: Library\ShaderCache\4\4f906c0bbf9a7a13f0e4259f914f73c3.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\4\4fdbef369595d68dcb19db1b81f2b73e.bin
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\4\4fdbef369595d68dcb19db1b81f2b73e.bin
-    projectPath: Library\ShaderCache\4\4fdbef369595d68dcb19db1b81f2b73e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\5\585f14e5aeba2a3a2b715c5abb58f361.bin
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\5\585f14e5aeba2a3a2b715c5abb58f361.bin
-    projectPath: Library\ShaderCache\5\585f14e5aeba2a3a2b715c5abb58f361.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\5\5b3e7d7df97fd8beeb69f0d4c939b985.bin
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\5\5b3e7d7df97fd8beeb69f0d4c939b985.bin
-    projectPath: Library\ShaderCache\5\5b3e7d7df97fd8beeb69f0d4c939b985.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\5\5ba26c7151f52854cbd610526028dfa9.bin
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\5\5ba26c7151f52854cbd610526028dfa9.bin
-    projectPath: Library\ShaderCache\5\5ba26c7151f52854cbd610526028dfa9.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\6\68a5685e8df3453499c07838ca41da49.bin
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\6\68a5685e8df3453499c07838ca41da49.bin
-    projectPath: Library\ShaderCache\6\68a5685e8df3453499c07838ca41da49.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\6\6c6a061156b9ee8c74c32b11f6b21027.bin
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\6\6c6a061156b9ee8c74c32b11f6b21027.bin
-    projectPath: Library\ShaderCache\6\6c6a061156b9ee8c74c32b11f6b21027.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\6\6e63082a6f83b8e2e8ceebbfe631ce34.bin
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\6\6e63082a6f83b8e2e8ceebbfe631ce34.bin
-    projectPath: Library\ShaderCache\6\6e63082a6f83b8e2e8ceebbfe631ce34.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\7\708972a55a6d8a4653ce10a7880ec7dc.bin
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\7\708972a55a6d8a4653ce10a7880ec7dc.bin
-    projectPath: Library\ShaderCache\7\708972a55a6d8a4653ce10a7880ec7dc.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\8\86e0bf788cf7a6de18ba12eb6acd321c.bin
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\8\86e0bf788cf7a6de18ba12eb6acd321c.bin
-    projectPath: Library\ShaderCache\8\86e0bf788cf7a6de18ba12eb6acd321c.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\8\8bd5f8da3f08c56b0e54c7437c148d5d.bin
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\8\8bd5f8da3f08c56b0e54c7437c148d5d.bin
-    projectPath: Library\ShaderCache\8\8bd5f8da3f08c56b0e54c7437c148d5d.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\9\9a696a4771228b88b00eb3ebc41a1042.bin
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\9\9a696a4771228b88b00eb3ebc41a1042.bin
-    projectPath: Library\ShaderCache\9\9a696a4771228b88b00eb3ebc41a1042.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\a\a6f002a019e183b589b294ec62cb5ab0.bin
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\a\a6f002a019e183b589b294ec62cb5ab0.bin
-    projectPath: Library\ShaderCache\a\a6f002a019e183b589b294ec62cb5ab0.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\a\a720728e09a40f6ece1bbbb36aaa8c42.bin
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\a\a720728e09a40f6ece1bbbb36aaa8c42.bin
-    projectPath: Library\ShaderCache\a\a720728e09a40f6ece1bbbb36aaa8c42.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\b\b7a734ba62a7d89a670942e4122bc7f0.bin
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\b\b7a734ba62a7d89a670942e4122bc7f0.bin
-    projectPath: Library\ShaderCache\b\b7a734ba62a7d89a670942e4122bc7f0.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\b\bca5cc4cee329452c98ff8dac5c562c8.bin
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\b\bca5cc4cee329452c98ff8dac5c562c8.bin
-    projectPath: Library\ShaderCache\b\bca5cc4cee329452c98ff8dac5c562c8.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\c\c03787b44651833c1a1effde8196ac88.bin
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\c\c03787b44651833c1a1effde8196ac88.bin
-    projectPath: Library\ShaderCache\c\c03787b44651833c1a1effde8196ac88.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\c\c0922079d9778c9fe0377dd368516f8d.bin
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\c\c0922079d9778c9fe0377dd368516f8d.bin
-    projectPath: Library\ShaderCache\c\c0922079d9778c9fe0377dd368516f8d.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\c\c9071f47f9c199e7069b439205f91871.bin
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\c\c9071f47f9c199e7069b439205f91871.bin
-    projectPath: Library\ShaderCache\c\c9071f47f9c199e7069b439205f91871.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\e\e6c92c75c9aade3d6e0752eefd339d27.bin
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\e\e6c92c75c9aade3d6e0752eefd339d27.bin
-    projectPath: Library\ShaderCache\e\e6c92c75c9aade3d6e0752eefd339d27.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\e\eb514adad906dc4443a5a152b41ea9f6.bin
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\e\eb514adad906dc4443a5a152b41ea9f6.bin
-    projectPath: Library\ShaderCache\e\eb514adad906dc4443a5a152b41ea9f6.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\f\f0e2482fb2276371cdbd93a4b7600fcf.bin
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\f\f0e2482fb2276371cdbd93a4b7600fcf.bin
-    projectPath: Library\ShaderCache\f\f0e2482fb2276371cdbd93a4b7600fcf.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\f\f27f29bbc1177b842979ffdd3e459051.bin
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\f\f27f29bbc1177b842979ffdd3e459051.bin
-    projectPath: Library\ShaderCache\f\f27f29bbc1177b842979ffdd3e459051.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\f\f729cf3945ab15c0f9d1d234d16bc826.bin
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\f\f729cf3945ab15c0f9d1d234d16bc826.bin
-    projectPath: Library\ShaderCache\f\f729cf3945ab15c0f9d1d234d16bc826.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\f\f9e82e9c21db60da0e1154aeec9d6473.bin
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\ShaderCache\f\f9e82e9c21db60da0e1154aeec9d6473.bin
-    projectPath: Library\ShaderCache\f\f9e82e9c21db60da0e1154aeec9d6473.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\SourceAssetDB
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Library\SourceAssetDB
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\StateCache\SceneView\49\497427ab9835d2f7210247bb9aaaaa1c.json
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\StateCache\SceneView\49\497427ab9835d2f7210247bb9aaaaa1c.json
+    projectPath: Library\StateCache\SceneView\49\497427ab9835d2f7210247bb9aaaaa1c.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs\AssetImportWorker0.log
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Logs\AssetImportWorker0.log
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Logs\AssetImportWorker0.log
     projectPath: Logs\AssetImportWorker0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
   - path: Logs\AssetImportWorker0-prev.log
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Logs\AssetImportWorker0-prev.log
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Logs\AssetImportWorker0-prev.log
     projectPath: Logs\AssetImportWorker0-prev.log
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Logs\shadercompiler-AssetImportWorker0.log
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Logs\shadercompiler-AssetImportWorker0.log
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Logs\shadercompiler-AssetImportWorker0.log
     projectPath: Logs\shadercompiler-AssetImportWorker0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
   - path: Logs\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Logs\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Logs\shadercompiler-UnityShaderCompiler.exe1.log
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Logs\shadercompiler-UnityShaderCompiler.exe1.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
   - path: Logs\shadercompiler-UnityShaderCompiler.exe2.log
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Logs\shadercompiler-UnityShaderCompiler.exe2.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
   - path: Logs\shadercompiler-UnityShaderCompiler.exe3.log
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Logs\shadercompiler-UnityShaderCompiler.exe3.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe3.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
   - path: Logs\shadercompiler-UnityShaderCompiler.exe4.log
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Logs\shadercompiler-UnityShaderCompiler.exe4.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe4.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
   - path: Logs\shadercompiler-UnityShaderCompiler.exe5.log
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Logs\shadercompiler-UnityShaderCompiler.exe5.log
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Logs\shadercompiler-UnityShaderCompiler.exe5.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe5.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
   - path: Logs\shadercompiler-UnityShaderCompiler.exe6.log
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Logs\shadercompiler-UnityShaderCompiler.exe6.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe6.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
   - path: Logs\shadercompiler-UnityShaderCompiler.exe7.log
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Logs\shadercompiler-UnityShaderCompiler.exe7.log
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Logs\shadercompiler-UnityShaderCompiler.exe7.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe7.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
+  - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp\Assembly-CSharp.dll.hash
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\Assembly-CSharp.dll.hash
+    projectPath: Temp\Assembly-CSharp.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Assembly-CSharp-Editor-firstpass.dll.hash
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\Assembly-CSharp-Editor-firstpass.dll.hash
+    projectPath: Temp\Assembly-CSharp-Editor-firstpass.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\CompilationLog.txt
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\CompilationLog.txt
+    projectPath: Temp\CompilationLog.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\PhotonChat.dll.hash
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\PhotonChat.dll.hash
+    projectPath: Temp\PhotonChat.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\PhotonRealtime.dll.hash
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\PhotonRealtime.dll.hash
+    projectPath: Temp\PhotonRealtime.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\PhotonUnityNetworking.dll.hash
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\PhotonUnityNetworking.dll.hash
+    projectPath: Temp\PhotonUnityNetworking.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\PhotonUnityNetworking.Editor.dll.hash
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\PhotonUnityNetworking.Editor.dll.hash
+    projectPath: Temp\PhotonUnityNetworking.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\PhotonUnityNetworking.Utilities.Culling.Editor.dll.hash
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\PhotonUnityNetworking.Utilities.Culling.Editor.dll.hash
+    projectPath: Temp\PhotonUnityNetworking.Utilities.Culling.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\PhotonUnityNetworking.Utilities.dll.hash
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\PhotonUnityNetworking.Utilities.dll.hash
+    projectPath: Temp\PhotonUnityNetworking.Utilities.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.dll.hash
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.dll.hash
+    projectPath: Temp\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.CollabProxy.Editor.dll.hash
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\Unity.CollabProxy.Editor.dll.hash
+    projectPath: Temp\Unity.CollabProxy.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.Rider.Editor.dll.hash
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\Unity.Rider.Editor.dll.hash
+    projectPath: Temp\Unity.Rider.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.TextMeshPro.dll.hash
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\Unity.TextMeshPro.dll.hash
+    projectPath: Temp\Unity.TextMeshPro.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.TextMeshPro.Editor.dll.hash
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\Unity.TextMeshPro.Editor.dll.hash
+    projectPath: Temp\Unity.TextMeshPro.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.Timeline.dll.hash
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\Unity.Timeline.dll.hash
+    projectPath: Temp\Unity.Timeline.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.Timeline.Editor.dll.hash
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\Unity.Timeline.Editor.dll.hash
+    projectPath: Temp\Unity.Timeline.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.VisualStudio.Editor.dll.hash
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\Unity.VisualStudio.Editor.dll.hash
+    projectPath: Temp\Unity.VisualStudio.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.VSCode.Editor.dll.hash
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\Unity.VSCode.Editor.dll.hash
+    projectPath: Temp\Unity.VSCode.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEditor.TestRunner.dll.hash
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\UnityEditor.TestRunner.dll.hash
+    projectPath: Temp\UnityEditor.TestRunner.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEditor.UI.dll.hash
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\UnityEditor.UI.dll.hash
+    projectPath: Temp\UnityEditor.UI.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEngine.TestRunner.dll.hash
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\UnityEngine.TestRunner.dll.hash
+    projectPath: Temp\UnityEngine.TestRunner.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEngine.UI.dll.hash
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\UnityEngine.UI.dll.hash
+    projectPath: Temp\UnityEngine.UI.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Temp\UnityLockfile
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Temp\UnityLockfile
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Temp\UnityTempFile-04c50cb0831786941b81e2e335628e35
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\UnityTempFile-04c50cb0831786941b81e2e335628e35
+    projectPath: Temp\UnityTempFile-04c50cb0831786941b81e2e335628e35
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-24f1bee7a89a8e34d97101fb361288fb
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\UnityTempFile-24f1bee7a89a8e34d97101fb361288fb
+    projectPath: Temp\UnityTempFile-24f1bee7a89a8e34d97101fb361288fb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-252be4a573d615f4191437de9cd14549
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\UnityTempFile-252be4a573d615f4191437de9cd14549
+    projectPath: Temp\UnityTempFile-252be4a573d615f4191437de9cd14549
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-258475b6c1aa1ad43910d09a941532cf
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\UnityTempFile-258475b6c1aa1ad43910d09a941532cf
+    projectPath: Temp\UnityTempFile-258475b6c1aa1ad43910d09a941532cf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2836539835b936946ac8b6cf74a58af6
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\UnityTempFile-2836539835b936946ac8b6cf74a58af6
+    projectPath: Temp\UnityTempFile-2836539835b936946ac8b6cf74a58af6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3cdec26260a04974c9c1de38748c3244
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\UnityTempFile-3cdec26260a04974c9c1de38748c3244
+    projectPath: Temp\UnityTempFile-3cdec26260a04974c9c1de38748c3244
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4d61faea553e0c64cb80366ddfbe276d
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\UnityTempFile-4d61faea553e0c64cb80366ddfbe276d
+    projectPath: Temp\UnityTempFile-4d61faea553e0c64cb80366ddfbe276d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-5740b372a80f5b644ba74fd92f5a1379
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\UnityTempFile-5740b372a80f5b644ba74fd92f5a1379
+    projectPath: Temp\UnityTempFile-5740b372a80f5b644ba74fd92f5a1379
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-596b0e187ea73b34cbc53c193e6f8452
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\UnityTempFile-596b0e187ea73b34cbc53c193e6f8452
+    projectPath: Temp\UnityTempFile-596b0e187ea73b34cbc53c193e6f8452
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-67bf8560ffec69e46ac5c02366d0ad11
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\UnityTempFile-67bf8560ffec69e46ac5c02366d0ad11
+    projectPath: Temp\UnityTempFile-67bf8560ffec69e46ac5c02366d0ad11
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-6be3eca53b9b0dc46af21e9dd2ddbe1e
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\UnityTempFile-6be3eca53b9b0dc46af21e9dd2ddbe1e
+    projectPath: Temp\UnityTempFile-6be3eca53b9b0dc46af21e9dd2ddbe1e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7793e9ad096169947946320fea2f92bc
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\UnityTempFile-7793e9ad096169947946320fea2f92bc
+    projectPath: Temp\UnityTempFile-7793e9ad096169947946320fea2f92bc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-918881eb3a3e34f47bc4b43d7d7d9204
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\UnityTempFile-918881eb3a3e34f47bc4b43d7d7d9204
+    projectPath: Temp\UnityTempFile-918881eb3a3e34f47bc4b43d7d7d9204
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-be87fb5ffa86f1f49b6ee32f49e988a8
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\UnityTempFile-be87fb5ffa86f1f49b6ee32f49e988a8
+    projectPath: Temp\UnityTempFile-be87fb5ffa86f1f49b6ee32f49e988a8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c49efb352b0921c4381486e701e25d3c
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\UnityTempFile-c49efb352b0921c4381486e701e25d3c
+    projectPath: Temp\UnityTempFile-c49efb352b0921c4381486e701e25d3c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c5ffbb3e100d4fe4e9f3ab377a69fd11
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\UnityTempFile-c5ffbb3e100d4fe4e9f3ab377a69fd11
+    projectPath: Temp\UnityTempFile-c5ffbb3e100d4fe4e9f3ab377a69fd11
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-cd42801b48c58dd4d8a599641b5c1a07
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\UnityTempFile-cd42801b48c58dd4d8a599641b5c1a07
+    projectPath: Temp\UnityTempFile-cd42801b48c58dd4d8a599641b5c1a07
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-dbcccc1fef5913040a74ca8633ce9d5f
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\UnityTempFile-dbcccc1fef5913040a74ca8633ce9d5f
+    projectPath: Temp\UnityTempFile-dbcccc1fef5913040a74ca8633ce9d5f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e357f48828ad9ac47b7795d758a4d16c
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\UnityTempFile-e357f48828ad9ac47b7795d758a4d16c
+    projectPath: Temp\UnityTempFile-e357f48828ad9ac47b7795d758a4d16c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f38745cf48e61fd478837a9554493052
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\UnityTempFile-f38745cf48e61fd478837a9554493052
+    projectPath: Temp\UnityTempFile-f38745cf48e61fd478837a9554493052
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ff746f8368c09d742bd3db5090a0d1f3
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\UnityTempFile-ff746f8368c09d742bd3db5090a0d1f3
+    projectPath: Temp\UnityTempFile-ff746f8368c09d742bd3db5090a0d1f3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Temp\workerlic
-    fullPath: C:\Users\Zergl\Desktop\wtf\Btt\Temp\workerlic
+    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Temp\workerlic
     projectPath: Temp\workerlic
     originalPath: 
     indexStatus: 1
