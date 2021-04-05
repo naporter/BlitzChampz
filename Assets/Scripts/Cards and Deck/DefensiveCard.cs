@@ -5,25 +5,12 @@ using UnityEngine.UI;
 
 public class DefensiveCard : Card
 {
-
-    private bool isTackle;
-    private bool isInterception;
-    private bool isBlockedKick;
+    private Defensive cardType;
     private Object cardImage;
 
-    public DefensiveCard(string cardType, Object cardImage)
+    public DefensiveCard(Defensive cardType, Object cardImage)
     {
-        switch(cardType){
-            case "isTackle":
-                this.isTackle = true;
-                break;
-            case "isInterception":
-                this.isInterception = true;
-                break;
-            case "isBlockedKick":
-                this.isBlockedKick = true;
-                break;
-        }
+        this.cardType = cardType;
         this.cardImage = cardImage;
     }
 

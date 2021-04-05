@@ -3,41 +3,25 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class ContinuationCard : Card
+public class ContinuationCard : Card, Rules
 {
 
-    private bool isPassCompletion;
-    private bool isFirstDown;
-    private bool isFiveYardRun;
-    private bool isBlitz;
-    private bool isFumble;
-    private bool isEndOfQuarter;
+    private Continuation cardType;
     private Object cardImage;
 
-    public ContinuationCard(string cardType, Object cardImage)
+    public ContinuationCard(Continuation cardType, Object cardImage)
     {
-        switch (cardType)
-        {
-            case "isPassCompletion":
-                this.isPassCompletion = true;
-                break;
-            case "isFirstDown":
-                this.isFirstDown = true;
-                break;
-            case "isFiveYardRun":
-                this.isFiveYardRun = true;
-                break;
-            case "isBlitz":
-                this.isBlitz = true;
-                break;
-            case "isFumble":
-                this.isFumble = true;
-                break;
-            case "isEndOfQuarter":
-                this.isEndOfQuarter = true;
-                break;
-        }
+        this.cardType = cardType;
         this.cardImage = cardImage;
+    }
+
+    void Rules.OnPlay()
+    {
+        if (cardType.Equals(Card.Continuation.Blitz))
+        {
+            //do these functions
+        }
+        Debug.Log(cardType);
     }
 
     // Start is called before the first frame update

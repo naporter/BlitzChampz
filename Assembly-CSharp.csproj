@@ -65,6 +65,7 @@
     <Compile Include="Assets\Scripts\Photon Scripts\NetworkController.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\Common\EventSystemSpawner.cs" />
     <Compile Include="Assets\Photon\PhotonLibs\WebSocket\SocketWebTcp.cs" />
+    <Compile Include="Assets\Scripts\Table.cs" />
     <Compile Include="Assets\Scripts\Cards and Deck\ContinuationCard.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\DemoChat\FriendItem.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\DemoChat\ChatAppIdCheckerUI.cs" />
@@ -75,6 +76,7 @@
     <Compile Include="Assets\Photon\PhotonChat\Demos\DemoChat\ChatGui.cs" />
     <Compile Include="Assets\Scripts\Photon Scripts\GameSetupController.cs" />
     <Compile Include="Assets\Scripts\UI\OnButtonSelected.cs" />
+    <Compile Include="Assets\Scripts\Cards and Deck\Rules.cs" />
     <Compile Include="Assets\Scripts\Photon Scripts\QuickPlayLobbyController.cs" />
     <Compile Include="Assets\Scripts\Cards and Deck\Deck.cs" />
     <Compile Include="Assets\Scripts\UI\GameUI.cs" />
@@ -85,7 +87,6 @@
     <Compile Include="Assets\Scripts\Cards and Deck\OffensiveCard.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\DemoChat\ChannelSelector.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\Common\OnStartDelete.cs" />
-    <Compile Include="Assets\Scripts\Table.cs" />
     <Compile Include="Assets\Scripts\GamePlayer.cs" />
   </ItemGroup>
   <ItemGroup>
