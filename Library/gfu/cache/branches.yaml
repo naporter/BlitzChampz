@@ -13,13 +13,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-03-20T17:20:12.324-05:00
-  initializedAtString: 2021-03-20T16:49:43.658-05:00
+  lastUpdatedAtString: 2021-04-01T16:39:00.295-05:00
+  initializedAtString: 2021-04-01T15:12:43.865-05:00
   localBranches:
   - name: development
     tracking: origin/development
+  - name: main
+    tracking: origin/main
   remoteBranches:
   - name: origin/development
+    tracking: '[None]'
+  - name: origin/main
     tracking: '[None]'
   remotes:
   - name: origin
@@ -32,21 +36,33 @@ MonoBehaviour:
   localConfigBranches:
     keys:
     - development
+    - main
     values:
     - name: development
       remote:
         name: origin
         url: https://github.com/naporter/BlitzChampz.git
       trackingBranch: development
+    - name: main
+      remote:
+        name: origin
+        url: https://github.com/naporter/BlitzChampz.git
+      trackingBranch: main
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
       - development
+      - main
     subKeyValues:
     - Values:
       - name: development
+        remote:
+          name: origin
+          url: https://github.com/naporter/BlitzChampz.git
+        trackingBranch: 
+      - name: main
         remote:
           name: origin
           url: https://github.com/naporter/BlitzChampz.git
