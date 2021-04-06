@@ -13,223 +13,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-04-01T16:38:59.317-05:00
-  initializedAtString: 2021-04-01T15:12:43.746-05:00
+  lastUpdatedAtString: 2021-04-06T06:54:57.980-05:00
+  initializedAtString: 2021-04-06T06:54:56.776-05:00
   entries:
-  - path: .vs\Blitz Champz\v16\.suo
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\.vs\Blitz Champz\v16\.suo
-    projectPath: .vs\Blitz Champz\v16\.suo
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assembly-CSharp.csproj
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scenes\Game.unity
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scenes\Game.unity
-    projectPath: Assets\Scenes\Game.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scenes\Main Menu.unity
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scenes\Main Menu.unity
-    projectPath: Assets\Scenes\Main Menu.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\Cards and Deck\Card.cs
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards and
-      Deck\Card.cs
-    projectPath: Assets\Scripts\Cards and Deck\Card.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\Cards and Deck\ContinuationCard.cs
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards and
-      Deck\ContinuationCard.cs
-    projectPath: Assets\Scripts\Cards and Deck\ContinuationCard.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\Cards and Deck\Deck.cs
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards and
-      Deck\Deck.cs
-    projectPath: Assets\Scripts\Cards and Deck\Deck.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\Cards and Deck\DefensiveCard.cs
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards and
-      Deck\DefensiveCard.cs
-    projectPath: Assets\Scripts\Cards and Deck\DefensiveCard.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\Cards and Deck\OffensiveCard.cs
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards and
-      Deck\OffensiveCard.cs
-    projectPath: Assets\Scripts\Cards and Deck\OffensiveCard.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\Cards and Deck\Rules.cs
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards and
-      Deck\Rules.cs
-    projectPath: Assets\Scripts\Cards and Deck\Rules.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\Cards and Deck\Rules.cs.meta
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards and
-      Deck\Rules.cs.meta
-    projectPath: Assets\Scripts\Cards and Deck\Rules.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\GamePlayer.cs
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\GamePlayer.cs
-    projectPath: Assets\Scripts\GamePlayer.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\Table.cs
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Table.cs
-    projectPath: Assets\Scripts\Table.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\ArtifactDB
     fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\ArtifactDB
     projectPath: Library\ArtifactDB
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Artifacts\03\035dcda765ca05a16214879a478fad7c
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\03\035dcda765ca05a16214879a478fad7c
-    projectPath: Library\Artifacts\03\035dcda765ca05a16214879a478fad7c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\1e\1e09dac498e93c77df1be00dc7d5ba5f
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\1e\1e09dac498e93c77df1be00dc7d5ba5f
-    projectPath: Library\Artifacts\1e\1e09dac498e93c77df1be00dc7d5ba5f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\28\28d2a4613714999343fafcfd001b67ae
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\28\28d2a4613714999343fafcfd001b67ae
-    projectPath: Library\Artifacts\28\28d2a4613714999343fafcfd001b67ae
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\2a\2a8426feaa1f58b82e39dbeac5529f26
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\2a\2a8426feaa1f58b82e39dbeac5529f26
-    projectPath: Library\Artifacts\2a\2a8426feaa1f58b82e39dbeac5529f26
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\31\314e03a3a947aca824ff5a605ec8e72f
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\31\314e03a3a947aca824ff5a605ec8e72f
-    projectPath: Library\Artifacts\31\314e03a3a947aca824ff5a605ec8e72f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\34\348f96907793709a2ab05fbdbca8a8f3
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\34\348f96907793709a2ab05fbdbca8a8f3
-    projectPath: Library\Artifacts\34\348f96907793709a2ab05fbdbca8a8f3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\39\396eebcdf41a8b8bf815e8d0dbeecabc
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\39\396eebcdf41a8b8bf815e8d0dbeecabc
-    projectPath: Library\Artifacts\39\396eebcdf41a8b8bf815e8d0dbeecabc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\39\39fd9c1985fac6a07019d551571c75aa
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\39\39fd9c1985fac6a07019d551571c75aa
-    projectPath: Library\Artifacts\39\39fd9c1985fac6a07019d551571c75aa
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\4d\4df9793853c5d6f86186e972d41a65f0
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\4d\4df9793853c5d6f86186e972d41a65f0
-    projectPath: Library\Artifacts\4d\4df9793853c5d6f86186e972d41a65f0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\51\515538f9a3993f637517bba9269039f7
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\51\515538f9a3993f637517bba9269039f7
-    projectPath: Library\Artifacts\51\515538f9a3993f637517bba9269039f7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\5e\5e641dcbcf78548990883748cf2e2234
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\5e\5e641dcbcf78548990883748cf2e2234
-    projectPath: Library\Artifacts\5e\5e641dcbcf78548990883748cf2e2234
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\5e\5ef7af29763d88a0cb80ccd7ad41c21d
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\5e\5ef7af29763d88a0cb80ccd7ad41c21d
-    projectPath: Library\Artifacts\5e\5ef7af29763d88a0cb80ccd7ad41c21d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\a4\a45e12f3fee3346ce9f302054f2825ab
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\a4\a45e12f3fee3346ce9f302054f2825ab
-    projectPath: Library\Artifacts\a4\a45e12f3fee3346ce9f302054f2825ab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\b9\b94aada673e4b7fdff0461ddd14b0c9a
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\b9\b94aada673e4b7fdff0461ddd14b0c9a
-    projectPath: Library\Artifacts\b9\b94aada673e4b7fdff0461ddd14b0c9a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\c5\c5f94575eb2e9cd5fd5385fcdc87e962
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\c5\c5f94575eb2e9cd5fd5385fcdc87e962
-    projectPath: Library\Artifacts\c5\c5f94575eb2e9cd5fd5385fcdc87e962
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ce\ce5f3f780e0a5a50e9a043a434d88306
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\ce\ce5f3f780e0a5a50e9a043a434d88306
-    projectPath: Library\Artifacts\ce\ce5f3f780e0a5a50e9a043a434d88306
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d0\d0283f72a7e51dd9e205b1093ff40f7b
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\d0\d0283f72a7e51dd9e205b1093ff40f7b
-    projectPath: Library\Artifacts\d0\d0283f72a7e51dd9e205b1093ff40f7b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d0\d041056e861fcfa399c29545ffe0d51c
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\d0\d041056e861fcfa399c29545ffe0d51c
-    projectPath: Library\Artifacts\d0\d041056e861fcfa399c29545ffe0d51c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d4\d4b1ddc69cdd25adf7093af4cf415e33
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\d4\d4b1ddc69cdd25adf7093af4cf415e33
-    projectPath: Library\Artifacts\d4\d4b1ddc69cdd25adf7093af4cf415e33
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\f6\f639d2fb603700e089c6e7812545fefd
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\f6\f639d2fb603700e089c6e7812545fefd
-    projectPath: Library\Artifacts\f6\f639d2fb603700e089c6e7812545fefd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\CurrentLayout-default.dwlt
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -239,27 +28,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\expandedItems
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\expandedItems
-    projectPath: Library\expandedItems
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\branches.yaml
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\gfu\cache\gitlocks.yaml
     fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\gitlog.yaml
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -281,63 +52,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\PackageManager\ProjectCache
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\PackageManager\ProjectCache
-    projectPath: Library\PackageManager\ProjectCache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageManager\ProjectCache.md5
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\PackageManager\ProjectCache.md5
-    projectPath: Library\PackageManager\ProjectCache.md5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\SceneVisibilityState.asset
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\SceneVisibilityState.asset
-    projectPath: Library\SceneVisibilityState.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\ScriptAssemblies\Assembly-CSharp.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ShaderCache\1\1d58a5e5fa3a4e35bbc04281cdeb18f9.bin
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\ShaderCache\1\1d58a5e5fa3a4e35bbc04281cdeb18f9.bin
-    projectPath: Library\ShaderCache\1\1d58a5e5fa3a4e35bbc04281cdeb18f9.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\c\caa7150b1007721a9fe88b87f0b99115.bin
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\ShaderCache\c\caa7150b1007721a9fe88b87f0b99115.bin
-    projectPath: Library\ShaderCache\c\caa7150b1007721a9fe88b87f0b99115.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\SourceAssetDB
     fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\SceneView\49\497427ab9835d2f7210247bb9aaaaa1c.json
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\StateCache\SceneView\49\497427ab9835d2f7210247bb9aaaaa1c.json
-    projectPath: Library\StateCache\SceneView\49\497427ab9835d2f7210247bb9aaaaa1c.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs\ApiUpdaterCheck.txt
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Logs\ApiUpdaterCheck.txt
-    projectPath: Logs\ApiUpdaterCheck.txt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -345,29 +62,23 @@ MonoBehaviour:
     fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Logs\AssetImportWorker0.log
     projectPath: Logs\AssetImportWorker0.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Logs\AssetImportWorker0-prev.log
     fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Logs\AssetImportWorker0-prev.log
     projectPath: Logs\AssetImportWorker0-prev.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Logs\shadercompiler-AssetImportWorker0.log
     fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Logs\shadercompiler-AssetImportWorker0.log
     projectPath: Logs\shadercompiler-AssetImportWorker0.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Logs\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Logs\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

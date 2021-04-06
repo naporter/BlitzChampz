@@ -4,5 +4,5 @@ using UnityEngine;
 
 public interface Rules
 {
-    void OnPlay();
+    void Play();
 }

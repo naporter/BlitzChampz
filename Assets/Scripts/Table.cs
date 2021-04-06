@@ -14,7 +14,7 @@ public class Table : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        if (PhotonNetwork.IsMasterClient)
+        if (PhotonNetwork.IsMasterClient) //ensures that only one user instantiates the player objects
         {
             timer.GetComponent<Text>().text = "60";
             int index = 0;

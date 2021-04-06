@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class ContinuationCard : Card, Rules
+public class ContinuationCard : Card
 {
 
     private Continuation cardType;
@@ -13,15 +13,6 @@ public class ContinuationCard : Card, Rules
     {
         this.cardType = cardType;
         this.cardImage = cardImage;
-    }
-
-    void Rules.OnPlay()
-    {
-        if (cardType.Equals(Card.Continuation.Blitz))
-        {
-            //do these functions
-        }
-        Debug.Log(cardType);
     }
 
     // Start is called before the first frame update

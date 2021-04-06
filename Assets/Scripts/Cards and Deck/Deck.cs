@@ -110,9 +110,9 @@ public class Deck : MonoBehaviour
 
     private void Deal()
     {
-        foreach (GamePlayer player in Table.players)
+        foreach (GamePlayer player in Table.players) // each player is given a starting hand
         {
-            for (int i = 0; i < 5; i++) //each player starts with 5 cards
+            for (int i = 0; i < 5; i++) // each player starts with 5 cards
             {
                 player.Hand.Add(DrawCard());
             }
@@ -122,7 +122,7 @@ public class Deck : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        if (PhotonNetwork.IsMasterClient)
+        if (PhotonNetwork.IsMasterClient) // ensures only one user is creating the deck
         {
             CreateDeck();
             ShuffleDeck();

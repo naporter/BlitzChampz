@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class Card : MonoBehaviour
+public class Card : MonoBehaviour, Rules
 {
     public enum Continuation
     {
@@ -32,6 +32,10 @@ public class Card : MonoBehaviour
             cards.Add(cardType);
         }
         return cards;
+    }
+
+    public void Play()
+    {
     }
 
     // Start is called before the first frame update
