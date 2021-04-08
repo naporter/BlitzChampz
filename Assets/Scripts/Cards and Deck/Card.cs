@@ -3,22 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class Card : MonoBehaviour
+public class Card : MonoBehaviour, Rules
 {
-    public enum Continuation
-    {
-        Blitz, Fumble, FiveYardRun, PassCompletion, FirstDown, EndOfQuarter1, EndOfQuarter2, EndOfQuarter3, EndOfQuarter4
-    }
-
-    public enum Defensive
-    {
-        Tackle, Interception, BlockedKick
-    }
-
-    public enum Offensive
-    {
-        Rushing, Passing, HailMary, Conversion, FieldGoal, ExtraPoint
-    }
 
     public Card()
     {
@@ -32,6 +18,14 @@ public class Card : MonoBehaviour
             cards.Add(cardType);
         }
         return cards;
+    }
+
+    public void Play()
+    {
+    }
+
+    public void ShowCard()
+    {
     }
 
     // Start is called before the first frame update

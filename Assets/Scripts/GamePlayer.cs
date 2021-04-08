@@ -6,7 +6,17 @@ public class GamePlayer : MonoBehaviour
 {
     private List<Card> hand = new List<Card>();
     private bool turn;
+    private int score;
 
+    void AddPoints(int points)
+    {
+        score += points;
+    }
+
+    void RemovePoints(int points)
+    {
+        score -= points;
+    }
     public List<Card> Hand
     {
         get { return hand; }
@@ -17,9 +27,11 @@ public class GamePlayer : MonoBehaviour
         hand.Add(Deck.DrawCard());
     }
 
-    void PlayCard()
+    void PlayCard(Card card)
     {
-
+        hand.Remove(card);
+        card.Play();
+        ChangeTurn();
     }
 
     void ChangeTurn()
