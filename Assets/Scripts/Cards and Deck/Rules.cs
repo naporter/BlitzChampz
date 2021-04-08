@@ -5,4 +5,5 @@ using UnityEngine;
 public interface Rules
 {
     void Play();
+    void ShowCard();
 }

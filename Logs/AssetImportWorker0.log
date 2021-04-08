@@ -15,11 +15,11 @@ F:/Unity Projects/Blitz_Champz/Blitz Champz
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-50114
+52537
 Successfully changed project path to: F:/Unity Projects/Blitz_Champz/Blitz Champz
 F:/Unity Projects/Blitz_Champz/Blitz Champz
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 140.31 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 35.83 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.5f1 (e2c53f129de5)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.5f1/Editor/Data/Resources/UnitySubsystems
@@ -35,87 +35,327 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.5f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.5f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56820
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56672
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.106933 seconds.
+Registered in 0.002204 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 24.54 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 36.91 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  4.555 seconds
+- Completed reload, in  2.371 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.727104 seconds.
+Registered in 0.006973 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.343 seconds
+- Completed reload, in  1.397 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1259 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.8 MB.
+System memory in use after: 63.9 MB.
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 1724.
+Total: 3.400000 ms (FindLiveObjects: 0.358100 ms CreateObjectMapping: 0.187000 ms MarkObjects: 2.741500 ms  DeleteObjects: 0.111300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/Cards and Deck/DefensiveCards/BlockedKick.cs
+  artifactKey: Guid(ef74e2e61268d2f41bd601e23c1a7a6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cards and Deck/DefensiveCards/BlockedKick.cs using Guid(ef74e2e61268d2f41bd601e23c1a7a6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edc3faa2289bfa1b3e6f1468a434746c') in 0.087062 seconds
+  Import took 0.090034 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007405 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.252 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1244 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.5 MB.
+System memory in use after: 62.6 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1726.
+Total: 1.877800 ms (FindLiveObjects: 0.171500 ms CreateObjectMapping: 0.053300 ms MarkObjects: 1.621800 ms  DeleteObjects: 0.030300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 1311.475422 seconds.
+  path: Assets/Scripts/Cards and Deck/OffensiveCards/Conversion.cs
+  artifactKey: Guid(5c72a19a474dff04d93f6429e431afa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cards and Deck/OffensiveCards/Conversion.cs using Guid(5c72a19a474dff04d93f6429e431afa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5666d3579ea8cedfee2d9ae1700b06a8') in 0.011598 seconds
+  Import took 0.015256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.824744 seconds.
+  path: Assets/Scripts/Cards and Deck/OffensiveCards/OffensiveCard.cs
+  artifactKey: Guid(5b02c696b53235d4090c05b92f34b066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cards and Deck/OffensiveCards/OffensiveCard.cs using Guid(5b02c696b53235d4090c05b92f34b066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a382f8b8bbc6ce6191d04fc8b8b707b3') in 0.011796 seconds
+  Import took 0.014779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.243957 seconds.
+  path: Assets/Scripts/Cards and Deck/ContinuationCards/ContinuationCard.cs
+  artifactKey: Guid(0fbc9b6b355b86946956c1c355b90ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cards and Deck/ContinuationCards/ContinuationCard.cs using Guid(0fbc9b6b355b86946956c1c355b90ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08a3d651f289c7e6c80a1807ac6196a6') in 0.010645 seconds
+  Import took 0.013783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1295.851188 seconds.
+  path: Assets/Scripts/Cards and Deck/ContinuationCards/Blitz.cs
+  artifactKey: Guid(6865c4bb3e9d03d48b64a762f39add6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cards and Deck/ContinuationCards/Blitz.cs using Guid(6865c4bb3e9d03d48b64a762f39add6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3285e296d86c0bdb773b2f2bf59fd326') in 0.013805 seconds
+  Import took 0.016960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007243 seconds.
+  path: Assets/Scripts/Cards and Deck/ContinuationCards/Blitz.cs
+  artifactKey: Guid(6865c4bb3e9d03d48b64a762f39add6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cards and Deck/ContinuationCards/Blitz.cs using Guid(6865c4bb3e9d03d48b64a762f39add6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3285e296d86c0bdb773b2f2bf59fd326') in 0.002657 seconds
+  Import took 0.005575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 83.221437 seconds.
+  path: Assets/Scripts/Cards and Deck/ContinuationCards/Blitz.cs
+  artifactKey: Guid(6865c4bb3e9d03d48b64a762f39add6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cards and Deck/ContinuationCards/Blitz.cs using Guid(6865c4bb3e9d03d48b64a762f39add6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c649bf50bfb17a0bce45537c4ef0dee') in 0.003762 seconds
+  Import took 0.008328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.807272 seconds.
+  path: Assets/Scripts/Cards and Deck/ContinuationCards/EndOfQuarter1.cs
+  artifactKey: Guid(9118e25334f52a14291dc1691148db94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cards and Deck/ContinuationCards/EndOfQuarter1.cs using Guid(9118e25334f52a14291dc1691148db94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43087c479c9635f77e7339f55bbfb7c1') in 0.015791 seconds
+  Import took 0.018562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000992 seconds.
+  path: Assets/Scripts/Cards and Deck/ContinuationCards/EndOfQuarter1.cs
+  artifactKey: Guid(9118e25334f52a14291dc1691148db94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cards and Deck/ContinuationCards/EndOfQuarter1.cs using Guid(9118e25334f52a14291dc1691148db94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43087c479c9635f77e7339f55bbfb7c1') in 0.002568 seconds
+  Import took 0.005665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.540383 seconds.
+  path: Assets/Scripts/Cards and Deck/ContinuationCards/EndOfQuarter2.cs
+  artifactKey: Guid(572dd8d77237a6f46897a71e2614dd42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cards and Deck/ContinuationCards/EndOfQuarter2.cs using Guid(572dd8d77237a6f46897a71e2614dd42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd240caa6b40b28d72f0fc8d1cf958c70') in 0.010811 seconds
+  Import took 0.013381 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004610 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.003 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1241 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.5 MB.
+System memory in use after: 62.5 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1728.
+Total: 2.117900 ms (FindLiveObjects: 0.404400 ms CreateObjectMapping: 0.043700 ms MarkObjects: 1.629500 ms  DeleteObjects: 0.039100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 95.120830 seconds.
+  path: Assets/Scripts/Cards and Deck/ContinuationCards/EndOfQuarter2.cs
+  artifactKey: Guid(572dd8d77237a6f46897a71e2614dd42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cards and Deck/ContinuationCards/EndOfQuarter2.cs using Guid(572dd8d77237a6f46897a71e2614dd42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ea90e61a1904ac536c2438c2c98881d') in 0.004935 seconds
+  Import took 0.007520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.811707 seconds.
+  path: Assets/Scripts/Cards and Deck/ContinuationCards/EndOfQuarter3.cs
+  artifactKey: Guid(2031a61c80724e4479b18da54fe17bb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cards and Deck/ContinuationCards/EndOfQuarter3.cs using Guid(2031a61c80724e4479b18da54fe17bb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e10521469c6fc02b53c40a94cc34cdaa') in 0.011652 seconds
+  Import took 0.014711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.229640 seconds.
+  path: Assets/Scripts/Cards and Deck/ContinuationCards/EndOfQuarter4.cs
+  artifactKey: Guid(16fa175224ebb154bb3a58d7bb6eb26c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cards and Deck/ContinuationCards/EndOfQuarter4.cs using Guid(16fa175224ebb154bb3a58d7bb6eb26c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd7c2066cf662ddcb893bee0a167bd98') in 0.011724 seconds
+  Import took 0.014201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.187544 seconds.
+  path: Assets/Scripts/Cards and Deck/ContinuationCards/FirstDown.cs
+  artifactKey: Guid(d74235e1a1b66a64faaeff67768ffceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cards and Deck/ContinuationCards/FirstDown.cs using Guid(d74235e1a1b66a64faaeff67768ffceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '590480c0745bc634d3caa9be296e7c73') in 0.011260 seconds
+  Import took 0.013725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.460024 seconds.
+  path: Assets/Scripts/Cards and Deck/ContinuationCards/FiveYardRun.cs
+  artifactKey: Guid(e5519c0fb6e720c4cbf79d651f78c7ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cards and Deck/ContinuationCards/FiveYardRun.cs using Guid(e5519c0fb6e720c4cbf79d651f78c7ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd706c3e05d06bd9e9503e2c7298cb3d') in 0.012699 seconds
+  Import took 0.015566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002798 seconds.
+  path: Assets/Scripts/Cards and Deck/ContinuationCards/FiveYardRun.cs
+  artifactKey: Guid(e5519c0fb6e720c4cbf79d651f78c7ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cards and Deck/ContinuationCards/FiveYardRun.cs using Guid(e5519c0fb6e720c4cbf79d651f78c7ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd706c3e05d06bd9e9503e2c7298cb3d') in 0.002041 seconds
+  Import took 0.004431 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006535 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.996 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1241 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.5 MB.
+System memory in use after: 62.6 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1730.
+Total: 2.393400 ms (FindLiveObjects: 0.192900 ms CreateObjectMapping: 0.096200 ms MarkObjects: 2.051400 ms  DeleteObjects: 0.051900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 19.639331 seconds.
+  path: Assets/Scripts/Cards and Deck/ContinuationCards/FiveYardRun.cs
+  artifactKey: Guid(e5519c0fb6e720c4cbf79d651f78c7ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cards and Deck/ContinuationCards/FiveYardRun.cs using Guid(e5519c0fb6e720c4cbf79d651f78c7ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e7d2c7498aef24be5a629cd3f6fe4bb') in 0.005167 seconds
+  Import took 0.007762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Scripts/Cards and Deck/ContinuationCards/Fumble.cs
+  artifactKey: Guid(b00a46ba46c52d643b82eaf995d87024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cards and Deck/ContinuationCards/Fumble.cs using Guid(b00a46ba46c52d643b82eaf995d87024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50199a5804ec9f1376f24894d3307bbb') in 0.017177 seconds
+  Import took 0.019809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.361016 seconds.
+  path: Assets/Scripts/Cards and Deck/ContinuationCards/PassCompletion.cs
+  artifactKey: Guid(e7ce5d30405b08c438b01aafb9945144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cards and Deck/ContinuationCards/PassCompletion.cs using Guid(e7ce5d30405b08c438b01aafb9945144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '470a987079b12b343d1c5dbdd7257044') in 0.017166 seconds
+  Import took 0.020240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002441 seconds.
+  path: Assets/Scripts/Cards and Deck/ContinuationCards/PassCompletion.cs
+  artifactKey: Guid(e7ce5d30405b08c438b01aafb9945144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cards and Deck/ContinuationCards/PassCompletion.cs using Guid(e7ce5d30405b08c438b01aafb9945144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '470a987079b12b343d1c5dbdd7257044') in 0.003223 seconds
+  Import took 0.006661 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004837 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.088 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
 Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1241 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 63.4 MB.
-System memory in use after: 63.5 MB.
+System memory in use before: 62.5 MB.
+System memory in use after: 62.6 MB.
 
-Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 1706.
-Total: 2.538500 ms (FindLiveObjects: 0.188900 ms CreateObjectMapping: 0.052300 ms MarkObjects: 2.189100 ms  DeleteObjects: 0.107300 ms)
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1732.
+Total: 2.087300 ms (FindLiveObjects: 0.268900 ms CreateObjectMapping: 0.082000 ms MarkObjects: 1.682800 ms  DeleteObjects: 0.052600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 32.612547 seconds.
+  path: Assets/Scripts/Cards and Deck/ContinuationCards/PassCompletion.cs
+  artifactKey: Guid(e7ce5d30405b08c438b01aafb9945144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cards and Deck/ContinuationCards/PassCompletion.cs using Guid(e7ce5d30405b08c438b01aafb9945144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5c717bc9671577a9f0758efe2a47f94') in 0.004985 seconds
+  Import took 0.007797 seconds .
 
 ========================================================================
 Received Import Request.
-  path: Assets/Scripts/GamePlayer.cs
-  artifactKey: Guid(38a3e9ce4294fc54cb5131f1a48eb279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/GamePlayer.cs using Guid(38a3e9ce4294fc54cb5131f1a48eb279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95fb80ff06250abd2fb70c649cb4d6a6') in 0.065258 seconds
-  Import took 0.067644 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 584.405381 seconds.
-  path: Assets/Scripts/GamePlayer.cs
-  artifactKey: Guid(38a3e9ce4294fc54cb5131f1a48eb279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/GamePlayer.cs using Guid(38a3e9ce4294fc54cb5131f1a48eb279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c0d7c5886a369342d37affe0aac3387') in 0.010968 seconds
-  Import took 0.013714 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.020732 seconds.
-  path: Assets/Scripts/GamePlayer.cs
-  artifactKey: Guid(38a3e9ce4294fc54cb5131f1a48eb279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/GamePlayer.cs using Guid(38a3e9ce4294fc54cb5131f1a48eb279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c0d7c5886a369342d37affe0aac3387') in 0.002219 seconds
-  Import took 0.004793 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 233.208582 seconds.
-  path: Assets/Scripts/GamePlayer.cs
-  artifactKey: Guid(38a3e9ce4294fc54cb5131f1a48eb279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/GamePlayer.cs using Guid(38a3e9ce4294fc54cb5131f1a48eb279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08f84048f059813c79ddb769f9c11b3d') in 0.003096 seconds
-  Import took 0.005836 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001651 seconds.
-  path: Assets/Scripts/GamePlayer.cs
-  artifactKey: Guid(38a3e9ce4294fc54cb5131f1a48eb279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/GamePlayer.cs using Guid(38a3e9ce4294fc54cb5131f1a48eb279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08f84048f059813c79ddb769f9c11b3d') in 0.002075 seconds
-  Import took 0.004477 seconds .
+  Time since last request: 4.488427 seconds.
+  path: Assets/Scripts/Cards and Deck/DefensiveCards/BlockedKick.cs
+  artifactKey: Guid(ef74e2e61268d2f41bd601e23c1a7a6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cards and Deck/DefensiveCards/BlockedKick.cs using Guid(ef74e2e61268d2f41bd601e23c1a7a6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09786c9bc706c6bd4053d2c7cd5cc3a7') in 0.012435 seconds
+  Import took 0.015513 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.005164 seconds.
+Registered in 0.005033 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
@@ -124,44 +364,200 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.973 seconds
+- Completed reload, in  1.030 seconds
 Platform modules already initialized, skipping
 Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1241 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.5 MB.
+System memory in use after: 62.6 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1734.
+Total: 2.065200 ms (FindLiveObjects: 0.170200 ms CreateObjectMapping: 0.049900 ms MarkObjects: 1.803600 ms  DeleteObjects: 0.040500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 51.525479 seconds.
+  path: Assets/Scripts/Cards and Deck/DefensiveCards/BlockedKick.cs
+  artifactKey: Guid(ef74e2e61268d2f41bd601e23c1a7a6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cards and Deck/DefensiveCards/BlockedKick.cs using Guid(ef74e2e61268d2f41bd601e23c1a7a6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcb0331602c70d21d88ef911ed93219a') in 0.004395 seconds
+  Import took 0.007350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.494146 seconds.
+  path: Assets/Scripts/Cards and Deck/DefensiveCards/Interception.cs
+  artifactKey: Guid(0c39a50d7fc30de47a703aea66177445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cards and Deck/DefensiveCards/Interception.cs using Guid(0c39a50d7fc30de47a703aea66177445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecbcbd1d4284874737818be2bcaac0c4') in 0.011851 seconds
+  Import took 0.014610 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004707 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1226 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 62.1 MB.
-System memory in use after: 62.2 MB.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.055 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1241 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.5 MB.
+System memory in use after: 62.6 MB.
 
-Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1708.
-Total: 1.723200 ms (FindLiveObjects: 0.149800 ms CreateObjectMapping: 0.042600 ms MarkObjects: 1.508500 ms  DeleteObjects: 0.021300 ms)
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1736.
+Total: 2.111200 ms (FindLiveObjects: 0.196300 ms CreateObjectMapping: 0.086300 ms MarkObjects: 1.795500 ms  DeleteObjects: 0.031800 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
 ========================================================================
+Received Import Request.
+  Time since last request: 16.456203 seconds.
+  path: Assets/Scripts/Cards and Deck/DefensiveCards/Interception.cs
+  artifactKey: Guid(0c39a50d7fc30de47a703aea66177445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cards and Deck/DefensiveCards/Interception.cs using Guid(0c39a50d7fc30de47a703aea66177445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd311173a7dca568ee3a6beb10c96d8d') in 0.004883 seconds
+  Import took 0.007968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.432380 seconds.
+  path: Assets/Scripts/Cards and Deck/DefensiveCards/Tackle.cs
+  artifactKey: Guid(a4ebb1ef29896d340806b644e822698a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cards and Deck/DefensiveCards/Tackle.cs using Guid(a4ebb1ef29896d340806b644e822698a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83bff6b45dbc938fc166d87bb6c36ae7') in 0.011275 seconds
+  Import took 0.013743 seconds .
+
+========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.004491 seconds.
+Registered in 0.004576 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.831 seconds
+- Completed reload, in  0.962 seconds
 Platform modules already initialized, skipping
 Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1226 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 62.1 MB.
-System memory in use after: 62.2 MB.
+Unloading 1241 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.5 MB.
+System memory in use after: 62.6 MB.
 
-Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1710.
-Total: 1.636600 ms (FindLiveObjects: 0.161900 ms CreateObjectMapping: 0.039700 ms MarkObjects: 1.385500 ms  DeleteObjects: 0.048600 ms)
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1738.
+Total: 1.923400 ms (FindLiveObjects: 0.177900 ms CreateObjectMapping: 0.039500 ms MarkObjects: 1.676700 ms  DeleteObjects: 0.028400 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 20.941520 seconds.
+  path: Assets/Scripts/Cards and Deck/DefensiveCards/Tackle.cs
+  artifactKey: Guid(a4ebb1ef29896d340806b644e822698a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cards and Deck/DefensiveCards/Tackle.cs using Guid(a4ebb1ef29896d340806b644e822698a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b04bbb11bf6bccfc32f54e89bda1df6c') in 0.004851 seconds
+  Import took 0.007255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.898407 seconds.
+  path: Assets/Scripts/Cards and Deck/OffensiveCards/Conversion.cs
+  artifactKey: Guid(5c72a19a474dff04d93f6429e431afa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cards and Deck/OffensiveCards/Conversion.cs using Guid(5c72a19a474dff04d93f6429e431afa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4d99cd5aa809b5e90bc64efdc416fc6') in 0.008961 seconds
+  Import took 0.011501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022005 seconds.
+  path: Assets/Scripts/Cards and Deck/OffensiveCards/Conversion.cs
+  artifactKey: Guid(5c72a19a474dff04d93f6429e431afa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cards and Deck/OffensiveCards/Conversion.cs using Guid(5c72a19a474dff04d93f6429e431afa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4d99cd5aa809b5e90bc64efdc416fc6') in 0.003023 seconds
+  Import took 0.006240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.897402 seconds.
+  path: Assets/Scripts/Cards and Deck/OffensiveCards/ExtraPoint.cs
+  artifactKey: Guid(35b443194b555394f9403854c11bf4dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cards and Deck/OffensiveCards/ExtraPoint.cs using Guid(35b443194b555394f9403854c11bf4dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fae656a99e4a8a30b0fcf7d2c6dc7304') in 0.012901 seconds
+  Import took 0.015878 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005032 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.053 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1241 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.5 MB.
+System memory in use after: 62.6 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1740.
+Total: 1.812600 ms (FindLiveObjects: 0.136400 ms CreateObjectMapping: 0.039200 ms MarkObjects: 1.594300 ms  DeleteObjects: 0.041900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 31.222217 seconds.
+  path: Assets/Scripts/Cards and Deck/OffensiveCards/ExtraPoint.cs
+  artifactKey: Guid(35b443194b555394f9403854c11bf4dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cards and Deck/OffensiveCards/ExtraPoint.cs using Guid(35b443194b555394f9403854c11bf4dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a118d51937c1776bc2c7b0941b143718') in 0.005642 seconds
+  Import took 0.009699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.150377 seconds.
+  path: Assets/Scripts/Cards and Deck/OffensiveCards/FieldGoal.cs
+  artifactKey: Guid(7213d90435ae8fe4dbb83a84123a33f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cards and Deck/OffensiveCards/FieldGoal.cs using Guid(7213d90435ae8fe4dbb83a84123a33f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81c6f25760da14687595a3696d4a1249') in 0.011946 seconds
+  Import took 0.014846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.058898 seconds.
+  path: Assets/Scripts/Cards and Deck/OffensiveCards/HailMary.cs
+  artifactKey: Guid(176d137205982f445b5fb587ed163413) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cards and Deck/OffensiveCards/HailMary.cs using Guid(176d137205982f445b5fb587ed163413) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9fdd998c129ec58420d029db9618639') in 0.012364 seconds
+  Import took 0.015026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.570783 seconds.
+  path: Assets/Scripts/Cards and Deck/OffensiveCards/PassingTD.cs
+  artifactKey: Guid(6f15a9691e1dc9446954ad1d88681687) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cards and Deck/OffensiveCards/PassingTD.cs using Guid(6f15a9691e1dc9446954ad1d88681687) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3426d67661d6f5af83d64bfb6a2eb228') in 0.011567 seconds
+  Import took 0.015057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.838957 seconds.
+  path: Assets/Scripts/Cards and Deck/OffensiveCards/RushingTD.cs
+  artifactKey: Guid(b47d6a5cf7b6bb8408e68308ca457c97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cards and Deck/OffensiveCards/RushingTD.cs using Guid(b47d6a5cf7b6bb8408e68308ca457c97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73f194a9092e4e3c65c8f6ac8b793258') in 0.016447 seconds
+  Import took 0.019802 seconds .
+
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file

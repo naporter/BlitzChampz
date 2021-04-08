@@ -11,85 +11,82 @@ public class Deck : MonoBehaviour
     private void CreateDeck()
     {
         //** CONTINTUATION CARDS **//
-        // ContinuationCard(string, Object)
 
-        foreach (Card card in Card.CreateCard(8, new ContinuationCard(Card.Continuation.Blitz, Resources.Load("blitz")))) //creates a list of a specific cards with a specified number of cards and iterates over them
+        foreach (Card card in Card.CreateCard(8, new Blitz())) //creates a list of a specific cards with a specified number of cards and iterates over them
         {
             deck.Add(card); //adds each card in the newly created list, to the deck
         }
-        foreach (Card card in Card.CreateCard(4, new ContinuationCard(Card.Continuation.Fumble, Resources.Load("fumble")))) 
+        foreach (Card card in Card.CreateCard(4, new Fumble())) 
         {
             deck.Add(card); 
         }
-        foreach (Card card in Card.CreateCard(8, new ContinuationCard(Card.Continuation.FiveYardRun, Resources.Load("5_yard_run")))) 
+        foreach (Card card in Card.CreateCard(8, new FiveYardRun())) 
         {
             deck.Add(card); 
         }
-        foreach (Card card in Card.CreateCard(8, new ContinuationCard(Card.Continuation.FirstDown, Resources.Load("first_down")))) 
+        foreach (Card card in Card.CreateCard(8, new FirstDown())) 
         {
             deck.Add(card); 
         }
-        foreach (Card card in Card.CreateCard(8, new ContinuationCard(Card.Continuation.PassCompletion, Resources.Load("pass_completion")))) 
+        foreach (Card card in Card.CreateCard(8, new PassCompletion())) 
         {
             deck.Add(card); 
         }
-        foreach (Card card in Card.CreateCard(2, new ContinuationCard(Card.Continuation.EndOfQuarter1, Resources.Load("end_of_quarter1")))) 
+        foreach (Card card in Card.CreateCard(2, new EndOfQuarter1())) 
         {
             deck.Add(card); 
         }
-        foreach (Card card in Card.CreateCard(2, new ContinuationCard(Card.Continuation.EndOfQuarter2, Resources.Load("end_of_quarter2")))) 
+        foreach (Card card in Card.CreateCard(2, new EndOfQuarter2())) 
         {
             deck.Add(card); 
         }
-        foreach (Card card in Card.CreateCard(2, new ContinuationCard(Card.Continuation.EndOfQuarter3, Resources.Load("end_of_quarter3")))) 
+        foreach (Card card in Card.CreateCard(2, new EndOfQuarter3())) 
         {
             deck.Add(card); 
         }
-        foreach (Card card in Card.CreateCard(2, new ContinuationCard(Card.Continuation.EndOfQuarter4, Resources.Load("end_of_quarter4")))) 
+        foreach (Card card in Card.CreateCard(2, new EndOfQuarter4())) 
         {
             deck.Add(card); 
         }
 
         //** DEFENSIVE CARDS **//
-        // DefensiveCard(string, Object)
 
-        foreach (Card card in Card.CreateCard(11, new DefensiveCard(Card.Defensive.BlockedKick, Resources.Load("blocked_kick")))) 
+        foreach (Card card in Card.CreateCard(11, new BlockedKick())) 
         {
             deck.Add(card); 
         }
-        foreach (Card card in Card.CreateCard(4, new DefensiveCard(Card.Defensive.Tackle, Resources.Load("tackle")))) 
+        foreach (Card card in Card.CreateCard(4, new Tackle())) 
         {
             deck.Add(card); 
         }
-        foreach (Card card in Card.CreateCard(3, new DefensiveCard(Card.Defensive.Interception, Resources.Load("interception")))) 
+        foreach (Card card in Card.CreateCard(3, new Interception())) 
         {
             deck.Add(card); 
         }
 
         //** OFFFENSIVE CARDS **//
-        // OffensiveCard(string, Object, int)
 
-        foreach (Card card in Card.CreateCard(7, new OffensiveCard(Card.Offensive.FieldGoal, Resources.Load("field_goal"), 3))) 
+        foreach (Card card in Card.CreateCard(7, new FieldGoal())) 
         {
             deck.Add(card); 
         }
-        foreach (Card card in Card.CreateCard(6, new OffensiveCard(Card.Offensive.Conversion, Resources.Load("conversion"), 2))) 
+        foreach (Card card in Card.CreateCard(6, new Conversion())) 
         {
             deck.Add(card); 
         }
-        foreach (Card card in Card.CreateCard(2, new OffensiveCard(Card.Offensive.HailMary, Resources.Load("hail_mary"), 8))) 
+        foreach (Card card in Card.CreateCard(2, new HailMary())) 
         {
             deck.Add(card); 
         }
-        foreach (Card card in Card.CreateCard(6, new OffensiveCard(Card.Offensive.Passing, Resources.Load("passing_td"), 6))) 
+        foreach (Card card in Card.CreateCard(6, new PassingTD())) 
         {
             deck.Add(card); 
         }
-        foreach (Card card in Card.CreateCard(6, new OffensiveCard(Card.Offensive.Rushing, Resources.Load("rushing_td"), 6))) 
+        foreach (Card card in Card.CreateCard(6, new RushingTD())) 
         {
             deck.Add(card); 
         }
-        foreach (Card card in Card.CreateCard(11, new OffensiveCard(Card.Offensive.ExtraPoint, Resources.Load("extra_point"), 1))) 
+        foreach (Card card in Card.CreateCard(11, new ExtraPoint())) 
         {
             deck.Add(card); 
         }
