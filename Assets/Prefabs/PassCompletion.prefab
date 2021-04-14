@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 1569959944960251996}
   - component: {fileID: 5383591699548112303}
   - component: {fileID: 4174773090395276340}
+  - component: {fileID: -3587424855046312151}
   m_Layer: 5
   m_Name: PassCompletion
   m_TagString: Untagged
@@ -75,3 +76,16 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &-3587424855046312151
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1241550133107446367}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7ce5d30405b08c438b01aafb9945144, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  passCompletionPrefab: {fileID: 1241550133107446367}

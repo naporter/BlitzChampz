@@ -2,19 +2,18 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Interception : Card, Rules
+public class Interception : Card
 {
     [SerializeField]
     private GameObject interceptionPrefab;
 
     public Interception()
     {
-        interceptionPrefab = Resources.Load<GameObject>("Prefabs/Interception");
     }
 
     public new void ShowCard()
     {
-        GameObject interception = Instantiate(interceptionPrefab, new Vector3(0, 0, 0), Quaternion.identity);
+       // Instantiate(interceptionPrefab, new Vector3(0, 0, 0), Quaternion.identity);
     }
 
     public new void Play()
@@ -22,10 +21,20 @@ public class Interception : Card, Rules
 
     }
 
+    public override GameObject GetPrefab()
+    {
+        return interceptionPrefab;
+    }
+
+    private void Awake()
+    {
+        
+    }
+
     // Start is called before the first frame update
     void Start()
     {
-        
+        interceptionPrefab = Resources.Load<GameObject>("Prefabs/Interception");
     }
 
     // Update is called once per frame

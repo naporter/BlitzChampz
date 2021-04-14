@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 8208494812554099677}
   - component: {fileID: 3356779219627566638}
   - component: {fileID: 6758837387939293109}
+  - component: {fileID: -5822059772914651910}
   m_Layer: 5
   m_Name: HailMary
   m_TagString: Untagged
@@ -75,3 +76,16 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &-5822059772914651910
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8437827664905744862}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 176d137205982f445b5fb587ed163413, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hailMaryPrefab: {fileID: 8437827664905744862}

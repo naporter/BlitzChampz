@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 2525538484970569127}
   - component: {fileID: 8967583575553843284}
   - component: {fileID: 1092927334582051279}
+  - component: {fileID: -494488957169602389}
   m_Layer: 5
   m_Name: PassingTD
   m_TagString: Untagged
@@ -75,3 +76,16 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &-494488957169602389
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2882236536277464996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f15a9691e1dc9446954ad1d88681687, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  passingTDPrefab: {fileID: 2882236536277464996}

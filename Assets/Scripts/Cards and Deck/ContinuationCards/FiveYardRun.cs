@@ -2,19 +2,21 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FiveYardRun : Card, Rules
+public class FiveYardRun : Card
 {
     [SerializeField]
     private GameObject fiveYardRunPrefab;
 
     public FiveYardRun()
     {
-        fiveYardRunPrefab = Resources.Load<GameObject>("Prefabs/FiveYardRun");
+        Debug.Log("FiveYardRun created");
+        //fiveYardRunPrefab = Resources.Load<GameObject>("Prefabs/FiveYardRun");
     }
 
-    public new void ShowCard()
+    public override void ShowCard()
     {
-        GameObject fiveYardRun = Instantiate(fiveYardRunPrefab, new Vector3(0, 0, 0), Quaternion.identity);
+        Debug.Log("Show Card");
+        //Instantiate(fiveYardRunPrefab, new Vector3(0, 0, 0), Quaternion.identity).transform.SetParent(handArea.transform, false);
     }
 
     public new void Play()
@@ -22,10 +24,21 @@ public class FiveYardRun : Card, Rules
 
     }
 
+    public override GameObject GetPrefab()
+    {
+        return fiveYardRunPrefab;
+    }
+
+    private void Awake()
+    {
+        
+    }
+
     // Start is called before the first frame update
     void Start()
     {
-        
+        Debug.Log("Calling Start in FiveYardRun");
+        //this.fiveYardRunPrefab = Resources.Load("Prefabs/FiveYardRun") as GameObject;
     }
 
     // Update is called once per frame

@@ -9,12 +9,11 @@ public class Tackle : Card, Rules
 
     public Tackle()
     {
-        tacklePrefab = Resources.Load<GameObject>("Prefabs/Tackle");
     }
 
     public new void ShowCard()
     {
-        GameObject tackle = Instantiate(tacklePrefab, new Vector3(0, 0, 0), Quaternion.identity);
+        //GameObject tackle = Instantiate(tacklePrefab, new Vector3(0, 0, 0), Quaternion.identity);
     }
 
     public new void Play()
@@ -22,10 +21,20 @@ public class Tackle : Card, Rules
 
     }
 
+    public override GameObject GetPrefab()
+    {
+        return tacklePrefab;
+    }
+
+    private void Awake()
+    {
+        
+    }
+
     // Start is called before the first frame update
     void Start()
     {
-        
+        tacklePrefab = Resources.Load<GameObject>("Prefabs/Tackle");
     }
 
     // Update is called once per frame

@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4899782901677460487}
   - component: {fileID: 2053717254217437684}
   - component: {fileID: 8059718023208554607}
+  - component: {fileID: 4142344199256641073}
   m_Layer: 5
   m_Name: EndOfQuarter3
   m_TagString: Untagged
@@ -75,3 +76,16 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &4142344199256641073
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5119686306884175364}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2031a61c80724e4479b18da54fe17bb7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  endOfQuarter3Prefab: {fileID: 5119686306884175364}

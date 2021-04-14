@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class RushingTD : Card, Rules
+public class RushingTD : Card
 {
     [SerializeField]
     private GameObject rushingTDPrefab;
@@ -10,12 +10,12 @@ public class RushingTD : Card, Rules
 
     public RushingTD()
     {
-        rushingTDPrefab = Resources.Load<GameObject>("Prefabs/RushingTD");
+        
     }
 
     public new void ShowCard()
     {
-        GameObject rushingTD = Instantiate(rushingTDPrefab, new Vector3(0, 0, 0), Quaternion.identity);
+        //Instantiate(rushingTDPrefab, new Vector3(0, 0, 0), Quaternion.identity).transform.SetParent(handArea.transform, false);
     }
 
     public new void Play()
@@ -23,10 +23,20 @@ public class RushingTD : Card, Rules
 
     }
 
+    public override GameObject GetPrefab()
+    {
+        return rushingTDPrefab;
+    }
+
+    private void Awake()
+    {
+        
+    }
+
     // Start is called before the first frame update
     void Start()
     {
-        
+        rushingTDPrefab = Resources.Load<GameObject>("Prefabs/RushingTD");
     }
 
     // Update is called once per frame

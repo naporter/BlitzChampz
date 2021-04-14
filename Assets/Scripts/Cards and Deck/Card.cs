@@ -3,16 +3,16 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class Card : MonoBehaviour, Rules
+public class Card : MonoBehaviour
 {
 
     public Card()
     {
     }
 
-    public static List<Card> CreateCard(int numToMake, Card cardType)
+    public static List<GameObject> CreateCard(int numToMake, GameObject cardType)
     {
-        List<Card> cards = new List<Card>();
+        List<GameObject> cards = new List<GameObject>();
         for(int i = 0; i < numToMake; i++)
         {
             cards.Add(cardType);
@@ -24,9 +24,13 @@ public class Card : MonoBehaviour, Rules
     {
     }
 
-    public void ShowCard()
+    public virtual GameObject GetPrefab()
     {
+        Debug.Log("Returning null type for prefab");
+        return null;
     }
+
+    public virtual void ShowCard() { }
 
     // Start is called before the first frame update
     void Start()

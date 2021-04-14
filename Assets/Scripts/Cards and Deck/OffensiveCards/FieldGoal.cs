@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FieldGoal : Card, Rules
+public class FieldGoal : Card
 {
     [SerializeField]
     private GameObject fieldGoalPrefab;
@@ -10,23 +10,31 @@ public class FieldGoal : Card, Rules
 
     public FieldGoal()
     {
-        fieldGoalPrefab = Resources.Load<GameObject>("Prefabs/FieldGoal");
     }
 
     public new void ShowCard()
     {
-        GameObject fieldGoal = Instantiate(fieldGoalPrefab, new Vector3(0, 0, 0), Quaternion.identity);
+        //GameObject fieldGoal = Instantiate(fieldGoalPrefab, new Vector3(0, 0, 0), Quaternion.identity);
     }
 
     public new void Play()
     {
 
     }
+    public override GameObject GetPrefab()
+    {
+        return fieldGoalPrefab;
+    }
+
+    private void Awake()
+    {
+        
+    }
 
     // Start is called before the first frame update
     void Start()
     {
-        
+        fieldGoalPrefab = Resources.Load<GameObject>("Prefabs/FieldGoal");
     }
 
     // Update is called once per frame

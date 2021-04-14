@@ -2,29 +2,40 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EndOfQuarter3 : Card, Rules
+public class EndOfQuarter3 : Card
 {
     [SerializeField]
     private GameObject endOfQuarter3Prefab;
 
     public EndOfQuarter3()
     {
-        endOfQuarter3Prefab = Resources.Load<GameObject>("Prefabs/EndOfQuarter3");
+        
     }
 
-    public new void ShowCard()
+    public override void ShowCard()
     {
-        GameObject endOfQuarter3 = Instantiate(endOfQuarter3Prefab, new Vector3(0, 0, 0), Quaternion.identity);
+        Debug.Log("Show Card");
+        //Instantiate(endOfQuarter3Prefab, new Vector3(0, 0, 0), Quaternion.identity).transform.SetParent(handArea.transform, false);
     }
 
     public new void Play()
     {
 
     }
+
+    public override GameObject GetPrefab()
+    {
+        return endOfQuarter3Prefab;
+    }
+
+    private void Awake()
+    {
+        
+    }
     // Start is called before the first frame update
     void Start()
     {
-        
+        endOfQuarter3Prefab = Resources.Load<GameObject>("Prefabs/EndOfQuarter3");
     }
 
     // Update is called once per frame
