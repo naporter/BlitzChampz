@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-04-08T14:40:10.639-05:00
-  initializedAtString: 2021-04-08T14:40:10.639-05:00
+  lastUpdatedAtString: 2021-04-13T16:59:56.270-05:00
+  initializedAtString: 2021-04-13T09:23:12.455-05:00
   currentGitRemote:
     name: origin
     url: https://github.com/naporter/BlitzChampz.git
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: development
-    tracking: origin/development
+    name: developmentDylan
+    tracking: origin/developmentDylan
   currentConfigBranch:
-    name: development
+    name: developmentDylan
     remote:
       name: origin
       url: https://github.com/naporter/BlitzChampz.git
-    trackingBranch: development
+    trackingBranch: developmentDylan
   currentConfigRemote:
     name: origin
     url: https://github.com/naporter/BlitzChampz.git

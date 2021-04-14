@@ -13,17 +13,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-04-08T14:45:40.269-05:00
-  initializedAtString: 2021-04-08T14:40:11.243-05:00
+  lastUpdatedAtString: 2021-04-13T16:59:56.276-05:00
+  initializedAtString: 2021-04-13T10:21:03.737-05:00
   localBranches:
   - name: development
     tracking: origin/development
-  - name: developmentBennett
-    tracking: origin/developmentBennett
   - name: developmentDylan
     tracking: origin/developmentDylan
-  - name: developmentKara
-    tracking: origin/developmentKara
+  - name: devlopment
+    tracking: 
   - name: main
     tracking: origin/main
   remoteBranches:
@@ -34,6 +32,8 @@ MonoBehaviour:
   - name: origin/developmentDylan
     tracking: '[None]'
   - name: origin/developmentKara
+    tracking: '[None]'
+  - name: origin/HEAD
     tracking: '[None]'
   - name: origin/main
     tracking: '[None]'
@@ -48,9 +48,8 @@ MonoBehaviour:
   localConfigBranches:
     keys:
     - development
-    - developmentBennett
     - developmentDylan
-    - developmentKara
+    - devlopment
     - main
     values:
     - name: development
@@ -58,21 +57,16 @@ MonoBehaviour:
         name: origin
         url: https://github.com/naporter/BlitzChampz.git
       trackingBranch: development
-    - name: developmentBennett
-      remote:
-        name: origin
-        url: https://github.com/naporter/BlitzChampz.git
-      trackingBranch: developmentBennett
     - name: developmentDylan
       remote:
         name: origin
         url: https://github.com/naporter/BlitzChampz.git
       trackingBranch: developmentDylan
-    - name: developmentKara
+    - name: devlopment
       remote:
-        name: origin
-        url: https://github.com/naporter/BlitzChampz.git
-      trackingBranch: developmentKara
+        name: 
+        url: 
+      trackingBranch: 
     - name: main
       remote:
         name: origin
@@ -87,6 +81,7 @@ MonoBehaviour:
       - developmentBennett
       - developmentDylan
       - developmentKara
+      - HEAD
       - main
     subKeyValues:
     - Values:
@@ -106,6 +101,11 @@ MonoBehaviour:
           url: https://github.com/naporter/BlitzChampz.git
         trackingBranch: 
       - name: developmentKara
+        remote:
+          name: origin
+          url: https://github.com/naporter/BlitzChampz.git
+        trackingBranch: 
+      - name: HEAD
         remote:
           name: origin
           url: https://github.com/naporter/BlitzChampz.git
