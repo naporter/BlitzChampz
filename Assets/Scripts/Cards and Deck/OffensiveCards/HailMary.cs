@@ -4,8 +4,6 @@ using UnityEngine;
 
 public class HailMary : Card
 {
-    [SerializeField]
-    private GameObject hailMaryPrefab;
     private readonly int points = 8;
 
     public HailMary()
@@ -21,10 +19,6 @@ public class HailMary : Card
     {
 
     }
-    public override GameObject GetPrefab()
-    {
-        return hailMaryPrefab;
-    }
 
     private void Awake()
     {
@@ -34,7 +28,6 @@ public class HailMary : Card
     // Start is called before the first frame update
     void Start()
     {
-        hailMaryPrefab = Resources.Load<GameObject>("Prefabs/HailMary");
     }
 
     // Update is called once per frame

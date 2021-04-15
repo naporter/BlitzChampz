@@ -4,8 +4,6 @@ using UnityEngine;
 
 public class PassCompletion : Card
 {
-    [SerializeField]
-    private GameObject passCompletionPrefab;
 
     public PassCompletion()
     {
@@ -22,12 +20,6 @@ public class PassCompletion : Card
     {
 
     }
-
-    public override GameObject GetPrefab()
-    {
-        return passCompletionPrefab;
-    }
-
     private void Awake()
     {
         
@@ -36,7 +28,6 @@ public class PassCompletion : Card
     // Start is called before the first frame update
     void Start()
     {
-        passCompletionPrefab = Resources.Load<GameObject>("Prefabs/PassCompletion");
     }
 
     // Update is called once per frame

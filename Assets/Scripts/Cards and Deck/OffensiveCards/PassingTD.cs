@@ -4,8 +4,6 @@ using UnityEngine;
 
 public class PassingTD : Card
 {
-    [SerializeField]
-    private GameObject passingTDPrefab;
     private readonly int points = 6;
 
     public PassingTD()
@@ -21,10 +19,6 @@ public class PassingTD : Card
     {
 
     }
-    public override GameObject GetPrefab()
-    {
-        return passingTDPrefab;
-    }
 
     private void Awake()
     {
@@ -34,7 +28,6 @@ public class PassingTD : Card
     // Start is called before the first frame update
     void Start()
     {
-        passingTDPrefab = Resources.Load<GameObject>("Prefabs/PassingTD");
     }
 
     // Update is called once per frame

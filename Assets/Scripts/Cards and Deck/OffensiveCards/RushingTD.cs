@@ -4,8 +4,6 @@ using UnityEngine;
 
 public class RushingTD : Card
 {
-    [SerializeField]
-    private GameObject rushingTDPrefab;
     private readonly int points = 6;
 
     public RushingTD()
@@ -23,10 +21,6 @@ public class RushingTD : Card
 
     }
 
-    public override GameObject GetPrefab()
-    {
-        return rushingTDPrefab;
-    }
 
     private void Awake()
     {
@@ -36,7 +30,6 @@ public class RushingTD : Card
     // Start is called before the first frame update
     void Start()
     {
-        rushingTDPrefab = Resources.Load<GameObject>("Prefabs/RushingTD");
     }
 
     // Update is called once per frame

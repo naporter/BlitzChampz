@@ -4,8 +4,6 @@ using UnityEngine;
 
 public class FirstDown : Card
 {
-    [SerializeField]
-    private GameObject firstDownPrefab;
 
     public FirstDown()
     {
@@ -22,11 +20,6 @@ public class FirstDown : Card
     {
 
     }
-
-    public override GameObject GetPrefab()
-    {
-        return firstDownPrefab;
-    }
     private void Awake()
     {
         
@@ -34,7 +27,6 @@ public class FirstDown : Card
     // Start is called before the first frame update
     void Start()
     {
-        firstDownPrefab = Resources.Load<GameObject>("Prefabs/FirstDown");
     }
 
     // Update is called once per frame

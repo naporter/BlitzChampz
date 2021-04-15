@@ -4,8 +4,6 @@ using UnityEngine;
 
 public class EndOfQuarter3 : Card
 {
-    [SerializeField]
-    private GameObject endOfQuarter3Prefab;
 
     public EndOfQuarter3()
     {
@@ -23,10 +21,6 @@ public class EndOfQuarter3 : Card
 
     }
 
-    public override GameObject GetPrefab()
-    {
-        return endOfQuarter3Prefab;
-    }
 
     private void Awake()
     {
@@ -35,7 +29,6 @@ public class EndOfQuarter3 : Card
     // Start is called before the first frame update
     void Start()
     {
-        endOfQuarter3Prefab = Resources.Load<GameObject>("Prefabs/EndOfQuarter3");
     }
 
     // Update is called once per frame

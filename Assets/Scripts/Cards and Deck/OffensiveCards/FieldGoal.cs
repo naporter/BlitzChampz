@@ -4,8 +4,6 @@ using UnityEngine;
 
 public class FieldGoal : Card
 {
-    [SerializeField]
-    private GameObject fieldGoalPrefab;
     private readonly int points = 3;
 
     public FieldGoal()
@@ -21,10 +19,6 @@ public class FieldGoal : Card
     {
 
     }
-    public override GameObject GetPrefab()
-    {
-        return fieldGoalPrefab;
-    }
 
     private void Awake()
     {
@@ -34,7 +28,6 @@ public class FieldGoal : Card
     // Start is called before the first frame update
     void Start()
     {
-        fieldGoalPrefab = Resources.Load<GameObject>("Prefabs/FieldGoal");
     }
 
     // Update is called once per frame

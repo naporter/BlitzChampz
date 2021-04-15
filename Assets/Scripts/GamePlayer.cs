@@ -5,8 +5,6 @@ using UnityEngine;
 
 public class GamePlayer : Table
 {
-    [SerializeField]
-    private GameObject showHandButton;
     private string displayName;
     private List<GameObject> hand = new List<GameObject>();
     private bool turn;
@@ -34,34 +32,14 @@ public class GamePlayer : Table
     }
 
     public void ShowHand()
-    {        
-        //if (PhotonNetwork.IsMasterClient)
-        //{
-        //    Debug.Log("Cards in hand: " + hand.Count);
-        //    foreach (GameObject card in this.hand)
-        //    {
-        //        Debug.Log("host " + card + " " + card.GetPrefab());
-        //        //myHandArea.SetActive(true);
-        //        if(card.GetPrefab() != null)
-        //        {
-        //            Instantiate(card.GetPrefab(), new Vector3(0, 0, 0), Quaternion.identity).transform.SetParent(myHandArea.transform, false);
-        //        }else
-        //        {
-        //            Debug.Log(card + " Prefab not instantiated");
-        //        }
-                
-        //    }
-        //}
-        //else
-        //{
-        //    foreach (Card card in this.hand)
-        //    {
-        //        Debug.Log("remote " + card + " " + card.GetPrefab());
-        //        //opponentHandArea.SetActive(true);
-        //        Instantiate(card.GetPrefab(), new Vector3(0, 0, 0), Quaternion.identity).transform.SetParent(opponentHandArea.transform, false);
-        //    }
-        //}
-        
+    {
+        Debug.Log("Cards in hand: " + hand.Count);
+        foreach (GameObject card in this.hand)
+        {
+            Debug.Log("host " + card);
+            Instantiate(card, new Vector3(0, 0, 0), Quaternion.identity).transform.SetParent(MyHandArea.transform, false);
+        }
+
     }
 
     void PlayCard(GameObject card)
@@ -84,6 +62,10 @@ public class GamePlayer : Table
     // Update is called once per frame
     void Update()
     {
-        
+        //Debug.Log("Update Running for Hand in GamePlayer");
+        //foreach(GameObject card in hand)
+        //{
+        //    Instantiate(card, new Vector3(0,0,0), Quaternion.identity).transform.SetParent(MyHandArea.transform);
+        //}
     }
 }

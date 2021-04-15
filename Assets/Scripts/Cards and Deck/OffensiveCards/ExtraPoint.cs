@@ -4,8 +4,6 @@ using UnityEngine;
 
 public class ExtraPoint : Card
 {
-    [SerializeField]
-    private GameObject extraPointPrefab;
     private readonly int points = 1;
 
     public ExtraPoint()
@@ -23,10 +21,6 @@ public class ExtraPoint : Card
     {
     }
 
-    public override GameObject GetPrefab()
-    {
-        return extraPointPrefab;
-    }
     private void Awake()
     {
         
@@ -35,7 +29,6 @@ public class ExtraPoint : Card
     // Start is called before the first frame update
     void Start()
     {
-        extraPointPrefab = Resources.Load<GameObject>("Prefabs/ExtraPoint");
     }
 
     // Update is called once per frame

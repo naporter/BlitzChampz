@@ -84,9 +84,7 @@
     <Compile Include="Assets\Scripts\Photon Scripts\GameSetupController.cs" />
     <Compile Include="Assets\Scripts\Cards and Deck\DefensiveCards\BlockedKick.cs" />
     <Compile Include="Assets\Scripts\UI\OnButtonSelected.cs" />
-    <Compile Include="Assets\Scripts\Cards and Deck\Rules.cs" />
     <Compile Include="Assets\Scripts\Photon Scripts\QuickPlayLobbyController.cs" />
-    <Compile Include="Assets\Scripts\Cards and Deck\Deck.cs" />
     <Compile Include="Assets\Scripts\UI\GameUI.cs" />
     <Compile Include="Assets\Scripts\Cards and Deck\OffensiveCards\PassingTD.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\Common\TextToggleIsOnTransition.cs" />

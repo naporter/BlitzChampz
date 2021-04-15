@@ -4,8 +4,6 @@ using UnityEngine;
 
 public class Fumble : Card
 {
-    [SerializeField]
-    private GameObject fumblePrefab;
 
     public Fumble()
     {
@@ -19,10 +17,6 @@ public class Fumble : Card
         //Instantiate(fumblePrefab, new Vector3(0, 0, 0), Quaternion.identity).transform.SetParent(handArea.transform, false);
     }
 
-    public override GameObject GetPrefab()
-    {
-        return fumblePrefab;
-    }
 
     public new void Play()
     {
@@ -38,7 +32,6 @@ public class Fumble : Card
     void Start()
     {
         Debug.Log("Calling Start in Fumble");
-        //this.fumblePrefab = Resources.Load<GameObject>("Prefabs/Fumble");
     }
 
     // Update is called once per frame

@@ -4,8 +4,6 @@ using UnityEngine;
 
 public class FiveYardRun : Card
 {
-    [SerializeField]
-    private GameObject fiveYardRunPrefab;
 
     public FiveYardRun()
     {
@@ -24,10 +22,6 @@ public class FiveYardRun : Card
 
     }
 
-    public override GameObject GetPrefab()
-    {
-        return fiveYardRunPrefab;
-    }
 
     private void Awake()
     {
@@ -38,7 +32,6 @@ public class FiveYardRun : Card
     void Start()
     {
         Debug.Log("Calling Start in FiveYardRun");
-        //this.fiveYardRunPrefab = Resources.Load("Prefabs/FiveYardRun") as GameObject;
     }
 
     // Update is called once per frame
