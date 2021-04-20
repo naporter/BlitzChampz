@@ -2,30 +2,32 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Blitz : Card, Rules
+public class Blitz : Card
 {
-    [SerializeField]
-    private GameObject blitzPrefab;
 
     public Blitz()
     {
-        blitzPrefab = Resources.Load<GameObject>("Prefabs/Blitz");
+        Debug.Log("Blitz created");
     }
 
-    public new void ShowCard()
+    public override void ShowCard()
     {
-        GameObject blitz = Instantiate(blitzPrefab, new Vector3(0, 0, 0), Quaternion.identity);
     }
 
     public new void Play()
     {
+        
+    }
 
+    private void Awake()
+    {
+        
     }
 
     // Start is called before the first frame update
     void Start()
     {
-        
+        Debug.Log("Calling Start in Blitz");
     }
 
     // Update is called once per frame

@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 7044844234297295964}
   - component: {fileID: 4520368147915856303}
   - component: {fileID: 5612057707509159988}
+  - component: {fileID: -3889029019788532268}
   m_Layer: 5
   m_Name: Interception
   m_TagString: Untagged
@@ -27,14 +28,14 @@ RectTransform:
   m_GameObject: {fileID: 7293317386146942559}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 74.34839, y: 49.479614}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 750, y: 1050}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &4520368147915856303
@@ -75,3 +76,16 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &-3889029019788532268
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7293317386146942559}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c39a50d7fc30de47a703aea66177445, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  interceptionPrefab: {fileID: 7293317386146942559}
