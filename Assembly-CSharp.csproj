@@ -57,6 +57,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Photon\PhotonRealtime\Demos\DemoLoadBalancing\ConnectAndJoinRandomLb.cs" />
+    <Compile Include="Assets\Scripts\Cards and Deck\Deck.cs" />
+    <Compile Include="Assets\Scripts\Cards and Deck\DefensiveCards\Interception.cs" />
+    <Compile Include="Assets\Scripts\Cards and Deck\ContinuationCards\Blitz.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\DemoChat\IgnoreUiRaycastWhenInactive.cs" />
     <Compile Include="Assets\Scripts\Photon Scripts\JoinLobbyController.cs" />
     <Compile Include="Assets\Photon\PhotonLibs\WebSocket\WebSocket.cs" />
@@ -65,29 +68,41 @@
     <Compile Include="Assets\Scripts\Photon Scripts\NetworkController.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\Common\EventSystemSpawner.cs" />
     <Compile Include="Assets\Photon\PhotonLibs\WebSocket\SocketWebTcp.cs" />
+    <Compile Include="Assets\Scripts\Cards and Deck\ContinuationCards\EndOfQuarter2.cs" />
     <Compile Include="Assets\Scripts\Table.cs" />
-    <Compile Include="Assets\Scripts\Cards and Deck\ContinuationCard.cs" />
+    <Compile Include="Assets\Scripts\Cards and Deck\DefensiveCards\Tackle.cs" />
+    <Compile Include="Assets\Scripts\Cards and Deck\ContinuationCards\PassCompletion.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\DemoChat\FriendItem.cs" />
+    <Compile Include="Assets\Scripts\Cards and Deck\OffensiveCards\RushingTD.cs" />
+    <Compile Include="Assets\Scripts\Cards and Deck\ContinuationCards\FiveYardRun.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\DemoChat\ChatAppIdCheckerUI.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\DemoChat\AppSettingsExtensions.cs" />
+    <Compile Include="Assets\Scripts\Cards and Deck\ContinuationCards\EndOfQuarter3.cs" />
     <Compile Include="Assets\Scripts\Cards and Deck\Card.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\DemoChat\NamePickGui.cs" />
     <Compile Include="Assets\Scripts\Photon Scripts\CreateLobbyController.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\DemoChat\ChatGui.cs" />
     <Compile Include="Assets\Scripts\Photon Scripts\GameSetupController.cs" />
+    <Compile Include="Assets\Scripts\Cards and Deck\DefensiveCards\BlockedKick.cs" />
     <Compile Include="Assets\Scripts\UI\OnButtonSelected.cs" />
-    <Compile Include="Assets\Scripts\Cards and Deck\Rules.cs" />
     <Compile Include="Assets\Scripts\Photon Scripts\QuickPlayLobbyController.cs" />
-    <Compile Include="Assets\Scripts\Cards and Deck\Deck.cs" />
     <Compile Include="Assets\Scripts\UI\GameUI.cs" />
+    <Compile Include="Assets\Scripts\Cards and Deck\OffensiveCards\PassingTD.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\Common\TextToggleIsOnTransition.cs" />
     <Compile Include="Assets\Scripts\Photon Scripts\QuickPlayController.cs" />
+    <Compile Include="Assets\Scripts\Cards and Deck\ContinuationCards\Fumble.cs" />
+    <Compile Include="Assets\Scripts\Cards and Deck\ContinuationCards\EndOfQuarter1.cs" />
+    <Compile Include="Assets\Scripts\Cards and Deck\ContinuationCards\FirstDown.cs" />
+    <Compile Include="Assets\Scripts\Cards and Deck\OffensiveCards\ExtraPoint.cs" />
+    <Compile Include="Assets\Scripts\Cards and Deck\OffensiveCards\HailMary.cs" />
+    <Compile Include="Assets\Scripts\Cards and Deck\OffensiveCards\FieldGoal.cs" />
     <Compile Include="Assets\Scripts\Photon Scripts\PhotonLobby.cs" />
-    <Compile Include="Assets\Scripts\Cards and Deck\DefensiveCard.cs" />
-    <Compile Include="Assets\Scripts\Cards and Deck\OffensiveCard.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\DemoChat\ChannelSelector.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\Common\OnStartDelete.cs" />
+    <Compile Include="Assets\Scripts\Cards and Deck\ContinuationCards\EndOfQuarter4.cs" />
+    <Compile Include="Assets\Scripts\Cards and Deck\OffensiveCards\Conversion.cs" />
     <Compile Include="Assets\Scripts\GamePlayer.cs" />
+    <Compile Include="Assets\Scripts\Playbook.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
