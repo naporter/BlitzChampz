@@ -20,10 +20,6 @@ public class PassCompletion : Card
     {
 
     }
-    private void Awake()
-    {
-        
-    }
 
     // Start is called before the first frame update
     void Start()

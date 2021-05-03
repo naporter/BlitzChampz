@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Photon\PhotonRealtime\Demos\DemoLoadBalancing\ConnectAndJoinRandomLb.cs" />
+    <Compile Include="Assets\Scripts\Cards and Deck\Deck.cs" />
     <Compile Include="Assets\Scripts\Cards and Deck\DefensiveCards\Interception.cs" />
     <Compile Include="Assets\Scripts\Cards and Deck\ContinuationCards\Blitz.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\DemoChat\IgnoreUiRaycastWhenInactive.cs" />
@@ -101,6 +102,7 @@
     <Compile Include="Assets\Scripts\Cards and Deck\ContinuationCards\EndOfQuarter4.cs" />
     <Compile Include="Assets\Scripts\Cards and Deck\OffensiveCards\Conversion.cs" />
     <Compile Include="Assets\Scripts\GamePlayer.cs" />
+    <Compile Include="Assets\Scripts\Playbook.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

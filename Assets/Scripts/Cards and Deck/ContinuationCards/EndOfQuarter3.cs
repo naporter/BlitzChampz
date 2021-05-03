@@ -20,12 +20,6 @@ public class EndOfQuarter3 : Card
     {
 
     }
-
-
-    private void Awake()
-    {
-        
-    }
     // Start is called before the first frame update
     void Start()
     {

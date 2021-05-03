@@ -12,17 +12,11 @@ public class EndOfQuarter1 : Card
 
     public override void ShowCard()
     {
-        //Instantiate(endOfQuarter1Prefab, new Vector3(0, 0, 0), Quaternion.identity).transform.SetParent(handArea.transform, false);
     }
 
     public new void Play()
     {
 
-    }
-
-    private void Awake()
-    {
-        
     }
 
     // Start is called before the first frame update

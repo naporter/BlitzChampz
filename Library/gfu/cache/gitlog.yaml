@@ -13,9 +13,1448 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2021-04-14T21:29:25.201-05:00
-  initializedAtString: 2021-04-14T20:28:21.513-05:00
+  lastUpdatedAtString: 2021-04-27T17:21:53.682-05:00
+  initializedAtString: 2021-04-27T15:09:12.522-05:00
   log:
+  - commitID: 14241ae9e86bbbd0976a900e56902c78a3575fbf
+    mergeA: 
+    mergeB: 
+    authorName: naporter
+    authorEmail: nathanporter@outlook.com
+    commitEmail: nathanporter@outlook.com
+    commitName: naporter
+    summary: Combined Deck and Table classes. Rework prefabs to fit in hand area
+      better.
+    description: 
+    timeString: 2021-04-14T22:09:37.000-05:00
+    commitTimeString: 2021-04-14T22:09:37.000-05:00
+    changes:
+    - path: .vs\Blitz Champz\v16\.suo
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\.vs\Blitz Champz\v16\.suo
+      projectPath: .vs\Blitz Champz\v16\.suo
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assembly-CSharp.csproj
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Blitz.prefab
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Prefabs\Blitz.prefab
+      projectPath: Assets\Prefabs\Blitz.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\BlockedKick.prefab
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Prefabs\BlockedKick.prefab
+      projectPath: Assets\Prefabs\BlockedKick.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Conversion.prefab
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Prefabs\Conversion.prefab
+      projectPath: Assets\Prefabs\Conversion.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\EndOfQuarter1.prefab
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Prefabs\EndOfQuarter1.prefab
+      projectPath: Assets\Prefabs\EndOfQuarter1.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\EndOfQuarter2.prefab
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Prefabs\EndOfQuarter2.prefab
+      projectPath: Assets\Prefabs\EndOfQuarter2.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\EndOfQuarter3.prefab
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Prefabs\EndOfQuarter3.prefab
+      projectPath: Assets\Prefabs\EndOfQuarter3.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\EndOfQuarter4.prefab
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Prefabs\EndOfQuarter4.prefab
+      projectPath: Assets\Prefabs\EndOfQuarter4.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\ExtraPoint.prefab
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Prefabs\ExtraPoint.prefab
+      projectPath: Assets\Prefabs\ExtraPoint.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\FieldGoal.prefab
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Prefabs\FieldGoal.prefab
+      projectPath: Assets\Prefabs\FieldGoal.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\FirstDown.prefab
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Prefabs\FirstDown.prefab
+      projectPath: Assets\Prefabs\FirstDown.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\FiveYardRun.prefab
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Prefabs\FiveYardRun.prefab
+      projectPath: Assets\Prefabs\FiveYardRun.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Fumble.prefab
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Prefabs\Fumble.prefab
+      projectPath: Assets\Prefabs\Fumble.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\HailMary.prefab
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Prefabs\HailMary.prefab
+      projectPath: Assets\Prefabs\HailMary.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Interception.prefab
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Prefabs\Interception.prefab
+      projectPath: Assets\Prefabs\Interception.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\MyHandArea.prefab
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Prefabs\MyHandArea.prefab
+      projectPath: Assets\Prefabs\MyHandArea.prefab
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Prefabs\MyHandArea.prefab.meta
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Prefabs\MyHandArea.prefab.meta
+      projectPath: Assets\Prefabs\MyHandArea.prefab.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Prefabs\OpponentHandArea.prefab
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Prefabs\OpponentHandArea.prefab
+      projectPath: Assets\Prefabs\OpponentHandArea.prefab
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Prefabs\OpponentHandArea.prefab.meta
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Prefabs\OpponentHandArea.prefab.meta
+      projectPath: Assets\Prefabs\OpponentHandArea.prefab.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Prefabs\PassCompletion.prefab
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Prefabs\PassCompletion.prefab
+      projectPath: Assets\Prefabs\PassCompletion.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\PassingTD.prefab
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Prefabs\PassingTD.prefab
+      projectPath: Assets\Prefabs\PassingTD.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\RushingTD.prefab
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Prefabs\RushingTD.prefab
+      projectPath: Assets\Prefabs\RushingTD.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Tackle.prefab
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Prefabs\Tackle.prefab
+      projectPath: Assets\Prefabs\Tackle.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\Game.unity
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scenes\Game.unity
+      projectPath: Assets\Scenes\Game.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Cards and Deck\ContinuationCards\Blitz.cs
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards
+        and Deck\ContinuationCards\Blitz.cs
+      projectPath: Assets\Scripts\Cards and Deck\ContinuationCards\Blitz.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Cards and Deck\ContinuationCards\EndOfQuarter1.cs
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards
+        and Deck\ContinuationCards\EndOfQuarter1.cs
+      projectPath: Assets\Scripts\Cards and Deck\ContinuationCards\EndOfQuarter1.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Cards and Deck\ContinuationCards\EndOfQuarter2.cs
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards
+        and Deck\ContinuationCards\EndOfQuarter2.cs
+      projectPath: Assets\Scripts\Cards and Deck\ContinuationCards\EndOfQuarter2.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Cards and Deck\ContinuationCards\EndOfQuarter3.cs
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards
+        and Deck\ContinuationCards\EndOfQuarter3.cs
+      projectPath: Assets\Scripts\Cards and Deck\ContinuationCards\EndOfQuarter3.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Cards and Deck\ContinuationCards\EndOfQuarter4.cs
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards
+        and Deck\ContinuationCards\EndOfQuarter4.cs
+      projectPath: Assets\Scripts\Cards and Deck\ContinuationCards\EndOfQuarter4.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Cards and Deck\ContinuationCards\FirstDown.cs
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards
+        and Deck\ContinuationCards\FirstDown.cs
+      projectPath: Assets\Scripts\Cards and Deck\ContinuationCards\FirstDown.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Cards and Deck\ContinuationCards\FiveYardRun.cs
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards
+        and Deck\ContinuationCards\FiveYardRun.cs
+      projectPath: Assets\Scripts\Cards and Deck\ContinuationCards\FiveYardRun.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Cards and Deck\ContinuationCards\Fumble.cs
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards
+        and Deck\ContinuationCards\Fumble.cs
+      projectPath: Assets\Scripts\Cards and Deck\ContinuationCards\Fumble.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Cards and Deck\ContinuationCards\PassCompletion.cs
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards
+        and Deck\ContinuationCards\PassCompletion.cs
+      projectPath: Assets\Scripts\Cards and Deck\ContinuationCards\PassCompletion.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Cards and Deck\Deck.cs
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards
+        and Deck\Deck.cs
+      projectPath: Assets\Scripts\Cards and Deck\Deck.cs
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scripts\Cards and Deck\Deck.cs.meta
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards
+        and Deck\Deck.cs.meta
+      projectPath: Assets\Scripts\Cards and Deck\Deck.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scripts\Cards and Deck\DefensiveCards\BlockedKick.cs
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards
+        and Deck\DefensiveCards\BlockedKick.cs
+      projectPath: Assets\Scripts\Cards and Deck\DefensiveCards\BlockedKick.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Cards and Deck\DefensiveCards\Interception.cs
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards
+        and Deck\DefensiveCards\Interception.cs
+      projectPath: Assets\Scripts\Cards and Deck\DefensiveCards\Interception.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Cards and Deck\DefensiveCards\Tackle.cs
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards
+        and Deck\DefensiveCards\Tackle.cs
+      projectPath: Assets\Scripts\Cards and Deck\DefensiveCards\Tackle.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Cards and Deck\OffensiveCards\Conversion.cs
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards
+        and Deck\OffensiveCards\Conversion.cs
+      projectPath: Assets\Scripts\Cards and Deck\OffensiveCards\Conversion.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Cards and Deck\OffensiveCards\ExtraPoint.cs
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards
+        and Deck\OffensiveCards\ExtraPoint.cs
+      projectPath: Assets\Scripts\Cards and Deck\OffensiveCards\ExtraPoint.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Cards and Deck\OffensiveCards\FieldGoal.cs
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards
+        and Deck\OffensiveCards\FieldGoal.cs
+      projectPath: Assets\Scripts\Cards and Deck\OffensiveCards\FieldGoal.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Cards and Deck\OffensiveCards\HailMary.cs
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards
+        and Deck\OffensiveCards\HailMary.cs
+      projectPath: Assets\Scripts\Cards and Deck\OffensiveCards\HailMary.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Cards and Deck\OffensiveCards\PassingTD.cs
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards
+        and Deck\OffensiveCards\PassingTD.cs
+      projectPath: Assets\Scripts\Cards and Deck\OffensiveCards\PassingTD.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Cards and Deck\OffensiveCards\RushingTD.cs
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards
+        and Deck\OffensiveCards\RushingTD.cs
+      projectPath: Assets\Scripts\Cards and Deck\OffensiveCards\RushingTD.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Cards and Deck\Rules.cs
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards
+        and Deck\Rules.cs
+      projectPath: Assets\Scripts\Cards and Deck\Rules.cs
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scripts\Cards and Deck\Rules.cs.meta
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Cards
+        and Deck\Rules.cs.meta
+      projectPath: Assets\Scripts\Cards and Deck\Rules.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scripts\GamePlayer.cs
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\GamePlayer.cs
+      projectPath: Assets\Scripts\GamePlayer.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Table.cs
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Assets\Scripts\Table.cs
+      projectPath: Assets\Scripts\Table.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ArtifactDB
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Artifacts\01\017977d5007cdbf8a0b48d15dbab658d
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\01\017977d5007cdbf8a0b48d15dbab658d
+      projectPath: Library\Artifacts\01\017977d5007cdbf8a0b48d15dbab658d
+      originalPath: Library\Artifacts\ba\ba05f3856ccf38bd9954cfd594b45af5
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\05\05803f6248b6a8c59cd81f1297b2fc53
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\05\05803f6248b6a8c59cd81f1297b2fc53
+      projectPath: Library\Artifacts\05\05803f6248b6a8c59cd81f1297b2fc53
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\08\08ad2681189ca4793b396d9f04d82423
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\08\08ad2681189ca4793b396d9f04d82423
+      projectPath: Library\Artifacts\08\08ad2681189ca4793b396d9f04d82423
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\0b\0be2336b3af28544da5839cc0eaf0ffd
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\0b\0be2336b3af28544da5839cc0eaf0ffd
+      projectPath: Library\Artifacts\0b\0be2336b3af28544da5839cc0eaf0ffd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\0f\0f7f271710525acb4e53431bdfc82202
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\0f\0f7f271710525acb4e53431bdfc82202
+      projectPath: Library\Artifacts\0f\0f7f271710525acb4e53431bdfc82202
+      originalPath: Library\Artifacts\80\80a7296a6f380d031cf22fa8d2a52df3
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\0f\0fac6e57a312f5085dc6ba164d1bf8b1
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\0f\0fac6e57a312f5085dc6ba164d1bf8b1
+      projectPath: Library\Artifacts\0f\0fac6e57a312f5085dc6ba164d1bf8b1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\10\105190e28f69e81dc1a0ad2c815c91c3
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\10\105190e28f69e81dc1a0ad2c815c91c3
+      projectPath: Library\Artifacts\10\105190e28f69e81dc1a0ad2c815c91c3
+      originalPath: Library\Artifacts\6d\6dbb7493142815ee85f4949da444e355
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\11\11067d354fc3993cd1ce882318a26716
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\11\11067d354fc3993cd1ce882318a26716
+      projectPath: Library\Artifacts\11\11067d354fc3993cd1ce882318a26716
+      originalPath: Library\Artifacts\13\13c63cb7892b79305fd787b139987ba7
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\14\14eda4ed9e05197e6713c00071fab154
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\14\14eda4ed9e05197e6713c00071fab154
+      projectPath: Library\Artifacts\14\14eda4ed9e05197e6713c00071fab154
+      originalPath: Library\Artifacts\94\94e642b7749f733ab073387c944e3bcd
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\15\1504f7daae9cc1660804e993d6130647
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\15\1504f7daae9cc1660804e993d6130647
+      projectPath: Library\Artifacts\15\1504f7daae9cc1660804e993d6130647
+      originalPath: Library\Artifacts\ab\aba86d3e2cf91e717364890b4ab4fb2d
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\15\1573ff02516da620ca31e3c0f5b61880
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\15\1573ff02516da620ca31e3c0f5b61880
+      projectPath: Library\Artifacts\15\1573ff02516da620ca31e3c0f5b61880
+      originalPath: Library\Artifacts\2a\2a6ffdd5c27a70593cda5a8246e98a4a
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\15\15eae038b8395e0bea62e4fb2cd0424d
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\15\15eae038b8395e0bea62e4fb2cd0424d
+      projectPath: Library\Artifacts\15\15eae038b8395e0bea62e4fb2cd0424d
+      originalPath: Library\Artifacts\d7\d7b1c6f1dd206f674944e3ae281d1b05
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\17\17180604bdadef10e3c9acb5c3dfca6e
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\17\17180604bdadef10e3c9acb5c3dfca6e
+      projectPath: Library\Artifacts\17\17180604bdadef10e3c9acb5c3dfca6e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\1a\1afc32ee7a3f31dc2249a7c9534dedd9
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\1a\1afc32ee7a3f31dc2249a7c9534dedd9
+      projectPath: Library\Artifacts\1a\1afc32ee7a3f31dc2249a7c9534dedd9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\1c\1cb0bd1201df5bcfa5b7484af2420362
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\1c\1cb0bd1201df5bcfa5b7484af2420362
+      projectPath: Library\Artifacts\1c\1cb0bd1201df5bcfa5b7484af2420362
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\1c\1cd2812742c66a50332ef0ed896c8d49
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\1c\1cd2812742c66a50332ef0ed896c8d49
+      projectPath: Library\Artifacts\1c\1cd2812742c66a50332ef0ed896c8d49
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\1d\1dad12823a211e4e2c6c41f3756b7ef5
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\1d\1dad12823a211e4e2c6c41f3756b7ef5
+      projectPath: Library\Artifacts\1d\1dad12823a211e4e2c6c41f3756b7ef5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\1f\1f01ae1dacb74610a2c50f676ed711dc
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\1f\1f01ae1dacb74610a2c50f676ed711dc
+      projectPath: Library\Artifacts\1f\1f01ae1dacb74610a2c50f676ed711dc
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\1f\1f1456a1ec69eb106b9b5f5c7d57e6fc
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\1f\1f1456a1ec69eb106b9b5f5c7d57e6fc
+      projectPath: Library\Artifacts\1f\1f1456a1ec69eb106b9b5f5c7d57e6fc
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\22\22d8698f5a0efedf16fbf969f14fec46
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\22\22d8698f5a0efedf16fbf969f14fec46
+      projectPath: Library\Artifacts\22\22d8698f5a0efedf16fbf969f14fec46
+      originalPath: Library\Artifacts\57\574e826a69e668ff5bd10c1512b23be1
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\24\247f3f39dc46fb4dbffbd875ecdf1f1c
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\24\247f3f39dc46fb4dbffbd875ecdf1f1c
+      projectPath: Library\Artifacts\24\247f3f39dc46fb4dbffbd875ecdf1f1c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\27\27034f6852ebae9767aaadb7afa2a016
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\27\27034f6852ebae9767aaadb7afa2a016
+      projectPath: Library\Artifacts\27\27034f6852ebae9767aaadb7afa2a016
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\27\27cbbcb42d78f48c560492cbe7c5c665
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\27\27cbbcb42d78f48c560492cbe7c5c665
+      projectPath: Library\Artifacts\27\27cbbcb42d78f48c560492cbe7c5c665
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\28\28228e398e72b404ebcdfd8cc5137b76
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\28\28228e398e72b404ebcdfd8cc5137b76
+      projectPath: Library\Artifacts\28\28228e398e72b404ebcdfd8cc5137b76
+      originalPath: Library\Artifacts\40\405f171aaf2660558349cd12f95b45d8
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\28\28b35770db3b2be55c0114e64156ad77
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\28\28b35770db3b2be55c0114e64156ad77
+      projectPath: Library\Artifacts\28\28b35770db3b2be55c0114e64156ad77
+      originalPath: Library\Artifacts\d3\d3092ff62ecc1deb2ffc93887631fe6e
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\28\28f420d7433949bc2f64719f7d4ed9fc
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\28\28f420d7433949bc2f64719f7d4ed9fc
+      projectPath: Library\Artifacts\28\28f420d7433949bc2f64719f7d4ed9fc
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\29\297eaf514670da08518d69fb4df772d2
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\29\297eaf514670da08518d69fb4df772d2
+      projectPath: Library\Artifacts\29\297eaf514670da08518d69fb4df772d2
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\2a\2ae0f52a9f422284a242aba5c100b10f
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\2a\2ae0f52a9f422284a242aba5c100b10f
+      projectPath: Library\Artifacts\2a\2ae0f52a9f422284a242aba5c100b10f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\2b\2b65545e547ba8e4d40a847274037f48
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\2b\2b65545e547ba8e4d40a847274037f48
+      projectPath: Library\Artifacts\2b\2b65545e547ba8e4d40a847274037f48
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\2e\2ee4f5fd75c100255ae9a706e12e9c28
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\2e\2ee4f5fd75c100255ae9a706e12e9c28
+      projectPath: Library\Artifacts\2e\2ee4f5fd75c100255ae9a706e12e9c28
+      originalPath: Library\Artifacts\6c\6cc3354e982333761bb1ae41d0068927
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\2f\2f631f62654108ef010012a115ddc6c3
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\2f\2f631f62654108ef010012a115ddc6c3
+      projectPath: Library\Artifacts\2f\2f631f62654108ef010012a115ddc6c3
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\30\3072ad43e6456fcd60789640f1d42f32
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\30\3072ad43e6456fcd60789640f1d42f32
+      projectPath: Library\Artifacts\30\3072ad43e6456fcd60789640f1d42f32
+      originalPath: Library\Artifacts\09\09996d9de4326bf53f82c984800b7da5
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\30\30f2d08e0ebe856a54d6dc42354cbf5e
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\30\30f2d08e0ebe856a54d6dc42354cbf5e
+      projectPath: Library\Artifacts\30\30f2d08e0ebe856a54d6dc42354cbf5e
+      originalPath: Library\Artifacts\60\60229ed1baf8f548963dcb5fede2549c
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\31\316fb2744080b2be21e8eb799d9dca88
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\31\316fb2744080b2be21e8eb799d9dca88
+      projectPath: Library\Artifacts\31\316fb2744080b2be21e8eb799d9dca88
+      originalPath: Library\Artifacts\0f\0ff6d3f08f202cc4c03b8f4957643b49
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\31\31f3d537d4cf13d327129485545b3e1d
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\31\31f3d537d4cf13d327129485545b3e1d
+      projectPath: Library\Artifacts\31\31f3d537d4cf13d327129485545b3e1d
+      originalPath: Library\Artifacts\30\3039428097053ab386e652a3d70df773
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\31\31ff3ce5c3e2004c9d61306af75653aa
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\31\31ff3ce5c3e2004c9d61306af75653aa
+      projectPath: Library\Artifacts\31\31ff3ce5c3e2004c9d61306af75653aa
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\38\38a97341894a4afc4bb3d30a93e76d2b
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\38\38a97341894a4afc4bb3d30a93e76d2b
+      projectPath: Library\Artifacts\38\38a97341894a4afc4bb3d30a93e76d2b
+      originalPath: Library\Artifacts\14\144b941b1f96e634cf126150d2ddd997
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\3a\3a0bfb73e22bc8791e38937c765287fa
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\3a\3a0bfb73e22bc8791e38937c765287fa
+      projectPath: Library\Artifacts\3a\3a0bfb73e22bc8791e38937c765287fa
+      originalPath: Library\Artifacts\84\8471ff1f868e6f28654a6bc524b4cbf2
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\3a\3a1dc5587bb0cb5d471706f9ddeed239
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\3a\3a1dc5587bb0cb5d471706f9ddeed239
+      projectPath: Library\Artifacts\3a\3a1dc5587bb0cb5d471706f9ddeed239
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\3a\3ab0bc81814d1938533089dab50814e2
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\3a\3ab0bc81814d1938533089dab50814e2
+      projectPath: Library\Artifacts\3a\3ab0bc81814d1938533089dab50814e2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\3b\3b3816663b5e201aa040b91f56debd83
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\3b\3b3816663b5e201aa040b91f56debd83
+      projectPath: Library\Artifacts\3b\3b3816663b5e201aa040b91f56debd83
+      originalPath: Library\Artifacts\7b\7bdc8b99de44a515954af7016b41746e
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\3c\3c232e273dba66e5cd34f50a5e77c872
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\3c\3c232e273dba66e5cd34f50a5e77c872
+      projectPath: Library\Artifacts\3c\3c232e273dba66e5cd34f50a5e77c872
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\3e\3eda69829d114a4b43d6abb0ab67bd1b
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\3e\3eda69829d114a4b43d6abb0ab67bd1b
+      projectPath: Library\Artifacts\3e\3eda69829d114a4b43d6abb0ab67bd1b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\3f\3f4426864f89e461acec059816c477bd
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\3f\3f4426864f89e461acec059816c477bd
+      projectPath: Library\Artifacts\3f\3f4426864f89e461acec059816c477bd
+      originalPath: Library\Artifacts\bf\bf5636d9ebc237a7997b273b94c4c048
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\3f\3fd2a2ca0ad9a775ef8aa56cd50a6a5e
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\3f\3fd2a2ca0ad9a775ef8aa56cd50a6a5e
+      projectPath: Library\Artifacts\3f\3fd2a2ca0ad9a775ef8aa56cd50a6a5e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\3f\3ff29ec24c497c1e92910c54d67ddb40
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\3f\3ff29ec24c497c1e92910c54d67ddb40
+      projectPath: Library\Artifacts\3f\3ff29ec24c497c1e92910c54d67ddb40
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\41\410d2a25ac8670dfd2788dbf16e56088
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\41\410d2a25ac8670dfd2788dbf16e56088
+      projectPath: Library\Artifacts\41\410d2a25ac8670dfd2788dbf16e56088
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\41\419cdf488536b6d7b27e557755bff095
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\41\419cdf488536b6d7b27e557755bff095
+      projectPath: Library\Artifacts\41\419cdf488536b6d7b27e557755bff095
+      originalPath: Library\Artifacts\83\83ba0b0952407b90229b8636c30ad8ad
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\42\42feaaae534ab02716302bb98357db9f
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\42\42feaaae534ab02716302bb98357db9f
+      projectPath: Library\Artifacts\42\42feaaae534ab02716302bb98357db9f
+      originalPath: Library\Artifacts\2a\2a986b1903d840c159a87ef027c572ba
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\43\43988acdf54a38e6f2c086594266c81a
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\43\43988acdf54a38e6f2c086594266c81a
+      projectPath: Library\Artifacts\43\43988acdf54a38e6f2c086594266c81a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\45\457b144488e62c1eb68337ef1ea5b54e
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\45\457b144488e62c1eb68337ef1ea5b54e
+      projectPath: Library\Artifacts\45\457b144488e62c1eb68337ef1ea5b54e
+      originalPath: Library\Artifacts\41\41183194c5f384bd88441ed156522870
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\45\45c864e56251b382ab2d2c6c5469e472
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\45\45c864e56251b382ab2d2c6c5469e472
+      projectPath: Library\Artifacts\45\45c864e56251b382ab2d2c6c5469e472
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\47\47a7bfe00d6a24c0b4192f6081b56bff
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\47\47a7bfe00d6a24c0b4192f6081b56bff
+      projectPath: Library\Artifacts\47\47a7bfe00d6a24c0b4192f6081b56bff
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\48\485b517a5f91a1634f722301dab5cabc
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\48\485b517a5f91a1634f722301dab5cabc
+      projectPath: Library\Artifacts\48\485b517a5f91a1634f722301dab5cabc
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\49\49901f3e100e2218fe17b5a924a11461
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\49\49901f3e100e2218fe17b5a924a11461
+      projectPath: Library\Artifacts\49\49901f3e100e2218fe17b5a924a11461
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\50\5049e4534c480ebb7888c8cfe3d324cb
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\50\5049e4534c480ebb7888c8cfe3d324cb
+      projectPath: Library\Artifacts\50\5049e4534c480ebb7888c8cfe3d324cb
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\50\50b70212c967f1dc238433ebc40c9dd3
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\50\50b70212c967f1dc238433ebc40c9dd3
+      projectPath: Library\Artifacts\50\50b70212c967f1dc238433ebc40c9dd3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\52\52e426dd95fe693ce4e6d17f4dae0b99
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\52\52e426dd95fe693ce4e6d17f4dae0b99
+      projectPath: Library\Artifacts\52\52e426dd95fe693ce4e6d17f4dae0b99
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\57\575f5e7487ef57fc51eb42b28ee2782c
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\57\575f5e7487ef57fc51eb42b28ee2782c
+      projectPath: Library\Artifacts\57\575f5e7487ef57fc51eb42b28ee2782c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\57\579c4b47aeb4800748d62673ce592bac
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\57\579c4b47aeb4800748d62673ce592bac
+      projectPath: Library\Artifacts\57\579c4b47aeb4800748d62673ce592bac
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\58\582e868db5f837915d4e1aa2b0e7d42f
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\58\582e868db5f837915d4e1aa2b0e7d42f
+      projectPath: Library\Artifacts\58\582e868db5f837915d4e1aa2b0e7d42f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\58\589a7972aef10840022d17af862b63f5
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\58\589a7972aef10840022d17af862b63f5
+      projectPath: Library\Artifacts\58\589a7972aef10840022d17af862b63f5
+      originalPath: Library\Artifacts\7f\7f45ce649a851533cde64e9f04ad57c1
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\59\5987f670138fe2ca392d371d0fd8cea8
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\59\5987f670138fe2ca392d371d0fd8cea8
+      projectPath: Library\Artifacts\59\5987f670138fe2ca392d371d0fd8cea8
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\60\606b944d76c3166f374ac8c7154c717b
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\60\606b944d76c3166f374ac8c7154c717b
+      projectPath: Library\Artifacts\60\606b944d76c3166f374ac8c7154c717b
+      originalPath: Library\Artifacts\d2\d2fd5f550f48a1655af5ab80bdbdf345
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\60\60bd6d50cdd390af7c95325f47cee7fc
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\60\60bd6d50cdd390af7c95325f47cee7fc
+      projectPath: Library\Artifacts\60\60bd6d50cdd390af7c95325f47cee7fc
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\61\6118358d61079562d71a518b323afec4
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\61\6118358d61079562d71a518b323afec4
+      projectPath: Library\Artifacts\61\6118358d61079562d71a518b323afec4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\62\621c9039b279b9686335e12736c300c2
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\62\621c9039b279b9686335e12736c300c2
+      projectPath: Library\Artifacts\62\621c9039b279b9686335e12736c300c2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\62\62a3e7776c06bd9dff9496f3463d6b43
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\62\62a3e7776c06bd9dff9496f3463d6b43
+      projectPath: Library\Artifacts\62\62a3e7776c06bd9dff9496f3463d6b43
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\63\63a60e6e430a2a0f55164e852cac6b25
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\63\63a60e6e430a2a0f55164e852cac6b25
+      projectPath: Library\Artifacts\63\63a60e6e430a2a0f55164e852cac6b25
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\63\63f81fcbb5a6d6a133d29df3e5840c19
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\63\63f81fcbb5a6d6a133d29df3e5840c19
+      projectPath: Library\Artifacts\63\63f81fcbb5a6d6a133d29df3e5840c19
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\66\66080f915b20cdf30d8019d51eee2016
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\66\66080f915b20cdf30d8019d51eee2016
+      projectPath: Library\Artifacts\66\66080f915b20cdf30d8019d51eee2016
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\69\69d8eeaebdfdc0444d79ca1629113313
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\69\69d8eeaebdfdc0444d79ca1629113313
+      projectPath: Library\Artifacts\69\69d8eeaebdfdc0444d79ca1629113313
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\6a\6afde9521aa609904b2b9ddf0a0d7731
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\6a\6afde9521aa609904b2b9ddf0a0d7731
+      projectPath: Library\Artifacts\6a\6afde9521aa609904b2b9ddf0a0d7731
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\6c\6cc9fcdc9db1f2d86a612fc537693049
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\6c\6cc9fcdc9db1f2d86a612fc537693049
+      projectPath: Library\Artifacts\6c\6cc9fcdc9db1f2d86a612fc537693049
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\70\705bc68c4512ebfeed8c7c1861930aa5
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\70\705bc68c4512ebfeed8c7c1861930aa5
+      projectPath: Library\Artifacts\70\705bc68c4512ebfeed8c7c1861930aa5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\71\71002d08fa2aa31524dbbc708d98a82d
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\71\71002d08fa2aa31524dbbc708d98a82d
+      projectPath: Library\Artifacts\71\71002d08fa2aa31524dbbc708d98a82d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\72\7291565dc3da5b15bb82c5b97ba8a8ee
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\72\7291565dc3da5b15bb82c5b97ba8a8ee
+      projectPath: Library\Artifacts\72\7291565dc3da5b15bb82c5b97ba8a8ee
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\72\72a1484bf1d25c3e0756014a70cabcac
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\72\72a1484bf1d25c3e0756014a70cabcac
+      projectPath: Library\Artifacts\72\72a1484bf1d25c3e0756014a70cabcac
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\73\7344079848666290771a8996ed9f0ebb
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\73\7344079848666290771a8996ed9f0ebb
+      projectPath: Library\Artifacts\73\7344079848666290771a8996ed9f0ebb
+      originalPath: Library\Artifacts\40\40ef3cd01fc3af1dcd877e743f8b2439
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\75\7582cca0398a3c955b8d7e2493230447
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\75\7582cca0398a3c955b8d7e2493230447
+      projectPath: Library\Artifacts\75\7582cca0398a3c955b8d7e2493230447
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\75\758a1807863a953bbcda0fd05fcd395e
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\75\758a1807863a953bbcda0fd05fcd395e
+      projectPath: Library\Artifacts\75\758a1807863a953bbcda0fd05fcd395e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\77\779528d7e894eea2637100cfebbf6c81
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\77\779528d7e894eea2637100cfebbf6c81
+      projectPath: Library\Artifacts\77\779528d7e894eea2637100cfebbf6c81
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\78\78ea26f0d8b21ebfddca1be0ddb50a04
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\78\78ea26f0d8b21ebfddca1be0ddb50a04
+      projectPath: Library\Artifacts\78\78ea26f0d8b21ebfddca1be0ddb50a04
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\7a\7a3de611383ee70f6897d56bed832b19
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\7a\7a3de611383ee70f6897d56bed832b19
+      projectPath: Library\Artifacts\7a\7a3de611383ee70f6897d56bed832b19
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\7a\7af8cdbec4ca22c56dc4aee12513d4e3
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\7a\7af8cdbec4ca22c56dc4aee12513d4e3
+      projectPath: Library\Artifacts\7a\7af8cdbec4ca22c56dc4aee12513d4e3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\7d\7d66ecfb24460e198518acefaf3aa94f
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\7d\7d66ecfb24460e198518acefaf3aa94f
+      projectPath: Library\Artifacts\7d\7d66ecfb24460e198518acefaf3aa94f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\7d\7de488c2b1713c12a5cd25516ec762de
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\7d\7de488c2b1713c12a5cd25516ec762de
+      projectPath: Library\Artifacts\7d\7de488c2b1713c12a5cd25516ec762de
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\7e\7e221fd6797b7525d33352bbbaab4b2d
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\7e\7e221fd6797b7525d33352bbbaab4b2d
+      projectPath: Library\Artifacts\7e\7e221fd6797b7525d33352bbbaab4b2d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\80\807e5293be6d9764446c00af5ca99500
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\80\807e5293be6d9764446c00af5ca99500
+      projectPath: Library\Artifacts\80\807e5293be6d9764446c00af5ca99500
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\81\81f55b052f56a911180a04c268e738b1
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\81\81f55b052f56a911180a04c268e738b1
+      projectPath: Library\Artifacts\81\81f55b052f56a911180a04c268e738b1
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\83\830fac2fd6373a9d42c227f0f2b7b0ea
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\83\830fac2fd6373a9d42c227f0f2b7b0ea
+      projectPath: Library\Artifacts\83\830fac2fd6373a9d42c227f0f2b7b0ea
+      originalPath: Library\Artifacts\7c\7c966cf3d3e5d236558ffb9edf92ed85
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\87\87ccccfc879d6a7a940ed0b6a17a9b35
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\87\87ccccfc879d6a7a940ed0b6a17a9b35
+      projectPath: Library\Artifacts\87\87ccccfc879d6a7a940ed0b6a17a9b35
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\8d\8d8cd82cac20f0c37081474d20549689
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\8d\8d8cd82cac20f0c37081474d20549689
+      projectPath: Library\Artifacts\8d\8d8cd82cac20f0c37081474d20549689
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\8f\8fd1163df075576f809cd81627a986b5
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\8f\8fd1163df075576f809cd81627a986b5
+      projectPath: Library\Artifacts\8f\8fd1163df075576f809cd81627a986b5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\91\91acdfa5ed60d33535456c3a6bf906c9
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\91\91acdfa5ed60d33535456c3a6bf906c9
+      projectPath: Library\Artifacts\91\91acdfa5ed60d33535456c3a6bf906c9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\92\926ff32065e28c09267a9f46ad8f53c7
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\92\926ff32065e28c09267a9f46ad8f53c7
+      projectPath: Library\Artifacts\92\926ff32065e28c09267a9f46ad8f53c7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\93\931aaa4817a03e1f8b039bb276ef4135
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\93\931aaa4817a03e1f8b039bb276ef4135
+      projectPath: Library\Artifacts\93\931aaa4817a03e1f8b039bb276ef4135
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\94\9468bc7b48944d499f4290502fcc2083
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\94\9468bc7b48944d499f4290502fcc2083
+      projectPath: Library\Artifacts\94\9468bc7b48944d499f4290502fcc2083
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\96\965870644049d80f40fcfa906f1603d9
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\96\965870644049d80f40fcfa906f1603d9
+      projectPath: Library\Artifacts\96\965870644049d80f40fcfa906f1603d9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\97\9725119b67ba3c7c9ba25b6dd419fa54
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\97\9725119b67ba3c7c9ba25b6dd419fa54
+      projectPath: Library\Artifacts\97\9725119b67ba3c7c9ba25b6dd419fa54
+      originalPath: Library\Artifacts\15\1585c6b3fcebd30bf6582ca350b8c1c2
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\99\998362a8e5379be784a76804d709fb4a
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\99\998362a8e5379be784a76804d709fb4a
+      projectPath: Library\Artifacts\99\998362a8e5379be784a76804d709fb4a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\9d\9d548725743d614162c94b0898f30f13
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\9d\9d548725743d614162c94b0898f30f13
+      projectPath: Library\Artifacts\9d\9d548725743d614162c94b0898f30f13
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\9f\9f75cfbe0f639c11645ae917cfe2227c
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\9f\9f75cfbe0f639c11645ae917cfe2227c
+      projectPath: Library\Artifacts\9f\9f75cfbe0f639c11645ae917cfe2227c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\a0\a0a36ed50d8404f1872dc52a13d134d3
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\a0\a0a36ed50d8404f1872dc52a13d134d3
+      projectPath: Library\Artifacts\a0\a0a36ed50d8404f1872dc52a13d134d3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\a0\a0c74b2147d92e446e8477e599b55ad1
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\a0\a0c74b2147d92e446e8477e599b55ad1
+      projectPath: Library\Artifacts\a0\a0c74b2147d92e446e8477e599b55ad1
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\a3\a3c52483d08fd9f5a91aee7e047fbb61
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\a3\a3c52483d08fd9f5a91aee7e047fbb61
+      projectPath: Library\Artifacts\a3\a3c52483d08fd9f5a91aee7e047fbb61
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\a5\a59163da2078d6d7f140b8db8505eab8
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\a5\a59163da2078d6d7f140b8db8505eab8
+      projectPath: Library\Artifacts\a5\a59163da2078d6d7f140b8db8505eab8
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\a9\a9cc8d918ddbcaf9b2f2d8973079a7ce
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\a9\a9cc8d918ddbcaf9b2f2d8973079a7ce
+      projectPath: Library\Artifacts\a9\a9cc8d918ddbcaf9b2f2d8973079a7ce
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\ac\ac8616aa111175d3cbac225d147e72b6
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\ac\ac8616aa111175d3cbac225d147e72b6
+      projectPath: Library\Artifacts\ac\ac8616aa111175d3cbac225d147e72b6
+      originalPath: Library\Artifacts\ce\ce947093987ba7d977645e8fdd053ddc
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\ac\ac93c2d2aa139d3423b62feef38ad7f8
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\ac\ac93c2d2aa139d3423b62feef38ad7f8
+      projectPath: Library\Artifacts\ac\ac93c2d2aa139d3423b62feef38ad7f8
+      originalPath: Library\Artifacts\e6\e628ad5051ac5cdea5988081284bc304
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\ad\ad9a09954dd782ba6c70cbe9cc4cf82a
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\ad\ad9a09954dd782ba6c70cbe9cc4cf82a
+      projectPath: Library\Artifacts\ad\ad9a09954dd782ba6c70cbe9cc4cf82a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\b0\b0436db63103f2e01c78a8a1e42f4f8c
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\b0\b0436db63103f2e01c78a8a1e42f4f8c
+      projectPath: Library\Artifacts\b0\b0436db63103f2e01c78a8a1e42f4f8c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\b0\b07804e8aa1bf1c4620499f03a6417d9
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\b0\b07804e8aa1bf1c4620499f03a6417d9
+      projectPath: Library\Artifacts\b0\b07804e8aa1bf1c4620499f03a6417d9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\b0\b0e9a52d5d823b2446f1c139d585edea
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\b0\b0e9a52d5d823b2446f1c139d585edea
+      projectPath: Library\Artifacts\b0\b0e9a52d5d823b2446f1c139d585edea
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\b1\b1909697b6322887265bf76c34b9f2ce
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\b1\b1909697b6322887265bf76c34b9f2ce
+      projectPath: Library\Artifacts\b1\b1909697b6322887265bf76c34b9f2ce
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\b3\b3d59a17adf50ca1139c95b90de3bc9f
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\b3\b3d59a17adf50ca1139c95b90de3bc9f
+      projectPath: Library\Artifacts\b3\b3d59a17adf50ca1139c95b90de3bc9f
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\b6\b650d9c1d1daf4b9500cb6a9d9663ac1
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\b6\b650d9c1d1daf4b9500cb6a9d9663ac1
+      projectPath: Library\Artifacts\b6\b650d9c1d1daf4b9500cb6a9d9663ac1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\b6\b696109b121d3f7c01b6726aaf2d298d
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\b6\b696109b121d3f7c01b6726aaf2d298d
+      projectPath: Library\Artifacts\b6\b696109b121d3f7c01b6726aaf2d298d
+      originalPath: Library\Artifacts\df\df2455f8fb1a98dfa99a0627f10a9b96
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\b9\b97fcd1317feeae046b7bbcd16f30bb7
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\b9\b97fcd1317feeae046b7bbcd16f30bb7
+      projectPath: Library\Artifacts\b9\b97fcd1317feeae046b7bbcd16f30bb7
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\bd\bd3934ee2599e85d486aa20a76a6599e
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\bd\bd3934ee2599e85d486aa20a76a6599e
+      projectPath: Library\Artifacts\bd\bd3934ee2599e85d486aa20a76a6599e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\bd\bd787294752a3b22c990e964223c8f57
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\bd\bd787294752a3b22c990e964223c8f57
+      projectPath: Library\Artifacts\bd\bd787294752a3b22c990e964223c8f57
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\bd\bd9fedbefd92e6d363be635540f8e6db
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\bd\bd9fedbefd92e6d363be635540f8e6db
+      projectPath: Library\Artifacts\bd\bd9fedbefd92e6d363be635540f8e6db
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\c2\c2fdc600e08e95b42c8e81b5335a210a
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\c2\c2fdc600e08e95b42c8e81b5335a210a
+      projectPath: Library\Artifacts\c2\c2fdc600e08e95b42c8e81b5335a210a
+      originalPath: Library\Artifacts\e7\e7cb8fa14fa5f78e61015a07d0be5c93
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\c5\c57755f083896d8b404dcb8d325fb170
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\c5\c57755f083896d8b404dcb8d325fb170
+      projectPath: Library\Artifacts\c5\c57755f083896d8b404dcb8d325fb170
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\c5\c5f982de50ccb7521f408baf5b67fdbb
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\c5\c5f982de50ccb7521f408baf5b67fdbb
+      projectPath: Library\Artifacts\c5\c5f982de50ccb7521f408baf5b67fdbb
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\c8\c80e27916603df9086be9dcd89953eaa
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\c8\c80e27916603df9086be9dcd89953eaa
+      projectPath: Library\Artifacts\c8\c80e27916603df9086be9dcd89953eaa
+      originalPath: Library\Artifacts\18\18c8a3951c86939108fc548bdc974ab7
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\ca\cae40cd0a6cd9c30625b6fa97cdd6b20
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\ca\cae40cd0a6cd9c30625b6fa97cdd6b20
+      projectPath: Library\Artifacts\ca\cae40cd0a6cd9c30625b6fa97cdd6b20
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\cb\cb465c2945a0160196dae65c29c77c5c
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\cb\cb465c2945a0160196dae65c29c77c5c
+      projectPath: Library\Artifacts\cb\cb465c2945a0160196dae65c29c77c5c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\cb\cbb60ce1ab49bef6997e810d21c9afb0
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\cb\cbb60ce1ab49bef6997e810d21c9afb0
+      projectPath: Library\Artifacts\cb\cbb60ce1ab49bef6997e810d21c9afb0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\cc\cc01075c658d27ff7aaf1b136470ddd3
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\cc\cc01075c658d27ff7aaf1b136470ddd3
+      projectPath: Library\Artifacts\cc\cc01075c658d27ff7aaf1b136470ddd3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\cc\cc73dabfce90c68deb756612693b7959
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\cc\cc73dabfce90c68deb756612693b7959
+      projectPath: Library\Artifacts\cc\cc73dabfce90c68deb756612693b7959
+      originalPath: Library\Artifacts\70\708a1287dff31d37f8f52b924cc0e185
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\cd\cd72739ac3e1f26d161ce664f59b6720
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\cd\cd72739ac3e1f26d161ce664f59b6720
+      projectPath: Library\Artifacts\cd\cd72739ac3e1f26d161ce664f59b6720
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\cd\cda2c793103a08df8d016b277eacebfc
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\cd\cda2c793103a08df8d016b277eacebfc
+      projectPath: Library\Artifacts\cd\cda2c793103a08df8d016b277eacebfc
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\cd\cddb029422d4df36a482dfbc386333e0
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\cd\cddb029422d4df36a482dfbc386333e0
+      projectPath: Library\Artifacts\cd\cddb029422d4df36a482dfbc386333e0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\cf\cf40df01fc094d10d7e32c02ae36f6be
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\cf\cf40df01fc094d10d7e32c02ae36f6be
+      projectPath: Library\Artifacts\cf\cf40df01fc094d10d7e32c02ae36f6be
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\d0\d0b16dc7c3a96df5529d9eeeed067c6c
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\d0\d0b16dc7c3a96df5529d9eeeed067c6c
+      projectPath: Library\Artifacts\d0\d0b16dc7c3a96df5529d9eeeed067c6c
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\d2\d27617e3410978edc5578ca16270cca9
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\d2\d27617e3410978edc5578ca16270cca9
+      projectPath: Library\Artifacts\d2\d27617e3410978edc5578ca16270cca9
+      originalPath: Library\Artifacts\66\666b25c23c7a2cb92313d783d0b9a950
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\d2\d2cec0f99b0ad013ce7e91ff54fb8be1
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\d2\d2cec0f99b0ad013ce7e91ff54fb8be1
+      projectPath: Library\Artifacts\d2\d2cec0f99b0ad013ce7e91ff54fb8be1
+      originalPath: Library\Artifacts\67\67a32d0f2157c4993289593052369d8b
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\d3\d306584efc8d28029f6b6da2f321ab8e
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\d3\d306584efc8d28029f6b6da2f321ab8e
+      projectPath: Library\Artifacts\d3\d306584efc8d28029f6b6da2f321ab8e
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\d3\d3641ba76002e44a0537d75605930255
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\d3\d3641ba76002e44a0537d75605930255
+      projectPath: Library\Artifacts\d3\d3641ba76002e44a0537d75605930255
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\d5\d547f50a6e13021b4ebae102bd6dadfd
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\d5\d547f50a6e13021b4ebae102bd6dadfd
+      projectPath: Library\Artifacts\d5\d547f50a6e13021b4ebae102bd6dadfd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\d9\d948563d8f23b2ac661ee4892f208873
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\d9\d948563d8f23b2ac661ee4892f208873
+      projectPath: Library\Artifacts\d9\d948563d8f23b2ac661ee4892f208873
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\de\de95a19f4bb4e35e4fe21c64b430ba48
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\de\de95a19f4bb4e35e4fe21c64b430ba48
+      projectPath: Library\Artifacts\de\de95a19f4bb4e35e4fe21c64b430ba48
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\e0\e0267f44ef55072dcf473285b29e0003
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\e0\e0267f44ef55072dcf473285b29e0003
+      projectPath: Library\Artifacts\e0\e0267f44ef55072dcf473285b29e0003
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\e0\e03c5ef57883bc66be0bddf8e26ff9c0
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\e0\e03c5ef57883bc66be0bddf8e26ff9c0
+      projectPath: Library\Artifacts\e0\e03c5ef57883bc66be0bddf8e26ff9c0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\e0\e044c3a53d40f17261c0f7cd24dfea14
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\e0\e044c3a53d40f17261c0f7cd24dfea14
+      projectPath: Library\Artifacts\e0\e044c3a53d40f17261c0f7cd24dfea14
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\e0\e08e6dcab138d8dbfef023fa6a8902ce
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\e0\e08e6dcab138d8dbfef023fa6a8902ce
+      projectPath: Library\Artifacts\e0\e08e6dcab138d8dbfef023fa6a8902ce
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\e4\e4d56e1dd03246ef57517867740b0a77
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\e4\e4d56e1dd03246ef57517867740b0a77
+      projectPath: Library\Artifacts\e4\e4d56e1dd03246ef57517867740b0a77
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\e5\e5bce54556d830aa8b55395473cc9cdf
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\e5\e5bce54556d830aa8b55395473cc9cdf
+      projectPath: Library\Artifacts\e5\e5bce54556d830aa8b55395473cc9cdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\e6\e61265dbe76c5cc4b5ccd5c9026c408d
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\e6\e61265dbe76c5cc4b5ccd5c9026c408d
+      projectPath: Library\Artifacts\e6\e61265dbe76c5cc4b5ccd5c9026c408d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\e8\e829a46f687b1ef2b76611932a271b3e
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\e8\e829a46f687b1ef2b76611932a271b3e
+      projectPath: Library\Artifacts\e8\e829a46f687b1ef2b76611932a271b3e
+      originalPath: Library\Artifacts\a0\a01adceb3f822ceb1d8738caa09ef8e9
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\ea\ea157fc241605b358e1ced9c61aca5d5
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\ea\ea157fc241605b358e1ced9c61aca5d5
+      projectPath: Library\Artifacts\ea\ea157fc241605b358e1ced9c61aca5d5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\eb\eb34c6e2dc2c8a6bdcea6cad0e959bf0
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\eb\eb34c6e2dc2c8a6bdcea6cad0e959bf0
+      projectPath: Library\Artifacts\eb\eb34c6e2dc2c8a6bdcea6cad0e959bf0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\ec\ecf429b9e1bed88e00d180eaaf8ea6dc
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\ec\ecf429b9e1bed88e00d180eaaf8ea6dc
+      projectPath: Library\Artifacts\ec\ecf429b9e1bed88e00d180eaaf8ea6dc
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\ed\ed0b1ba82c3e7b7494f93f90cfbe8aff
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\ed\ed0b1ba82c3e7b7494f93f90cfbe8aff
+      projectPath: Library\Artifacts\ed\ed0b1ba82c3e7b7494f93f90cfbe8aff
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\ef\ef2ab0b07e00cbcd4643e485589c1d3d
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\ef\ef2ab0b07e00cbcd4643e485589c1d3d
+      projectPath: Library\Artifacts\ef\ef2ab0b07e00cbcd4643e485589c1d3d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\ef\ef8abdb51705994ed5ddac627c975b6d
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\ef\ef8abdb51705994ed5ddac627c975b6d
+      projectPath: Library\Artifacts\ef\ef8abdb51705994ed5ddac627c975b6d
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\f1\f128501b17e2fa7c3eff0f1fb8a8a770
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\f1\f128501b17e2fa7c3eff0f1fb8a8a770
+      projectPath: Library\Artifacts\f1\f128501b17e2fa7c3eff0f1fb8a8a770
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\f6\f639d2fb603700e089c6e7812545fefd
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\f6\f639d2fb603700e089c6e7812545fefd
+      projectPath: Library\Artifacts\f6\f639d2fb603700e089c6e7812545fefd
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\f6\f6a0219e812029e8b4e32eed96d65207
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\f6\f6a0219e812029e8b4e32eed96d65207
+      projectPath: Library\Artifacts\f6\f6a0219e812029e8b4e32eed96d65207
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\f8\f8b645c2818f51673adb5b2b21750a30
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\f8\f8b645c2818f51673adb5b2b21750a30
+      projectPath: Library\Artifacts\f8\f8b645c2818f51673adb5b2b21750a30
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\fb\fb669daec45a7cf979aaac19d77dcaca
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\fb\fb669daec45a7cf979aaac19d77dcaca
+      projectPath: Library\Artifacts\fb\fb669daec45a7cf979aaac19d77dcaca
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\fb\fbd6dad5496d840b4b5298c7335fcda2
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\Artifacts\fb\fbd6dad5496d840b4b5298c7335fcda2
+      projectPath: Library\Artifacts\fb\fbd6dad5496d840b4b5298c7335fcda2
+      originalPath: Library\Artifacts\51\51c6163bfea052521fdca364fb997526
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SceneVisibilityState.asset
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\SceneVisibilityState.asset
+      projectPath: Library\SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\PrefabStageHierarchy\a1\a138eebfbd7d38d3d568adab2d738225.json
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\StateCache\PrefabStageHierarchy\a1\a138eebfbd7d38d3d568adab2d738225.json
+      projectPath: Library\StateCache\PrefabStageHierarchy\a1\a138eebfbd7d38d3d568adab2d738225.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\11\11789e54f3b126f986b81111a4e92699.json
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\StateCache\SceneView\11\11789e54f3b126f986b81111a4e92699.json
+      projectPath: Library\StateCache\SceneView\11\11789e54f3b126f986b81111a4e92699.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\49\497427ab9835d2f7210247bb9aaaaa1c.json
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\StateCache\SceneView\49\497427ab9835d2f7210247bb9aaaaa1c.json
+      projectPath: Library\StateCache\SceneView\49\497427ab9835d2f7210247bb9aaaaa1c.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\62\62dd173067075027e13c936428578688.json
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\StateCache\SceneView\62\62dd173067075027e13c936428578688.json
+      projectPath: Library\StateCache\SceneView\62\62dd173067075027e13c936428578688.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Logs\ApiUpdaterCheck.txt
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Logs\ApiUpdaterCheck.txt
+      projectPath: Logs\ApiUpdaterCheck.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Logs\AssetImportWorker0-prev.log
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Logs\AssetImportWorker0-prev.log
+      projectPath: Logs\AssetImportWorker0-prev.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Logs\AssetImportWorker0.log
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\Logs\AssetImportWorker0.log
+      projectPath: Logs\AssetImportWorker0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+      fullPath: F:\Unity Projects\Blitz_Champz\Blitz Champz\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+      projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: d871c2fa1e0263facbc9a8a5fccf297b14108cbc
     mergeA: 
     mergeB: 

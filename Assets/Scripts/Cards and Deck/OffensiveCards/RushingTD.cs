@@ -11,20 +11,18 @@ public class RushingTD : Card
         
     }
 
-    public new void ShowCard()
-    {
-        //Instantiate(rushingTDPrefab, new Vector3(0, 0, 0), Quaternion.identity).transform.SetParent(handArea.transform, false);
-    }
-
     public new void Play()
     {
-
-    }
-
-
-    private void Awake()
-    {
-        
+        if (Table.myGamePlayer.myTurn)
+        {
+            if(Table.myGamePlayer.table.homeLastPlayed.transform.childCount > 0)
+            {
+                Table.myGamePlayer.table.homeLastPlayed.transform.GetChild(0).transform.SetParent(Table.myGamePlayer.table.homePlayedCards.transform);
+            }
+            this.transform.SetParent(Table.myGamePlayer.table.homeLastPlayed.transform);
+            Table.myGamePlayer.AddPoints(points);
+            AdvanceTurn();
+        }
     }
 
     // Start is called before the first frame update

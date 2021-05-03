@@ -10,13 +10,18 @@ public class Conversion : Card
     {
     }
 
-    public new void ShowCard()
-    {
-    }
-
     public new void Play()
     {
-
+        if (Table.myGamePlayer.myTurn)
+        {
+            if (Table.myGamePlayer.table.homeLastPlayed.transform.childCount > 0)
+            {
+                Table.myGamePlayer.table.homeLastPlayed.transform.GetChild(0).transform.SetParent(Table.myGamePlayer.table.homePlayedCards.transform);
+            }
+            this.transform.SetParent(Table.myGamePlayer.table.homeLastPlayed.transform);
+            Table.myGamePlayer.AddPoints(points);
+            AdvanceTurn();
+        }
     }
 
 
