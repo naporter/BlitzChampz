@@ -13,26 +13,26 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-04-27T17:21:50.336-05:00
-  initializedAtString: 2021-04-27T15:08:59.039-05:00
+  lastUpdatedAtString: 2021-11-09T22:00:19.672-06:00
+  initializedAtString: 2021-11-09T22:00:19.672-06:00
   currentGitRemote:
     name: origin
-    url: https://github.com/naporter/BlitzChampz.git
+    url: https://github.com/nylee620/BlitzChampz_V3_S2.git
     login: 
     user: 
     host: 
     function: 0
     token: 
   currentGitBranch:
-    name: development
-    tracking: origin/development
+    name: iss206
+    tracking: origin/iss206
   currentConfigBranch:
-    name: development
+    name: iss206
     remote:
       name: origin
-      url: https://github.com/naporter/BlitzChampz.git
-    trackingBranch: development
+      url: https://github.com/nylee620/BlitzChampz_V3_S2.git
+    trackingBranch: iss206
   currentConfigRemote:
     name: origin
-    url: https://github.com/naporter/BlitzChampz.git
+    url: https://github.com/nylee620/BlitzChampz_V3_S2.git
   currentHead: 
